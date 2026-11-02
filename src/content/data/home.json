@@ -73,25 +73,28 @@
     "title": "Founding Partners",
     "members": [
       {
-        "name": "Noah",
+        "name": "Noah F. Lillebæk",
         "role": "Founding Partner",
+        "focus": "Investment Systems & Risk",
         "image": {
           "src": "/images/founding-partners/noah.png",
-          "alt": "Noah"
+          "alt": "Noah F. Lillebæk"
         }
       },
       {
-        "name": "Jakob",
+        "name": "Rasmus F. Pallesen",
         "role": "Founding Partner",
+        "focus": "Research & Organisation",
+        "image": null
+      },
+      {
+        "name": "Jakob D. Fisker",
+        "role": "Founding Partner",
+        "focus": "Technology & Data",
         "image": {
           "src": "/images/founding-partners/jakob.png",
-          "alt": "Jakob"
+          "alt": "Jakob D. Fisker"
         }
-      },
-      {
-        "name": "Rasmus",
-        "role": "Founding Partner",
-        "image": null
       }
     ]
   },
