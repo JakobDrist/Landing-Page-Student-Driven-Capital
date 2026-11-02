@@ -4,6 +4,7 @@ import { ButtonLink } from "@/components/ui/button-link";
 import { sectionTitle, leadText } from "@/components/ui/section-heading";
 import { PageHeader } from "@/components/sections/page-header";
 import { Section } from "@/components/sections/section";
+import { EnquiryForm } from "@/features/forms/enquiry-form";
 
 export function PartnershipsPage() {
   return (
@@ -155,26 +156,32 @@ export function PartnershipsPage() {
       </Section>
 
       <Section id="kontakt" className="scroll-mt-20 bg-white">
-        <div className="grid gap-12 lg:grid-cols-[1fr_1.4fr] lg:gap-[10%]">
-          <h2 className={sectionTitle}>{partnerships.contactTitle}</h2>
+        <div className="grid gap-14 lg:grid-cols-[1fr_1.2fr] lg:gap-[10%]">
           <div>
-            <p className={`${leadText} max-w-2xl text-muted`}>
+            <h2 className={sectionTitle}>{partnerships.contactTitle}</h2>
+            <p className={`${leadText} mt-6 max-w-md text-muted`}>
               {partnerships.contactText}
             </p>
-            {partnerships.email ? (
-              <p className="mt-8 text-[19px]">
-                <a
-                  href={`mailto:${partnerships.email}`}
-                  className="underline decoration-ink/30 underline-offset-4 hover:decoration-ink"
-                >
-                  {partnerships.email}
-                </a>
-              </p>
-            ) : (
-              <p className="mt-8 max-w-xl border-t border-line pt-6 text-[15px] leading-[1.6] text-muted">
-                {partnerships.contactNote}
-              </p>
-            )}
+            <p className="mt-8 text-[17px]">
+              <a
+                href={`mailto:${partnerships.email}`}
+                className="underline decoration-ink/30 underline-offset-4 hover:decoration-ink"
+              >
+                {partnerships.email}
+              </a>
+            </p>
+            <p className="mt-3 text-[14px] leading-[1.6] text-muted">
+              {partnerships.contactNote}
+            </p>
+          </div>
+          <div>
+            <p className="mb-8 rounded-[10px] border border-control p-4 text-[15px] leading-6 text-muted">
+              {partnerships.preview}
+            </p>
+            <EnquiryForm
+              definition={partnerships.form}
+              label="Partnerskabsformular — forhåndsvisning"
+            />
           </div>
         </div>
       </Section>
