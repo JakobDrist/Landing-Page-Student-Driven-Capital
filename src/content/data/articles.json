@@ -1,0 +1,3006 @@
+[
+  {
+    "slug": "ostra-joins-calder-health",
+    "href": "/insights/ostra-joins-calder-health",
+    "title": "Ostra joins Calder Health",
+    "category": "News",
+    "date": "November 4, 2025",
+    "description": "Ostra, which helps hospitals find and enrol patients for clinical trials, has been acquired by Calder Health. A note on what the company built.",
+    "byline": "Amira Haddad",
+    "authors": ["amira-haddad"],
+    "cover": {
+      "src": "/images/articles/ostra-joins-calder-health.webp",
+      "alt": ""
+    },
+    "caption": "Photo:Cedric Fauntleroy / Pexels",
+    "coverLabel": "",
+    "body": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Ostra",
+            "href": "/portfolio/ostra"
+          },
+          {
+            "text": " has been acquired by Calder Health. The sale closed this week, and the team in Boston will continue to run the business inside Calder's clinical research division. The terms are private."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "When we first met the founders, the company was three people and a spreadsheet of hospital sites. Their observation was simple. Most clinical trials miss their enrolment targets, and the cause is rarely a shortage of eligible patients. It is that the patients are spread across many hospitals whose records were never designed to be searched for them. A trial would open, a handful of sites would recruit slowly, and the study would run months late at enormous cost."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Ostra built the plumbing to fix that. Its software reads a hospital's records under the hospital's own controls, flags patients who may qualify for a trial, and puts them in front of the right clinician, without the data leaving the hospital. That last point took two years to get right and was the reason hospitals said yes."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "What the team achieved"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "By the time of the sale, Ostra was working with research sites in eleven countries and had helped enrol patients into more than 300 trials. Studies using it typically reached their recruitment targets in about half the time. Those numbers matter less to us than what sits behind them: treatments reaching patients sooner because the trials that tested them finished on time."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We backed Ostra early, from Fund III, and invested again in each of its later rounds. It was not a straight line. In its third year the company lost its largest customer and had to rebuild its sales approach almost from scratch. The founders did that without losing a single member of their engineering team, which told us a good deal about how they ran the place."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Calder Health has the reach into pharmaceutical research that Ostra would have taken another decade to build alone. We think it is a good home, and we are proud to have backed the company from the start."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Our thanks to the founders, to everyone who worked at Ostra, and to the hospitals that trusted it early."
+          }
+        ]
+      }
+    ],
+    "related": [
+      "q3-2026-letter",
+      "the-long-first-cheque",
+      "board-meetings-that-help"
+    ],
+    "previous": {
+      "label": "Announcing Fund V",
+      "href": "/insights/announcing-fund-five"
+    },
+    "next": {
+      "label": "Annual letter, 2025",
+      "href": "/insights/annual-letter-2025"
+    }
+  },
+  {
+    "slug": "q2-2026-letter",
+    "href": "/insights/q2-2026-letter",
+    "title": "Second-quarter letter, 2026",
+    "category": "Investor letters",
+    "date": "July 9, 2026",
+    "description": "Our letter to the partners in our funds for the second quarter of 2026: two new Fund V investments, early results at Amperra and Kiln, and where Fund III stands after Ostra.",
+    "byline": "Grant Holloway and Sofia Ortega",
+    "authors": ["grant-holloway", "sofia-ortega"],
+    "cover": {
+      "src": "/images/articles/q2-2026-letter.webp",
+      "alt": ""
+    },
+    "caption": "",
+    "coverLabel": "Investor lettersQ2 2026",
+    "body": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Dear partners,"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "This was a steady quarter. Fund V made two new investments, the companies we backed in 2025 began to show what they can do, and there was nothing to report from the exit market that would change our view of any fund."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "The quarter in brief"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Fund V ended June with nine companies. Both of this quarter's investments were seed rounds, one in health and one in industrials, and both founders have asked us to wait until the autumn before naming them. Fund V called 7 per cent of commitments in the quarter, taking total calls to 18 per cent."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Full fund figures as of 30 June will be in the quarterly reports later this month. In short, marks across Funds II to IV moved by less than 2 per cent in either direction. We would rather report a dull quarter than a lively one built on a single priced round."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Portfolio"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Amperra",
+            "href": "/portfolio/amperra"
+          },
+          {
+            "text": " writes the software that lets a utility treat thousands of home batteries, heat pumps and car chargers as one dispatchable plant. When we led its seed round last year it had one utility customer in a pilot. It now has three under contract, and in May it ran its first full dispatch during an evening peak, holding 41 megawatts of household demand off the grid for two hours. Contracts of this kind take a long time to sign. They are also very hard to cancel once the utility has built its operations around them."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Kiln",
+            "href": "/portfolio/kiln"
+          },
+          {
+            "text": " makes a cement whose production releases a fraction of the carbon of the conventional product. Its pilot line produced its first full batches in April, and in June those batches passed independent compressive-strength testing at 28 days, the standard any structural engineer will ask about first. The next step is a building-scale pour with a contractor, which the company expects to complete before the end of the year."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Neither company will need new capital before 2027. We have reserves set aside for both."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Distributions"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "There were no distributions in the second quarter."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Fund III's DPI stands at 0.7x. Most of the movement came in December, when we distributed the proceeds from the sale of "
+          },
+          {
+            "text": "Ostra",
+            "href": "/portfolio/ostra"
+          },
+          {
+            "text": " to Calder Health, which closed last year. Those proceeds took Fund III from 0.4x to 0.7x in a single quarter. A smaller amount held in escrow under the sale agreement is due for release in 2027 and will be distributed when we receive it."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Fund III still holds most of its value in private companies. Ostra returned cash early, but the fund's outcome will be decided by the companies that remain, and we expect distributions from it to be uneven over the next four years."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Fund V"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Including reserves, about 30 per cent of Fund V is now invested or committed. That is slightly ahead of the pace we set out when we raised it, mostly because our climate and industrial companies need more capital to reach their next milestones than software companies do. We expect the pace to even out over the next year."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Looking ahead"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We expect two of our Fund IV companies to raise in the second half. We will write about both in the next letter. As always, "
+          },
+          {
+            "text": "Owen Brooks",
+            "href": "/team/owen-brooks"
+          },
+          {
+            "text": " is the first person to contact with questions about this letter or your reports."
+          }
+        ]
+      }
+    ],
+    "related": [
+      "q3-2026-letter",
+      "the-long-first-cheque",
+      "board-meetings-that-help"
+    ],
+    "previous": {
+      "label": "Boring software, durable companies",
+      "href": "/insights/boring-software-durable-companies"
+    },
+    "next": {
+      "label": "Running a board meeting that helps you",
+      "href": "/insights/board-meetings-that-help"
+    }
+  },
+  {
+    "slug": "board-meetings-that-help",
+    "href": "/insights/board-meetings-that-help",
+    "title": "Running a board meeting that helps you",
+    "category": "Playbooks",
+    "date": "August 12, 2026",
+    "description": "A practical guide for founders to board meetings that earn their time: the pre-read, the agenda, how to reach decisions, and how often to meet.",
+    "byline": "Nadia Mensah and Lena Fischer",
+    "authors": ["nadia-mensah", "lena-fischer"],
+    "cover": {
+      "src": "/images/articles/board-meetings-that-help.webp",
+      "alt": ""
+    },
+    "caption": "Photo:Sora Shimazaki / Pexels",
+    "coverLabel": "",
+    "body": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Most founders inherit their first board meeting rather than design it. An investor joins, a date goes in the diary, and the founder spends a week building slides that recount the last quarter to people who could have read it in ten minutes. The meeting runs long, nothing gets decided, and everyone leaves a little more tired than they arrived."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "It does not need to be like that. Between us we have sat in well over a thousand board meetings, and the good ones share a few habits. None of them are complicated."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Send the pre-read, and mean it"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The single most useful change most companies can make is to move the reporting out of the meeting."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Send a written pre-read at least three working days before the meeting. It should cover the numbers, what went well, what did not, and the questions you want the board to help with. Write it in prose where you can. A paragraph forces you to say what a chart only implies."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Then assume it has been read. Do not present it again. If a director has not done the reading, that is their problem to fix, and most will fix it quickly once they notice the meeting does not wait for them."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "A good pre-read usually runs to six to ten pages. Longer than that, and you are hiding the important parts."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Build the agenda around decisions"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "An agenda that lists departments (\"Sales\", \"Product\", \"Finance\") invites a tour. An agenda built around questions invites help."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We suggest an order like this:"
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "ordered": true,
+        "items": [
+          [
+            {
+              "text": "Questions on the pre-read, kept to fifteen minutes."
+            }
+          ],
+          [
+            {
+              "text": "One or two strategic topics the founder has chosen, each framed as a question the board can answer."
+            }
+          ],
+          [
+            {
+              "text": "Decisions that need a formal board vote, such as option grants, budgets and financing."
+            }
+          ],
+          [
+            {
+              "text": "A closed session with the independent and investor directors, then a short one with the founder alone."
+            }
+          ]
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The second item is where the value sits. Give it at least half the meeting. Choose topics where the board knows something you do not, or where you want to test a view before committing to it: whether to enter a new country, when to hire a chief financial officer, how to price a new product line."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Make decisions visible"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Founders often leave a meeting unsure what was agreed. So do directors. Fix that before anyone stands up."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "At the end of each topic, say out loud what was decided, who owns it and by when. Write it down. Send those notes within a day, and open the next pre-read with an update on each one. It sounds bureaucratic. In practice it takes five minutes and saves a great deal of confusion three months later."
+          }
+        ]
+      },
+      {
+        "kind": "quote",
+        "runs": [
+          {
+            "text": "If a decision is not written down, it will be remade, usually in a worse meeting."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Be clear, too, about which topics need a decision and which you only want views on. Directors behave differently when they know which is which."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Choose a cadence that fits the stage"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "There is no right frequency for every company, but there are some reasonable defaults:"
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "ordered": false,
+        "items": [
+          [
+            {
+              "text": "Seed:",
+              "bold": true
+            },
+            {
+              "text": " every two months, with a short written update in the months between."
+            }
+          ],
+          [
+            {
+              "text": "Series A and B:",
+              "bold": true
+            },
+            {
+              "text": " quarterly, with a monthly update and the occasional call when something important changes."
+            }
+          ],
+          [
+            {
+              "text": "Later stages:",
+              "bold": true
+            },
+            {
+              "text": " quarterly, with committees for audit and pay doing more of the detailed work."
+            }
+          ]
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "What matters more than frequency is that the meetings are predictable. Set the dates for the year in January. Directors will protect dates they have known about for months, and you will stop spending energy chasing diaries."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "An example"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "When "
+          },
+          {
+            "text": "Payfield",
+            "href": "/portfolio/payfield"
+          },
+          {
+            "text": " was preparing for its Series C, its board meetings had become long reviews of a growing set of metrics across forty countries. The founders were spending the better part of two weeks on each one."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "They made three changes. They moved every metric into a written pre-read with a one-page summary at the front. They limited each meeting to two strategic questions, chosen by the chief executive. And they began sending decision notes the next morning."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Meetings went from four hours to two. Preparation went from two weeks to three days. The board spent its time on the decisions that shaped the next two years, among them which countries to stop selling into, which is the kind of question a board is for."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "What the board owes you"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "All of this asks something of the founder. It should ask something of the directors too. A good board member reads the pre-read, comes with questions, keeps confidences, and makes themselves available between meetings when it matters. If yours do not, tell them. Most will welcome the feedback, and the rest are worth knowing about."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Lena's platform team has templates for the pre-read and decision notes, and any company in our "
+          },
+          {
+            "text": "portfolio",
+            "href": "#"
+          },
+          {
+            "text": " can ask for them."
+          }
+        ]
+      }
+    ],
+    "related": ["q3-2026-letter", "the-long-first-cheque", "q2-2026-letter"],
+    "previous": {
+      "label": "Second-quarter letter, 2026",
+      "href": "/insights/q2-2026-letter"
+    },
+    "next": {
+      "label": "The case for the long first cheque",
+      "href": "/insights/the-long-first-cheque"
+    }
+  },
+  {
+    "slug": "q3-2026-letter",
+    "href": "/insights/q3-2026-letter",
+    "title": "Third-quarter letter, 2026",
+    "category": "Investor letters",
+    "date": "October 8, 2026",
+    "description": "Our letter to the partners in our funds for the third quarter of 2026: two new commitments, a partial sale of Payfield, and progress at Albedo and Juniper.",
+    "byline": "Grant Holloway and Sofia Ortega",
+    "authors": ["grant-holloway", "sofia-ortega"],
+    "cover": {
+      "src": "/images/articles/q2-2026-letter.webp",
+      "alt": ""
+    },
+    "caption": "",
+    "coverLabel": "Investor lettersQ3 2026",
+    "body": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Dear partners,"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The third quarter was quieter than the second for new investment and busier for the companies already in the portfolio. Most of our time went on follow-on rounds, one partial sale and the ordinary work of board seats."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "The quarter in brief"
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "ordered": false,
+        "items": [
+          [
+            {
+              "text": "Fund V committed to two new companies, bringing it to eleven. We will name them when their founders announce the rounds."
+            }
+          ],
+          [
+            {
+              "text": "We sold part of our holding in Payfield alongside the company's latest round. The proceeds will reach Fund III partners in the fourth quarter."
+            }
+          ],
+          [
+            {
+              "text": "Albedo and Juniper, both 2026 investments, each passed a milestone we set when we invested."
+            }
+          ],
+          [
+            {
+              "text": "Fund V called 5 per cent of commitments, taking total calls to 23 per cent. There were no calls for Funds I to IV."
+            }
+          ]
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Fund figures"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Valuations below are as of 30 June 2026, the latest quarter-end for which marks are complete. Figures for 30 September will be in the quarterly reports we send in November."
+          }
+        ]
+      },
+      {
+        "kind": "table",
+        "rows": [
+          [
+            [
+              {
+                "text": "Fund"
+              }
+            ],
+            [
+              {
+                "text": "Vintage"
+              }
+            ],
+            [
+              {
+                "text": "Size"
+              }
+            ],
+            [
+              {
+                "text": "TVPI"
+              }
+            ],
+            [
+              {
+                "text": "DPI"
+              }
+            ],
+            [
+              {
+                "text": "Net IRR"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "text": "Fund I"
+              }
+            ],
+            [
+              {
+                "text": "2012"
+              }
+            ],
+            [
+              {
+                "text": "$85M"
+              }
+            ],
+            [
+              {
+                "text": "4.8x"
+              }
+            ],
+            [
+              {
+                "text": "4.6x"
+              }
+            ],
+            [
+              {
+                "text": "27%"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "text": "Fund II"
+              }
+            ],
+            [
+              {
+                "text": "2015"
+              }
+            ],
+            [
+              {
+                "text": "$180M"
+              }
+            ],
+            [
+              {
+                "text": "3.9x"
+              }
+            ],
+            [
+              {
+                "text": "2.1x"
+              }
+            ],
+            [
+              {
+                "text": "24%"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "text": "Fund III"
+              }
+            ],
+            [
+              {
+                "text": "2018"
+              }
+            ],
+            [
+              {
+                "text": "$320M"
+              }
+            ],
+            [
+              {
+                "text": "2.6x"
+              }
+            ],
+            [
+              {
+                "text": "0.7x"
+              }
+            ],
+            [
+              {
+                "text": "22%"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "text": "Fund IV"
+              }
+            ],
+            [
+              {
+                "text": "2021"
+              }
+            ],
+            [
+              {
+                "text": "$480M"
+              }
+            ],
+            [
+              {
+                "text": "1.4x"
+              }
+            ],
+            [
+              {
+                "text": "0.1x"
+              }
+            ],
+            [
+              {
+                "text": "n/m"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "text": "Fund V"
+              }
+            ],
+            [
+              {
+                "text": "2025"
+              }
+            ],
+            [
+              {
+                "text": "$650M"
+              }
+            ],
+            [
+              {
+                "text": "n/m"
+              }
+            ],
+            [
+              {
+                "text": "n/m"
+              }
+            ],
+            [
+              {
+                "text": "n/m"
+              }
+            ]
+          ]
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We begin reporting net IRR two years after a fund is fully invested, when the number says more about the companies than about the timing of capital calls. Fund IV finished investing last year, so its IRR will first appear in 2027. Fund V is too young for multiples that would mostly reflect the price of recent rounds."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Portfolio"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Payfield.",
+            "bold": true
+          },
+          {
+            "text": " We first invested in "
+          },
+          {
+            "text": "Payfield",
+            "href": "/portfolio/payfield"
+          },
+          {
+            "text": " at its Series B in 2020, from Fund III. The company now runs payroll for employers in 40 countries and has been profitable for six quarters. In August it raised a new round led by a growth investor, and we sold roughly a quarter of our shares at the round price."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "This was a portfolio decision more than a view on the company. Payfield had grown to almost a fifth of Fund III's net asset value, and Fund III is in its ninth year. We think the company has a long way still to run, which is why we kept three-quarters of the position. We also think partners in a fund of that age are owed some of the gain in cash. We expect the sale to add about 0.12x to Fund III's DPI once distributed."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Albedo.",
+            "bold": true
+          },
+          {
+            "text": " We led "
+          },
+          {
+            "text": "Albedo",
+            "href": "/portfolio/albedo"
+          },
+          {
+            "text": "'s Series A in March. The company measures carbon removal from orbit, so that buyers of removal credits can check what they paid for without relying on the seller's own figures. Its first two instruments launched on a shared mission in July. Over the quarter, their readings over three forest and soil sites matched ground measurements within the error range the team had committed to before the launch. That was the milestone we cared about most. Two credit registries have since begun paid pilots."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Juniper.",
+            "bold": true
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Juniper",
+            "href": "/portfolio/juniper"
+          },
+          {
+            "text": ", a seed investment from February, screens instant payments for fraud in the fraction of a second before they settle. It went live with its first bank in July and signed a second in September. The hard part of this product is the false-positive rate, since a bank will switch off any system that blocks too many honest payments. Juniper's rate at the first bank has stayed below the level the bank set as its condition for a full rollout."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Elsewhere, two Fund IV companies raised extensions led by existing investors, including us. One Fund III company wound down in August after a sale process failed. Our remaining cost in it was small, and the write-off was already reflected in the June marks."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Distributions"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We made one distribution in the quarter, a small escrow release from an earlier Fund II sale. The Payfield proceeds will follow in November, once the transaction settles."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Fund V"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Fund V now holds eleven companies. With reserves set aside for each, roughly 38 per cent of the fund is invested or committed. We expect to make between four and six further new investments over the next twelve months."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Looking ahead"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Our annual meeting is in London on 19 November. Clara Novak and Amira Haddad will talk through the climate and health portfolios, and Sofia will take questions on fund accounts. "
+          },
+          {
+            "text": "Owen Brooks",
+            "href": "/team/owen-brooks"
+          },
+          {
+            "text": " will send details this month, and he remains the first person to contact with any question in the meantime."
+          }
+        ]
+      }
+    ],
+    "related": [
+      "the-long-first-cheque",
+      "board-meetings-that-help",
+      "q2-2026-letter"
+    ],
+    "previous": {
+      "label": "The case for the long first cheque",
+      "href": "/insights/the-long-first-cheque"
+    },
+    "next": null
+  },
+  {
+    "slug": "the-grid-is-the-bottleneck",
+    "href": "/insights/the-grid-is-the-bottleneck",
+    "title": "The grid is the bottleneck",
+    "category": "Essays",
+    "date": "May 20, 2026",
+    "description": "Clean power is now cheap to build and slow to connect. Why our climate investing has shifted towards storage, grid software and the industries that must plug in.",
+    "byline": "Clara Novak and Hana Weber",
+    "authors": ["clara-novak", "hana-weber"],
+    "cover": {
+      "src": "/images/articles/the-grid-is-the-bottleneck.webp",
+      "alt": ""
+    },
+    "caption": "Photo:Mikhail Nilov / Pexels",
+    "coverLabel": "",
+    "body": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Ten years ago, the hard question in climate investing was whether clean power could compete on price. That question is largely settled. In much of Europe and North America, a new solar or wind farm is now the cheapest source of electricity anyone can build."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The hard question now is whether anyone can plug it in."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "The queue"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Every new generator, battery or large factory that wants to connect to the grid joins a queue. The network operator studies what the connection will do to the system, decides what upgrades are needed and who pays for them, and eventually offers a date. In several of the markets we invest in, that date is now five to ten years away."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The queues are long for ordinary reasons. Transmission lines take a decade to permit and build. The studies are done project by project, often by small teams using tools designed for a grid with a few hundred large power stations rather than tens of thousands of small ones. And a large share of the projects in any queue are speculative, so engineers spend months studying connections that will never be built."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The result is a strange kind of shortage. There is plenty of capital for clean generation and plenty of cheap equipment."
+          }
+        ]
+      },
+      {
+        "kind": "quote",
+        "runs": [
+          {
+            "text": "What is scarce is permission to connect, and the physical capacity of the wires."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Storage makes the existing wires go further"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "If new lines take a decade, the next best thing is to get more out of the lines we already have. Storage is the most direct way to do that."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "A battery placed at the right point on the network can soak up power when a line is full and release it when there is room. Short-duration batteries do this over a few hours, and they are now a commodity. The harder and more valuable problem is storage that runs for days, covering the windless weeks of a northern winter."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "That is what "
+          },
+          {
+            "text": "Tidewater",
+            "href": "/portfolio/tidewater"
+          },
+          {
+            "text": " builds. When we first invested, long-duration storage was a research topic with a handful of pilots. Tidewater is now a listed company in Oslo with an order book that has doubled since its listing, much of it from network operators who see storage as cheaper and faster than new transmission. We did not foresee how central the queue would become to its sales pitch. It has."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Software is the cheapest new capacity"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The other way to get more out of the grid is to make demand behave."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Millions of homes now have a battery, a heat pump, an electric car or all three. Each one is small. Together they are a power station that nobody dispatches. If a utility could ask a hundred thousand of them to charge a little earlier or heat a little later, it could shave the evening peak that decides how much network it needs to build."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Amperra",
+            "href": "/portfolio/amperra"
+          },
+          {
+            "text": " writes the software that does this, under contract to utilities and with the household's agreement. It costs a fraction of a new substation and can be deployed in months. We think software of this kind, along with better tools for the network operators themselves, will add more usable capacity to the grid this decade than any single type of hardware."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Industry has to plug in too"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Heavy industry is the other half of the problem. A great deal of decarbonisation depends on replacing furnaces and kilns that burn fuel with processes that run on electricity. Each of those plants needs a large grid connection, and each joins the same queue."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "That has changed how we assess industrial companies. When we looked at "
+          },
+          {
+            "text": "Kiln",
+            "href": "/portfolio/kiln"
+          },
+          {
+            "text": ", which makes low-carbon cement, the chemistry was the first question. The second was where it could build plants, and how quickly those sites could get power. Kiln's founders had already mapped which regions had spare capacity on existing lines, and that work is now one of the reasons we expect its first commercial plant to be built on time."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Not every climate company we back depends on the grid. "
+          },
+          {
+            "text": "Fernway",
+            "href": "/portfolio/fernway"
+          },
+          {
+            "text": ", which traces timber from the forest to the building site, is one that does not. But timber that can be proven legal and well managed is part of the same story: it replaces some of the steel and concrete whose production needs so much power in the first place."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Where we are looking"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We are spending most of our time in a few areas:"
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "ordered": false,
+        "items": [
+          [
+            {
+              "text": "tools that help network operators study and approve connections faster"
+            }
+          ],
+          [
+            {
+              "text": "storage that runs for longer than a few hours"
+            }
+          ],
+          [
+            {
+              "text": "software that turns household and commercial demand into something a grid can plan around"
+            }
+          ],
+          [
+            {
+              "text": "industrial processes designed with their grid connection in mind from the start"
+            }
+          ]
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "If you are building in any of these, Clara and Hana would like to hear from you. Our "
+          },
+          {
+            "text": "pitch page",
+            "href": "/pitch"
+          },
+          {
+            "text": " explains how to reach us."
+          }
+        ]
+      }
+    ],
+    "related": [
+      "q3-2026-letter",
+      "the-long-first-cheque",
+      "board-meetings-that-help"
+    ],
+    "previous": {
+      "label": "What we look for in a founding team",
+      "href": "/insights/what-we-look-for-in-a-founding-team"
+    },
+    "next": {
+      "label": "Boring software, durable companies",
+      "href": "/insights/boring-software-durable-companies"
+    }
+  },
+  {
+    "slug": "annual-letter-2025",
+    "href": "/insights/annual-letter-2025",
+    "title": "Annual letter, 2025",
+    "category": "Investor letters",
+    "date": "January 22, 2026",
+    "description": "Our annual letter to the partners in our funds: closing Fund V, the sale of Ostra, Tidewater's first year as a public company, and the first five Fund V investments.",
+    "byline": "Nadia Mensah and Theo Marchetti",
+    "authors": ["nadia-mensah", "theo-marchetti"],
+    "cover": {
+      "src": "/images/articles/q2-2026-letter.webp",
+      "alt": ""
+    },
+    "caption": "",
+    "coverLabel": "Investor letters2025",
+    "body": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Dear partners,"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "A year ago we wrote that 2025 would be mostly about raising Fund V and spending time with the companies we already had. That turned out to be roughly right. We closed the fund faster than we expected, returned more cash than in any year since 2021, and made fewer new investments than in a typical year, by choice."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "The year in brief"
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "ordered": false,
+        "items": [
+          [
+            {
+              "text": "Fund V held its first close in February and its final close in April, at its $650 million cap."
+            }
+          ],
+          [
+            {
+              "text": "Fund IV made its last new investment in June and is now fully invested, with 34 companies."
+            }
+          ],
+          [
+            {
+              "text": "Ostra was sold to Calder Health in November, and the proceeds reached Fund III partners in December."
+            }
+          ],
+          [
+            {
+              "text": "Tidewater completed its first full year as a public company, and we distributed part of our holding to Fund II partners."
+            }
+          ],
+          [
+            {
+              "text": "Fund V made its first five investments, three of which are announced."
+            }
+          ]
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Fund V"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We set out to raise $600 million and capped the fund at $650 million. The first close in February came to $430 million, almost all of it from partners in earlier funds. The final close followed in April. Eleven new partners joined, most of them foundations and family offices who had followed us for a fund or two before committing."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We turned away about $200 million of demand. A larger fund would have changed how we invest, and we wrote in "
+          },
+          {
+            "text": "our announcement",
+            "href": "/insights/announcing-fund-five"
+          },
+          {
+            "text": " that we did not want it to."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "By the end of the year, Fund V had called 6 per cent of commitments."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Exits and distributions"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Ostra.",
+            "bold": true
+          },
+          {
+            "text": " Calder Health completed its acquisition of "
+          },
+          {
+            "text": "Ostra",
+            "href": "/portfolio/ostra"
+          },
+          {
+            "text": " in November. Ostra helps hospitals find and enrol patients for clinical trials, and by the time of the sale it was working with sites in eleven countries. Amira Haddad wrote about the company "
+          },
+          {
+            "text": "at the time of the sale",
+            "href": "/insights/ostra-joins-calder-health"
+          },
+          {
+            "text": ". For Fund III, the result was the largest cash return in the fund's history so far. It took the fund's DPI from 0.4x to 0.7x. A smaller amount remains in escrow until 2027."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Tidewater.",
+            "bold": true
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Tidewater",
+            "href": "/portfolio/tidewater"
+          },
+          {
+            "text": " listed in Oslo in 2024, and 2025 was its first full year as a public company. It delivered two long-duration storage projects on schedule and ended the year with a contracted order book roughly twice the size it had at listing. The share price was volatile but finished the year about 30 per cent above the listing price."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "When the lock-up ended in the spring, we distributed half of Fund II's shares to its partners in kind. We kept the other half. We think the company is still early in what it can become, and Fund II, at 2.1x DPI, has already returned its capital twice over. Owning some of the shares directly is a reasonable way for its partners to share that view, or not, as each sees fit."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "New investments"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Fund V made five new investments in 2025. Three are public."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Priora",
+            "href": "/portfolio/priora"
+          },
+          {
+            "text": " automates prior authorisation, the process by which a doctor must seek an insurer's approval before treatment. It is slow, mostly handled by fax and phone, and responsible for a great many delayed treatments. We led the pre-seed round in March."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Kiln",
+            "href": "/portfolio/kiln"
+          },
+          {
+            "text": " produces low-carbon cement. Cement accounts for a large share of the world's industrial emissions, and most alternatives fail on cost or on the strength tests that engineers rely on. Kiln's approach passed the first of those tests in the lab before we invested. We led its seed round in July."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Amperra",
+            "href": "/portfolio/amperra"
+          },
+          {
+            "text": " builds software that lets utilities run home batteries, heat pumps and chargers as a single virtual power plant. We led the seed round in September, after following the founders for two years."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The other two will be announced by their founders in the first half of this year."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Fund figures"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "As of 31 December 2025."
+          }
+        ]
+      },
+      {
+        "kind": "table",
+        "rows": [
+          [
+            [
+              {
+                "text": "Fund"
+              }
+            ],
+            [
+              {
+                "text": "Vintage"
+              }
+            ],
+            [
+              {
+                "text": "Size"
+              }
+            ],
+            [
+              {
+                "text": "Status"
+              }
+            ],
+            [
+              {
+                "text": "TVPI"
+              }
+            ],
+            [
+              {
+                "text": "DPI"
+              }
+            ],
+            [
+              {
+                "text": "Net IRR"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "text": "Fund I"
+              }
+            ],
+            [
+              {
+                "text": "2012"
+              }
+            ],
+            [
+              {
+                "text": "$85M"
+              }
+            ],
+            [
+              {
+                "text": "Fully realised"
+              }
+            ],
+            [
+              {
+                "text": "4.8x"
+              }
+            ],
+            [
+              {
+                "text": "4.6x"
+              }
+            ],
+            [
+              {
+                "text": "27%"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "text": "Fund II"
+              }
+            ],
+            [
+              {
+                "text": "2015"
+              }
+            ],
+            [
+              {
+                "text": "$180M"
+              }
+            ],
+            [
+              {
+                "text": "Harvesting"
+              }
+            ],
+            [
+              {
+                "text": "3.8x"
+              }
+            ],
+            [
+              {
+                "text": "2.1x"
+              }
+            ],
+            [
+              {
+                "text": "24%"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "text": "Fund III"
+              }
+            ],
+            [
+              {
+                "text": "2018"
+              }
+            ],
+            [
+              {
+                "text": "$320M"
+              }
+            ],
+            [
+              {
+                "text": "Harvesting"
+              }
+            ],
+            [
+              {
+                "text": "2.5x"
+              }
+            ],
+            [
+              {
+                "text": "0.7x"
+              }
+            ],
+            [
+              {
+                "text": "21%"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "text": "Fund IV"
+              }
+            ],
+            [
+              {
+                "text": "2021"
+              }
+            ],
+            [
+              {
+                "text": "$480M"
+              }
+            ],
+            [
+              {
+                "text": "Fully invested"
+              }
+            ],
+            [
+              {
+                "text": "1.3x"
+              }
+            ],
+            [
+              {
+                "text": "0.1x"
+              }
+            ],
+            [
+              {
+                "text": "n/m"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "text": "Fund V"
+              }
+            ],
+            [
+              {
+                "text": "2025"
+              }
+            ],
+            [
+              {
+                "text": "$650M"
+              }
+            ],
+            [
+              {
+                "text": "Investing"
+              }
+            ],
+            [
+              {
+                "text": "n/m"
+              }
+            ],
+            [
+              {
+                "text": "n/m"
+              }
+            ],
+            [
+              {
+                "text": "n/m"
+              }
+            ]
+          ]
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Fund IV's marks held roughly flat through the year. Most of its companies raised their last rounds in 2021 and 2022, and many have since grown into those prices. A few have not, and we marked them down in the first half."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "What we got wrong"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Two things stand out."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We were slow to cut our reserves for two Fund IV companies whose progress had stalled. In both cases we kept money set aside for a recovery that did not come, which tied up capital that could have gone to stronger companies in the same fund. We have since tightened our annual reserve review, so that any company more than a year behind its plan has its allocation reset rather than carried forward."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We also underestimated how long Fund V's first close would take to administer. Several new partners waited too long for their documents, and that was our fault. Sofia Ortega has since brought fund administration in-house for Fund V."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Looking ahead"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Fund V will make most of its new investments over the next three years. We expect between eight and ten this year, roughly evenly split between seed and Series A, and between Europe and North America."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "For Funds II and III, the priority is liquidity. We will not sell good companies early to hit a number, but where a sensible secondary is available we will consider it, and we will tell you when we do."
+          }
+        ]
+      }
+    ],
+    "related": [
+      "q3-2026-letter",
+      "the-long-first-cheque",
+      "board-meetings-that-help"
+    ],
+    "previous": {
+      "label": "Ostra joins Calder Health",
+      "href": "/insights/ostra-joins-calder-health"
+    },
+    "next": {
+      "label": "The first eighteen months after a seed round",
+      "href": "/insights/the-first-eighteen-months"
+    }
+  },
+  {
+    "slug": "what-we-look-for-in-a-founding-team",
+    "href": "/insights/what-we-look-for-in-a-founding-team",
+    "title": "What we look for in a founding team",
+    "category": "Essays",
+    "date": "March 10, 2026",
+    "description": "At seed and Series A we are mostly backing people. The qualities we have learned to look for in a founding team, and a few we have learned to discount.",
+    "byline": "Grant Holloway and Kwame Asante",
+    "authors": ["grant-holloway", "kwame-asante"],
+    "cover": {
+      "src": "/images/articles/what-we-look-for-in-a-founding-team.webp",
+      "alt": ""
+    },
+    "caption": "Photo:Walls.io / Pexels",
+    "coverLabel": "",
+    "body": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "At the seed stage there is usually not much to analyse. There may be a prototype, a few customers in a pilot, a spreadsheet with more assumptions than numbers. What there always is, is a team. Most of our decision rests on them."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Over fourteen years and five funds, we have got better at knowing what to look for. We have also learned to distrust some things that used to impress us. Here is where we have landed."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "They know the problem from the inside"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The founders we back most often have spent years close to the problem they are solving. They have run the warehouse, filed the insurance claims, sat in the plant control room at three in the morning. They know which parts of the job are painful and which merely look painful from outside."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "This matters more in our sectors than in most. Industrial buyers, hospitals and banks do not buy from people who do not understand their work. A founder who has done the job gets the first meeting, and knows what to ask in it."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "It is not a strict rule. Some of the best founders we know came from outside their industry and saw what insiders had stopped noticing. But they had all done the work of learning it properly before they asked anyone for money."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "They have decided how to decide"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Every founding team disagrees. What we want to know is what happens next."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "So we ask. Who has the final word on product? On hiring? On whether to raise? What happened the last time you disagreed about something that mattered? The answers do not need to be elegant. They need to be the same from each founder, asked separately."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Teams that have never had a real disagreement worry us more than teams that have had a bad one and can describe how they settled it."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "They change their minds for good reasons"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We spend a lot of time pushing back on the plan in early meetings, and not because we think we know the business better. We want to see how founders take new information."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The pattern we look for is specific. A good founder holds firm on the parts of the plan they have tested and moves quickly on the parts they have not. They can tell us which is which."
+          }
+        ]
+      },
+      {
+        "kind": "quote",
+        "runs": [
+          {
+            "text": "A founder who concedes everything is as worrying as one who concedes nothing."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "They can recruit"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "A seed-stage company is, more than anything, a recruiting operation. The founders' first job is to persuade talented people to take a pay cut and join something that may not exist in two years."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We ask who the first five hires will be, and whether the founders already know them. The strongest teams usually do. They have a list of names, and some of those people have already said yes, pending the round."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "What we have learned to discount"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Some signals we used to weigh heavily, and now weigh less:"
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "ordered": false,
+        "items": [
+          [
+            {
+              "text": "Polish.",
+              "bold": true
+            },
+            {
+              "text": " A sharp deck and a smooth pitch tell us a founder is good at pitching. That is useful, but it is a small part of the job."
+            }
+          ],
+          [
+            {
+              "text": "Pedigree.",
+              "bold": true
+            },
+            {
+              "text": " Well-known employers and universities are a weak signal, and lean on them too hard and you end up backing the same kind of person repeatedly."
+            }
+          ],
+          [
+            {
+              "text": "Speed of reply.",
+              "bold": true
+            },
+            {
+              "text": " Fast answers to our emails say little. Thoughtful answers to hard questions say a lot."
+            }
+          ],
+          [
+            {
+              "text": "Certainty.",
+              "bold": true
+            },
+            {
+              "text": " Founders who are certain about everything at the seed stage are usually wrong about something important."
+            }
+          ]
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "What this means if you are pitching us"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "You do not need to prepare a performance. Tell us what you know about the problem that others do not, how you work together, and who you plan to hire. Expect us to disagree with parts of your plan, and to listen when you disagree back."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Our "
+          },
+          {
+            "text": "pitch page",
+            "href": "/pitch"
+          },
+          {
+            "text": " explains how to get in touch."
+          }
+        ]
+      }
+    ],
+    "related": [
+      "q3-2026-letter",
+      "the-long-first-cheque",
+      "board-meetings-that-help"
+    ],
+    "previous": {
+      "label": "The first eighteen months after a seed round",
+      "href": "/insights/the-first-eighteen-months"
+    },
+    "next": {
+      "label": "The grid is the bottleneck",
+      "href": "/insights/the-grid-is-the-bottleneck"
+    }
+  },
+  {
+    "slug": "the-long-first-cheque",
+    "href": "/insights/the-long-first-cheque",
+    "title": "The case for the long first cheque",
+    "category": "Essays",
+    "date": "September 16, 2026",
+    "description": "Why we write fewer, larger first cheques, hold back more than half of each fund for follow-ons, and accept the slower pace that comes with both.",
+    "byline": "Theo Marchetti",
+    "authors": ["theo-marchetti"],
+    "cover": {
+      "src": "/images/articles/q2-2026-letter.webp",
+      "alt": ""
+    },
+    "caption": "Photo:Tima Miroshnichenko / Pexels",
+    "coverLabel": "",
+    "body": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Every fund we have raised has held roughly the same number of companies. Fund I, at $85 million, backed 24. Fund IV, at $480 million, backed 34. The funds grew more than fivefold and the portfolio barely moved. That is deliberate, and worth explaining."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "What we mean by a long first cheque"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "When we lead a seed or Series A round, we aim to own between 12 and 20 per cent of the company afterwards. We write that cheque expecting to write two or three more. For a typical company, the first cheque is between a third and a half of what we expect to invest over its life."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "So the cheque is long in two senses. It is large enough to matter on day one, and it is written by people who expect to hold it for a decade. Fund I sold its last holding eleven years after its first investment."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "The arithmetic of ownership"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Venture returns come from a handful of companies. In Fund I, three companies returned more than the other twenty-one put together. The question is how much of those few you own when they turn out to be the ones."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Suppose a fund holds 3 per cent of a company that later sells for $2 billion. After dilution that might be 1.5 per cent at exit, or $30 million: a fine result for a $50 million fund and a rounding error for a $650 million one. Hold 15 per cent at entry, defend part of it through later rounds, and the same sale returns well over $100 million. Nothing about the company changed. Only the stake did."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "A portfolio of many small positions can be right about a great many companies and still produce an ordinary fund."
+          }
+        ]
+      },
+      {
+        "kind": "quote",
+        "runs": [
+          {
+            "text": "We would rather be right less often and own enough of what we are right about."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Reserves are most of the work"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Across our recent funds we have held back between 55 and 60 per cent of committed capital for follow-on investment."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Reserves matter because the best information we ever have about a company arrives after we invest. We sit on the board. We see the numbers every month. We know whether the team does what it said it would. By the time a Series B comes round, we know more about the business than a new investor can learn in a six-week process, and it would be careless not to act on that."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Stackwell",
+            "href": "/portfolio/stackwell"
+          },
+          {
+            "text": " is a fair example. We led its seed round, then invested again at the Series A and again at the Series B, when usage was growing much faster than revenue and the round was harder to price than it looked from outside. That third cheque was the largest we wrote in the company. It was also the easiest decision of the three."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Reserves give a founder something else that is hard to price: a lead investor who can underwrite part of the next round if the market turns. In 2022 and 2023, several of our companies raised insider-led rounds that bought them a year. "
+          },
+          {
+            "text": "Parallax",
+            "href": "/portfolio/parallax"
+          },
+          {
+            "text": " was one. It would have survived without that round, but it would have been a smaller company, sold sooner."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "What it costs us"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We see a great deal and say yes to very little. In a typical year the partnership meets more than 2,000 companies and leads eight or nine new investments. Some of the companies we pass on do very well, and we read about them like everyone else."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We also concentrate risk, and a large position that fails hurts. We manage that through spread across sectors and through the follow-on decision itself, which we treat as a new investment rather than a loyalty payment. About a third of the time we decline to take our full allocation in a later round. That is why the reserves are still there for the companies that need them."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "And the pace is slow. A partner here joins two or three new boards a year, which limits how fast the firm can grow and is part of why our funds have grown more slowly than the market."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Why many small cheques cost more than they look"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The opposite approach, many small cheques with little held back, is attractive for reasons we understand. It feels like diversification, and it keeps a firm in many conversations at once."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "But a small cheque buys little influence and less information. It rarely comes with a board seat, so the investor hears about trouble at the same time as everyone else. When the follow-on round arrives there is often no money set aside, and the best companies in the portfolio dilute the firm out of its own winners. The diversification is real. It is diversification away from the outcomes that make a fund."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "What founders get"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "For a founder, the trade is easy to describe. You get a lead investor who owns enough to care, who has money set aside to back you again, and who will still be around when the company is ten years old. In return we ask for a larger share of the round and a seat at the table."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "If that sounds like the partner you want, our "
+          },
+          {
+            "text": "pitch page",
+            "href": "/pitch"
+          },
+          {
+            "text": " explains how to reach us, and the "
+          },
+          {
+            "text": "funds page",
+            "href": "/funds"
+          },
+          {
+            "text": " shows how the approach has worked out so far."
+          }
+        ]
+      }
+    ],
+    "related": ["q3-2026-letter", "board-meetings-that-help", "q2-2026-letter"],
+    "previous": {
+      "label": "Running a board meeting that helps you",
+      "href": "/insights/board-meetings-that-help"
+    },
+    "next": {
+      "label": "Third-quarter letter, 2026",
+      "href": "/insights/q3-2026-letter"
+    }
+  },
+  {
+    "slug": "boring-software-durable-companies",
+    "href": "/insights/boring-software-durable-companies",
+    "title": "Boring software, durable companies",
+    "category": "Essays",
+    "date": "June 24, 2026",
+    "description": "Why we keep backing infrastructure software that few people outside engineering teams will ever see, and what makes it so hard to replace once it is in.",
+    "byline": "Rafael Costa and Jun Seo",
+    "authors": ["rafael-costa", "jun-seo"],
+    "cover": {
+      "src": "/images/articles/boring-software-durable-companies.webp",
+      "alt": ""
+    },
+    "caption": "Photo:Christina Morillo / Pexels",
+    "coverLabel": "",
+    "body": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Some of the best companies we have backed make products that are hard to explain at a dinner party. A database for event data. A system that checks whether machine learning models are still behaving. A service that confirms a developer is who they say they are. Nobody outside an engineering team thinks about them. Inside, they are the parts that cannot fail."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We like these companies a great deal. Here is why."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Nobody rips out the plumbing"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Infrastructure software sits underneath everything else a company runs. Once it is in, other systems are built on top of it, and taking it out means rebuilding those too. So it rarely gets taken out."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "That makes the first sale slow and every sale after it easier. A team adopts the product for one service, then a second, then the whole company standardises on it because running two systems for the same job is a nuisance. Revenue grows inside accounts long after the first contract, and churn stays very low."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The pattern is visible in the numbers. Across our infrastructure companies at Series B or later, revenue retention from existing customers has averaged well above 120 per cent a year. Few application companies we have seen sustain that."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "The buyer is the user"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Infrastructure is usually chosen by the engineers who will live with it. They try it, often for free, and only later does anyone sign a contract. That has two effects we value."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The first is honest feedback. Engineers do not adopt a tool because of a good sales meeting, and they leave quickly if it breaks. A company that survives that test early has a product that works."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The second is that it keeps sales costs down. When the buying decision is already half made by the time sales gets involved, the company can grow without building a large sales team ahead of revenue."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Three examples"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Stackwell",
+            "href": "/portfolio/stackwell"
+          },
+          {
+            "text": " builds a database for event data: the stream of clicks, payments and sensor readings that modern software produces. Its founders spent years running that kind of data on general-purpose databases and watching them struggle. Stackwell's first customers were engineers who found it on their own. Most of its largest accounts started with a single team."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Parallax",
+            "href": "/portfolio/parallax"
+          },
+          {
+            "text": " watches machine learning models once they are in production and warns when their behaviour drifts. When we invested, many teams were still checking models by hand, if at all. Now that models make credit, pricing and hiring decisions, regulators and auditors expect someone to be watching. Parallax was already there when that expectation arrived."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Gatehouse",
+            "href": "/portfolio/gatehouse"
+          },
+          {
+            "text": " built identity for developers: the systems that confirm who is pushing code and what they are allowed to touch. It was acquired by Cobalt Systems in 2020, which wanted it as the foundation of its own security products. The acquisition made sense for the same reason the business did. Once Gatehouse was underneath a company's code, it stayed there."
+          }
+        ]
+      },
+      {
+        "kind": "quote",
+        "runs": [
+          {
+            "text": "The parts nobody notices are often the parts nobody can remove."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "What we look for"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Durability is not automatic. Plenty of infrastructure companies fail, usually for one of three reasons: the problem is real but too small, a large cloud provider bundles a free version, or the product is hard to adopt and never gets past the first team."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "So we ask:"
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "ordered": false,
+        "items": [
+          [
+            {
+              "text": "Is the problem growing on its own, without the company having to make the case for it?"
+            }
+          ],
+          [
+            {
+              "text": "Would a large cloud provider find it awkward to build, because it needs to work across several of them?"
+            }
+          ],
+          [
+            {
+              "text": "Can an engineer get value from it in an afternoon?"
+            }
+          ],
+          [
+            {
+              "text": "Do the founders know the problem from having suffered it?"
+            }
+          ]
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "When the answer to all four is yes, we are usually interested, however dull the product sounds."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Why this suits us"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Infrastructure companies tend to take longer to reach scale than application companies, and they rarely attract much attention along the way. That suits a firm that writes long first cheques and expects to hold them for a decade. The companies grow slowly, then steadily, and the steadiness is what lasts."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "If you are building something that other engineers will build on, our "
+          },
+          {
+            "text": "pitch page",
+            "href": "/pitch"
+          },
+          {
+            "text": " explains how to reach us."
+          }
+        ]
+      }
+    ],
+    "related": [
+      "q3-2026-letter",
+      "the-long-first-cheque",
+      "board-meetings-that-help"
+    ],
+    "previous": {
+      "label": "The grid is the bottleneck",
+      "href": "/insights/the-grid-is-the-bottleneck"
+    },
+    "next": {
+      "label": "Second-quarter letter, 2026",
+      "href": "/insights/q2-2026-letter"
+    }
+  },
+  {
+    "slug": "the-first-eighteen-months",
+    "href": "/insights/the-first-eighteen-months",
+    "title": "The first eighteen months after a seed round",
+    "category": "Playbooks",
+    "date": "February 11, 2026",
+    "description": "What to do with the eighteen months after a seed round closes: where the money should go, what to measure, and when to start thinking about the next raise.",
+    "byline": "Hana Weber and Lena Fischer",
+    "authors": ["hana-weber", "lena-fischer"],
+    "cover": {
+      "src": "/images/articles/the-first-eighteen-months.webp",
+      "alt": ""
+    },
+    "caption": "Photo:Jakub Zerdzicki / Pexels",
+    "coverLabel": "",
+    "body": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "A seed round is usually sized to last about two years. In practice, most companies have about eighteen months to show enough progress to raise again, because the next raise itself takes three to six months and nobody wants to run it with an empty bank account."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Eighteen months sounds generous on the day the money arrives. It is not. What follows is what we have seen work across the seed companies we have backed, written for founders in the first weeks after closing."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Decide what the next round needs to see"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Before spending anything, write down what a Series A investor will need to believe in eighteen months' time. Be specific. It is rarely \"more revenue\". It is more often a statement like \"customers in two different segments renew at a full price\" or \"the product works without the founders installing it\"."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "That statement becomes the filter for every decision that follows. Hires, features and markets all get measured against it. Anything that does not move the company towards it waits."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We ask founders to share this with their board in the first meeting after the round. It is the most useful page they will write all year."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Hire slowly at first"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The temptation after a round is to hire quickly. Resist it for the first three months."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The first five or six hires set the culture and the pace of the company more than anything the founders say. Each one should be someone the founders would be glad to work for one day. That takes time to find, and it is worth taking."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "It also matters what order they come in. Most seed companies need engineers before they need salespeople, and need salespeople before they need managers. A head of anything is usually premature before the Series A."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Spend on learning, not on scale"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The best uses of money are the ones that answer the question in the first section quickly: more customer conversations, short paid pilots, a second version of the product built on what the first version taught you."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The worst uses are the ones that assume the answer. Large marketing budgets, expensive offices and enterprise-grade tooling all assume a company has found something to scale. Most seed companies have not, yet."
+          }
+        ]
+      },
+      {
+        "kind": "quote",
+        "runs": [
+          {
+            "text": "At this stage, money should buy information."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "A note on pricing"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Charge from the start, even if the price is low. A customer who pays tells you far more than one who does not, and a price is much easier to raise than to introduce."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Two companies, two routes"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Two companies we backed at pre-seed in 2021 faced the same clock and took very different routes."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The founders of "
+          },
+          {
+            "text": "Quillo",
+            "href": "/portfolio/quillo"
+          },
+          {
+            "text": ", which automates accounts payable, decided early that the next round needed to see one thing: finance teams at mid-sized companies using the product every week without help. They spent the first six months with only three engineers and twenty design partners, and turned away larger customers who wanted custom work. By month fourteen, weekly use had held steady for two quarters, and the Series A followed quickly."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Tabula",
+            "href": "/portfolio/tabula"
+          },
+          {
+            "text": ", which builds spreadsheets for operations teams, had a harder start. Its first product was too broad, and by month nine the founders could see that usage was wide but shallow. They narrowed the product to logistics teams and cut two planned hires. It cost them three months. It also gave them a story the next investors could believe, and they raised at month twenty with a much clearer business."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Both companies kept their burn low enough to survive a slower raise. That, more than any single decision, is what gave them room to change course."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Know your numbers every month"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "A seed company does not need a finance team. It does need a founder who knows, each month, how much cash is left, how fast it is going, and how that compares with the plan."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We suggest a short monthly update to investors with three things: the numbers, the progress against the statement you wrote at the start, and one thing you need help with. Lena's platform team can share a template."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "When to start the next raise"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Start conversations with Series A investors about twelve months after closing, informally. Begin the actual raise when you can show the progress you set out to show, and when you still have at least nine months of cash. If you cannot yet show it, raise less, cut spending, or ask your existing investors for a bridge while there is still time to use it well."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "If you are a founder in our "
+          },
+          {
+            "text": "portfolio",
+            "href": "#"
+          },
+          {
+            "text": " and want to talk through any of this, Hana and Lena are the people to ask."
+          }
+        ]
+      }
+    ],
+    "related": [
+      "q3-2026-letter",
+      "the-long-first-cheque",
+      "board-meetings-that-help"
+    ],
+    "previous": {
+      "label": "Annual letter, 2025",
+      "href": "/insights/annual-letter-2025"
+    },
+    "next": {
+      "label": "What we look for in a founding team",
+      "href": "/insights/what-we-look-for-in-a-founding-team"
+    }
+  },
+  {
+    "slug": "announcing-fund-five",
+    "href": "/insights/announcing-fund-five",
+    "title": "Announcing Fund V",
+    "category": "News",
+    "date": "April 15, 2025",
+    "description": "We have closed Fund V at $650 million, to lead seed and Series A rounds in Europe and North America. Here is what stays the same and what changes.",
+    "byline": "Nadia Mensah",
+    "authors": ["nadia-mensah"],
+    "cover": {
+      "src": "/images/articles/announcing-fund-five.webp",
+      "alt": ""
+    },
+    "caption": "Photo:Kristina Snowasp / Pexels",
+    "coverLabel": "",
+    "body": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Today we closed Fund V at $650 million, our fifth fund since Theo Marchetti and I started DSD Invest in London in 2012. The first close came in February. Almost all of the capital comes from foundations, endowments and families who have invested with us before, and we are grateful to them for coming back, and to the eleven new partners who have joined them."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We could have raised more. We chose not to, because a much larger fund would have pushed us towards larger rounds and later stages, and that is a different job from the one we are good at."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "What stays the same"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We will keep leading seed and Series A rounds in Europe and North America, in the six sectors we know: fintech, climate, health, infrastructure, software and industrials. We will keep writing a few large first cheques rather than many small ones, and we will set aside more than half the fund to back our companies again in later rounds."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The people stay the same too. The partners who will lead Fund V investments have all worked here for years, and the partners who raised the fund are the ones who will sit on its boards. A company that takes our money gets the person who made the case for it, for as long as they need them."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "And we will keep publishing our "
+          },
+          {
+            "text": "fund figures",
+            "href": "/funds"
+          },
+          {
+            "text": " and our letters to investors, so founders can see how we have done before they decide whether to work with us."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "What changes"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Three things."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "First, our Series A cheques get larger. We can now lead an A round of up to $25 million on our own, which means fewer founders will have to assemble a syndicate to raise one."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Second, we are giving climate and industrials more of the fund. These companies often need more capital, over longer periods, before they earn revenue, and we want to be able to stay with them through that stretch. Clara Novak and Grant Holloway will lead most of that work."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Third, the platform team grows. Lena Fischer's team, which helps companies with everything from finance to their first enterprise contracts, and Imani Clarke's talent team will each add people this year, so that every company in Fund V has someone to call who is not on its board."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "If you are building something in one of our sectors and want to talk, our "
+          },
+          {
+            "text": "pitch page",
+            "href": "/pitch"
+          },
+          {
+            "text": " explains how. We read everything that comes in."
+          }
+        ]
+      }
+    ],
+    "related": [
+      "q3-2026-letter",
+      "the-long-first-cheque",
+      "board-meetings-that-help"
+    ],
+    "previous": null,
+    "next": {
+      "label": "Ostra joins Calder Health",
+      "href": "/insights/ostra-joins-calder-health"
+    }
+  }
+]

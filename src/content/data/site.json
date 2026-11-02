@@ -1,0 +1,105 @@
+{
+  "brand": "DSD Invest",
+  "navigation": [
+    {
+      "label": "Sektorer",
+      "href": "/sectors"
+    },
+    {
+      "label": "Partnerskaber",
+      "href": "/partnerskaber"
+    },
+    {
+      "label": "Om os",
+      "href": "/about"
+    }
+  ],
+  "newsletter": {
+    "title": "Følg opbygningen",
+    "description": "Få besked, når vi åbner for de første optag i DSD Invest.",
+    "placeholder": "E-mailadresse"
+  },
+  "footerGroups": [
+    {
+      "title": "Foreningen",
+      "links": [
+        {
+          "label": "Om os",
+          "href": "/about"
+        },
+        {
+          "label": "Kontakt",
+          "href": "/contact"
+        }
+      ]
+    },
+    {
+      "title": "Medlemskab",
+      "links": [
+        {
+          "label": "Bliv medlem",
+          "href": "/membership"
+        },
+        {
+          "label": "Skriv dig på ventelisten",
+          "href": "/membership#membership-form"
+        }
+      ]
+    },
+    {
+      "title": "Samarbejde",
+      "links": [
+        {
+          "label": "Bliv partner",
+          "href": "/partnerskaber"
+        }
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Fase 1 · Under opbygning",
+      "lines": [
+        "Papirkapital og frivillige medlemmer.",
+        "Vi beviser processen, før vi tager mere ansvar."
+      ]
+    },
+    {
+      "title": "Studenterdrevet og nationalt",
+      "lines": [
+        "Åben for studerende fra alle universiteter.",
+        "Ikke kun for finance-studerende."
+      ]
+    },
+    {
+      "title": "Uafhængige beslutninger",
+      "lines": [
+        "Investeringskomitéen har den endelige myndighed.",
+        "Sponsorer har ingen indflydelse på investeringerne."
+      ]
+    }
+  ],
+  "copyright": "© 2026 DSD Invest",
+  "legalLinks": [
+    {
+      "label": "Privatliv",
+      "href": "/legal/privacy"
+    },
+    {
+      "label": "Brugsvilkår",
+      "href": "/legal/terms"
+    },
+    {
+      "label": "Vigtig information",
+      "href": "/legal/disclosures"
+    }
+  ],
+  "disclaimer": "DSD Invest er en studenterdrevet investeringsorganisation under opbygning. I fase 1 arbejder vi med papirkapital og forvalter ikke ekstern kapital. Intet på denne side er investeringsrådgivning eller et tilbud om at investere.",
+  "socials": [
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/"
+    }
+  ],
+  "menuEmail": "hello@example.com"
+}

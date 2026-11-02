@@ -1,11 +1,22 @@
 import type { Metadata } from "next";
-import "./globals.css";
-
+import { outfit } from "@/lib/fonts";
+import "@/styles/globals.css";
 export const metadata: Metadata = {
-  title: "Northwood",
-  description: "Early-stage venture capital.",
+  title: "DSD Invest",
+  description: "Venturekapital i tidlige faser.",
 };
-
-export default function RootLayout({ children }: { children: React.ReactNode }) {
-  return <html lang="en"><body>{children}</body></html>;
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="da">
+      <body
+        className={`${outfit.variable} bg-paper font-sans text-ink antialiased`}
+      >
+        {children}
+      </body>
+    </html>
+  );
 }

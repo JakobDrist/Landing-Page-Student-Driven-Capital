@@ -1,0 +1,211 @@
+{
+  "hero": {
+    "title": "Studenterdrevet. Med institutionelle ambitioner.",
+    "description": "Vi bygger en studentdrevet investeringsorganisation, hvor ambitiøse studerende udvikler sig gennem analyse, investering og reelt ansvar.",
+    "image": {
+      "src": "/images/home/landscape.webp",
+      "alt": ""
+    },
+    "actions": [
+      {
+        "label": "Bliv en del af DSD Invest",
+        "href": "/membership"
+      },
+      {
+        "label": "Vores mission",
+        "href": "/#our-mission"
+      }
+    ]
+  },
+  "stats": {
+    "title": "Et lille partnerskab, bygget til den lange stigning.",
+    "description": "Seks partnere, én fond ad gangen og en håndfuld nye virksomheder om året, så hver founder arbejder med den person, der besluttede at investere i dem.",
+    "figures": [
+      {
+        "value": "$1.7B",
+        "label": "under forvaltning"
+      },
+      {
+        "value": "127",
+        "label": "virksomheder støttet"
+      },
+      {
+        "value": "33",
+        "label": "exits"
+      },
+      {
+        "value": "2012",
+        "label": "første fond"
+      }
+    ],
+    "action": {
+      "label": "Sådan arbejder vi",
+      "href": "/about"
+    }
+  },
+  "companies": {
+    "title": "Udvalgte virksomheder",
+    "description": "",
+    "action": {
+      "label": "Alle 24 virksomheder",
+      "href": "/portfolio"
+    },
+    "items": [
+      "corvid",
+      "fernway",
+      "loadstar",
+      "lumio",
+      "parallax",
+      "payfield",
+      "stackwell",
+      "tidewater"
+    ]
+  },
+  "sectors": {
+    "title": "Hvor vi investerer",
+    "description": "Fem sektorer, hvor et teknisk team med et forspring kan bygge noget, der holder.",
+    "action": {
+      "label": "Alle sektorer",
+      "href": "/sectors"
+    },
+    "items": ["fintech", "health", "infrastructure", "software", "industrials"]
+  },
+  "foundingPartners": {
+    "title": "Founding Partners",
+    "members": [
+      {
+        "name": "Noah",
+        "role": "Founding Partner",
+        "image": {
+          "src": "/images/founding-partners/noah.png",
+          "alt": "Noah"
+        }
+      },
+      {
+        "name": "Jakob",
+        "role": "Founding Partner",
+        "image": {
+          "src": "/images/founding-partners/jakob.png",
+          "alt": "Jakob"
+        }
+      },
+      {
+        "name": "Rasmus",
+        "role": "Founding Partner",
+        "image": null
+      }
+    ]
+  },
+  "funds": {
+    "title": "Fem fonde, én tilgang",
+    "description": "Hver fond rejses fra den samme lille gruppe af fonde, legater og familier og drives af de partnere, der rejste den.",
+    "total": "$1.7B",
+    "label": "tilsagn på tværs af 5 fonde siden 2012",
+    "action": {
+      "label": "Fondsstatistik",
+      "href": "/funds"
+    },
+    "items": [
+      {
+        "name": "Fond I",
+        "year": "2012",
+        "size": "$85M"
+      },
+      {
+        "name": "Fond II",
+        "year": "2015",
+        "size": "$180M"
+      },
+      {
+        "name": "Fond III",
+        "year": "2018",
+        "size": "$320M"
+      },
+      {
+        "name": "Fond IV",
+        "year": "2021",
+        "size": "$480M"
+      },
+      {
+        "name": "Fond V",
+        "year": "2025",
+        "size": "$650M"
+      }
+    ]
+  },
+  "organisation": {
+    "label": "Organisation · Karriere · Medlemskab",
+    "title": "Vores organisation",
+    "description": "Fem afdelinger og én investeringsproces. Hver rolle findes, fordi organisationen har brug for den, og hver af dem er en vej ind i en karriere inden for investering.",
+    "note": "Afdelingerne er under opbygning i fase 1.",
+    "departments": [
+      {
+        "name": "Sektorresearch",
+        "text": "Forstå virksomheder, brancher og konkurrencefordele, og omsæt dem til finansielle analyser og værdiansættelser.",
+        "skills": ["Finansiel analyse", "Værdiansættelse", "Brancheanalyse"],
+        "output": "Evidensbaserede prognoser for virksomhederne i dækningen."
+      },
+      {
+        "name": "Makro og markeder",
+        "text": "Følg de økonomiske forhold, markedsdynamikken og de makroøkonomiske scenarier, der former porteføljens risiko.",
+        "skills": ["Makroøkonomi", "Markedsanalyse", "Prognoser"],
+        "output": "Vurderinger af økonomiske regimer og scenarier."
+      },
+      {
+        "name": "Risiko og kvant",
+        "text": "Mål porteføljens eksponeringer, prognoseusikkerhed og modelrisiko med kvantitative metoder.",
+        "skills": ["Statistik", "Risikomodellering", "Kvantitativ finans"],
+        "output": "Stresstests og risikovurderinger til Investeringskomitéen."
+      },
+      {
+        "name": "Porteføljekonstruktion",
+        "text": "Omsæt virksomheds- og makroprognoser til allokeringer inden for mandatets risikorammer.",
+        "skills": ["Optimering", "Porteføljeteori", "Beslutningsmodeller"],
+        "output": "Kvantitative porteføljeforslag."
+      },
+      {
+        "name": "Tech og data",
+        "text": "Byg den software, de datasystemer og den analytiske infrastruktur, hele organisationen er afhængig af.",
+        "skills": ["Softwareudvikling", "Datapipelines", "Fintech"],
+        "output": "Systemer, som resten af organisationen bygger på."
+      }
+    ],
+    "criteriaTitle": "Det kigger vi efter",
+    "criteria": [
+      "Evner",
+      "Ambition",
+      "Pålidelighed",
+      "Intellektuel ærlighed",
+      "Læringshastighed"
+    ],
+    "action": {
+      "label": "Skriv dig op",
+      "href": "/membership#membership-form"
+    }
+  },
+  "journal": {
+    "title": "Fra journalen",
+    "description": "",
+    "action": {
+      "label": "Alle indsigter",
+      "href": "/insights"
+    },
+    "items": [
+      "q3-2026-letter",
+      "the-long-first-cheque",
+      "board-meetings-that-help"
+    ]
+  },
+  "closing": {
+    "title": "Byg din karriere gennem reelt ansvar.",
+    "text": "Udforsk medlemskab af DSD Invest, eller skriv dig på ventelisten for at vise din interesse.",
+    "action": {
+      "label": "Bliv en del af DSD Invest",
+      "href": "/membership"
+    }
+  },
+  "mission": {
+    "title": "Our mission",
+    "text": "Ambitiøse studerende skal ikke vente til efter studiet med at begynde deres karriere. Vi bygger en investeringsorganisation, hvor analyse, teknologi og ansvar bliver til reel erfaring — og hvor talent udvikles gennem det arbejde, vi skaber sammen."
+  }
+}

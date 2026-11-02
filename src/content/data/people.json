@@ -1,0 +1,1105 @@
+[
+  {
+    "slug": "grant-holloway",
+    "href": "/team/grant-holloway",
+    "name": "Grant Holloway",
+    "role": "Managing Partner, New York",
+    "group": "Partners",
+    "image": {
+      "src": "/images/team/grant-holloway.webp",
+      "alt": ""
+    },
+    "bio": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Before he joined DSD Invest in 2014, Grant Holloway spent twelve years in manufacturing, the last five running operations at a parts maker in Ohio with three plants and about nine hundred staff. He still thinks about most companies in terms of throughput, uptime and who is on the floor at 3am."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Grant has been managing partner since 2022, chairs the investment committee and still invests in robotics, factory software and agricultural technology from the New York office. He led the firm's Series A investment in Loadstar, which went public in 2021, and is on the boards of Halden and Veldt. Founders who work with him can expect site visits; he would rather see a robot running in a customer's warehouse than a video of one."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "He grew up on a farm in Iowa and still goes back each autumn to help with the harvest."
+          }
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Focus",
+        "value": "Climate Industrials",
+        "links": [
+          {
+            "label": "Industri",
+            "href": "/sectors/industrials"
+          }
+        ]
+      },
+      {
+        "label": "Previously",
+        "value": "Ran operations at a Midwest parts manufacturer"
+      },
+      {
+        "label": "At DSD Invest since",
+        "value": "2014"
+      },
+      {
+        "label": "Office",
+        "value": "New York"
+      }
+    ],
+    "contacts": [
+      {
+        "label": "Email",
+        "href": "mailto:grant@example.com"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/"
+      },
+      {
+        "label": "X",
+        "href": "https://x.com/"
+      }
+    ],
+    "companies": ["halden", "loadstar", "veldt"],
+    "articles": [
+      "q3-2026-letter",
+      "q2-2026-letter",
+      "what-we-look-for-in-a-founding-team"
+    ],
+    "next": {
+      "label": "NextNadia Mensah",
+      "href": "/team/nadia-mensah"
+    }
+  },
+  {
+    "slug": "nadia-mensah",
+    "href": "/team/nadia-mensah",
+    "name": "Nadia Mensah",
+    "role": "Founding Partner, London",
+    "group": "Partners",
+    "image": {
+      "src": "/images/team/nadia-mensah.webp",
+      "alt": ""
+    },
+    "bio": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Nadia Mensah co-founded DSD Invest in 2012 with Theo Marchetti and led it for its first ten years, handing the managing partner role to Grant Holloway in 2022. She sits on the investment committee for every fund and still leads a handful of seed and Series A rounds herself, mostly in financial software."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Before DSD Invest, Nadia co-founded Ledgerline, a payments company she ran for six years and sold in 2011. That experience shapes how she backs founders: she asks early about the dull parts of the business, such as reconciliation, compliance and month-end close, because that is where finance products tend to win or stall. She led the firm's first investment in Arbor, acquired in 2019, and more recently Payfield."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Outside the office she sings in a community choir in south London and has been learning the cello, slowly, for four years."
+          }
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Focus",
+        "value": "Fintech Software",
+        "links": [
+          {
+            "label": "Fintech",
+            "href": "/sectors/fintech"
+          },
+          {
+            "label": "Software",
+            "href": "/sectors/software"
+          }
+        ]
+      },
+      {
+        "label": "Previously",
+        "value": "Co-founded Ledgerline, a payments company sold in 2011"
+      },
+      {
+        "label": "At DSD Invest since",
+        "value": "2012"
+      },
+      {
+        "label": "Office",
+        "value": "London"
+      }
+    ],
+    "contacts": [
+      {
+        "label": "Email",
+        "href": "mailto:nadia@example.com"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/"
+      },
+      {
+        "label": "X",
+        "href": "https://x.com/"
+      }
+    ],
+    "companies": ["arbor", "payfield", "verity"],
+    "articles": [
+      "board-meetings-that-help",
+      "annual-letter-2025",
+      "announcing-fund-five"
+    ],
+    "next": {
+      "label": "NextTheo Marchetti",
+      "href": "/team/theo-marchetti"
+    }
+  },
+  {
+    "slug": "theo-marchetti",
+    "href": "/team/theo-marchetti",
+    "name": "Theo Marchetti",
+    "role": "Founding Partner, New York",
+    "group": "Partners",
+    "image": {
+      "src": "/images/team/theo-marchetti.webp",
+      "alt": ""
+    },
+    "bio": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Theo Marchetti co-founded DSD Invest and opened the New York office in 2014, two years after the firm started in London. He invests in developer tools, security and the infrastructure underneath modern software."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Theo spent a decade writing and then managing code at a cloud hosting company in Boston, ending up responsible for a team of sixty engineers. He tends to judge infrastructure companies by their documentation and their first ten customers rather than their pitch deck, and he will often ask to sit in on a support call before a partner meeting. He led the seed rounds in Gatehouse and Corvid, both since acquired, and is on the board of Stackwell."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Theo keeps a plot at a community garden in Queens and grows more tomatoes than his family can eat."
+          }
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Focus",
+        "value": "Infrastructure Software",
+        "links": [
+          {
+            "label": "Infrastruktur",
+            "href": "/sectors/infrastructure"
+          },
+          {
+            "label": "Software",
+            "href": "/sectors/software"
+          }
+        ]
+      },
+      {
+        "label": "Previously",
+        "value": "Engineering lead at a cloud hosting company in Boston"
+      },
+      {
+        "label": "At DSD Invest since",
+        "value": "2012"
+      },
+      {
+        "label": "Office",
+        "value": "New York"
+      }
+    ],
+    "contacts": [
+      {
+        "label": "Email",
+        "href": "mailto:theo@example.com"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/"
+      },
+      {
+        "label": "X",
+        "href": "https://x.com/"
+      }
+    ],
+    "companies": ["corvid", "gatehouse", "stackwell"],
+    "articles": ["the-long-first-cheque", "annual-letter-2025"],
+    "next": {
+      "label": "NextClara Novak",
+      "href": "/team/clara-novak"
+    }
+  },
+  {
+    "slug": "clara-novak",
+    "href": "/team/clara-novak",
+    "name": "Clara Novak",
+    "role": "Partner, Stockholm",
+    "group": "Partners",
+    "image": {
+      "src": "/images/team/clara-novak.webp",
+      "alt": ""
+    },
+    "bio": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Clara Novak leads DSD Invest's climate investments from Stockholm, where she opened the office in 2016. Her focus is the physical side of decarbonisation: storage, materials and the verification work that makes carbon markets credible."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "She spent eight years at a Nordic utility, the last four running grid storage projects from procurement through to commissioning. That work left her with a healthy respect for permitting timelines and a habit of asking founders how a product gets built at the tenth site, not the first. Clara led the seed round in Tidewater, which listed in 2024, and works with Kiln and Albedo today."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "At weekends she is usually somewhere in the Stockholm archipelago with a small sailing boat that needs more repairs than it gets."
+          }
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Focus",
+        "value": "Climate Industrials",
+        "links": [
+          {
+            "label": "Industri",
+            "href": "/sectors/industrials"
+          }
+        ]
+      },
+      {
+        "label": "Previously",
+        "value": "Ran grid storage projects at a Nordic utility"
+      },
+      {
+        "label": "At DSD Invest since",
+        "value": "2016"
+      },
+      {
+        "label": "Office",
+        "value": "Stockholm"
+      }
+    ],
+    "contacts": [
+      {
+        "label": "Email",
+        "href": "mailto:clara@example.com"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/"
+      },
+      {
+        "label": "X",
+        "href": "https://x.com/"
+      }
+    ],
+    "companies": ["albedo", "fernway", "kiln", "tidewater"],
+    "articles": ["the-grid-is-the-bottleneck"],
+    "next": {
+      "label": "NextAmira Haddad",
+      "href": "/team/amira-haddad"
+    }
+  },
+  {
+    "slug": "amira-haddad",
+    "href": "/team/amira-haddad",
+    "name": "Amira Haddad",
+    "role": "Partner, London",
+    "group": "Partners",
+    "image": {
+      "src": "/images/team/amira-haddad.webp",
+      "alt": ""
+    },
+    "bio": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Amira Haddad leads DSD Invest's health practice. She joined in 2016 and has since backed companies across diagnostics, clinical trials and the administrative work that sits between patients and payers."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Amira trained as a cardiologist and spent six years in hospital medicine in London before joining a small health software company as its clinical lead. She is direct about evidence: she wants to know what a product has shown in a real clinical setting, who pays for it, and how long a hospital procurement cycle will take. She led the investment in Cardia, acquired in 2021, and now sits on the boards of Lumio and Priora."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Amira reads a lot of crime fiction and runs a book group that has met on the first Thursday of every month for over a decade."
+          }
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Focus",
+        "value": "Sundhed",
+        "links": [
+          {
+            "label": "Sundhed",
+            "href": "/sectors/health"
+          }
+        ]
+      },
+      {
+        "label": "Previously",
+        "value": "Cardiologist, then clinical lead at a health software company"
+      },
+      {
+        "label": "At DSD Invest since",
+        "value": "2016"
+      },
+      {
+        "label": "Office",
+        "value": "London"
+      }
+    ],
+    "contacts": [
+      {
+        "label": "Email",
+        "href": "mailto:amira@example.com"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/"
+      },
+      {
+        "label": "X",
+        "href": "https://x.com/"
+      }
+    ],
+    "companies": ["cardia", "lumio", "ostra", "priora"],
+    "articles": ["ostra-joins-calder-health"],
+    "next": {
+      "label": "NextRafael Costa",
+      "href": "/team/rafael-costa"
+    }
+  },
+  {
+    "slug": "rafael-costa",
+    "href": "/team/rafael-costa",
+    "name": "Rafael Costa",
+    "role": "Partner, New York",
+    "group": "Partners",
+    "image": {
+      "src": "/images/team/rafael-costa.webp",
+      "alt": ""
+    },
+    "bio": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Rafael Costa is a partner in New York. He joined DSD Invest in 2021, two years after selling his own company, and leads the firm's investments in Parallax and Juniper."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Rafael founded a fraud detection company in São Paulo in 2010, moved it to New York four years later and sold it in 2019. He knows how hard it is to build machine learning systems that have to be right in milliseconds, and he is most useful to founders working on similar problems: model monitoring, payments risk, data infrastructure. He is candid about what he got wrong as a founder, which tends to make for honest board meetings."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Rafael cooks a large Sunday lunch most weeks and has firm views on how long beans should soak."
+          }
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Focus",
+        "value": "Fintech Infrastructure",
+        "links": [
+          {
+            "label": "Fintech",
+            "href": "/sectors/fintech"
+          },
+          {
+            "label": "Infrastruktur",
+            "href": "/sectors/infrastructure"
+          }
+        ]
+      },
+      {
+        "label": "Previously",
+        "value": "Founded and sold a fraud detection company"
+      },
+      {
+        "label": "At DSD Invest since",
+        "value": "2021"
+      },
+      {
+        "label": "Office",
+        "value": "New York"
+      }
+    ],
+    "contacts": [
+      {
+        "label": "Email",
+        "href": "mailto:rafael@example.com"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/"
+      },
+      {
+        "label": "X",
+        "href": "https://x.com/"
+      }
+    ],
+    "companies": ["juniper", "parallax"],
+    "articles": ["boring-software-durable-companies"],
+    "next": {
+      "label": "NextKwame Asante",
+      "href": "/team/kwame-asante"
+    }
+  },
+  {
+    "slug": "kwame-asante",
+    "href": "/team/kwame-asante",
+    "name": "Kwame Asante",
+    "role": "Principal, London",
+    "group": "Investment team",
+    "image": {
+      "src": "/images/team/kwame-asante.webp",
+      "alt": ""
+    },
+    "bio": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Kwame Asante is a principal in London, working on seed and Series A investments in financial and operational software. He joined DSD Invest in 2019 and has led the firm's investments in Kitebird, Quillo and Tabula."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Before DSD Invest, Kwame led product at a small-business lender, where he built the tools its credit team used to approve loans. He looks for software aimed at people poorly served by the tools they have: shift managers, finance teams in mid-sized firms, operations staff working out of shared spreadsheets. With founders he is most useful on pricing and on the first sales hire, two decisions he has seen go wrong often enough to have opinions."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Kwame plays five-a-side football on Tuesday evenings and is the self-appointed keeper of the team's results spreadsheet."
+          }
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Focus",
+        "value": "Fintech Software",
+        "links": [
+          {
+            "label": "Fintech",
+            "href": "/sectors/fintech"
+          },
+          {
+            "label": "Software",
+            "href": "/sectors/software"
+          }
+        ]
+      },
+      {
+        "label": "Previously",
+        "value": "Led product at a small-business lender in London"
+      },
+      {
+        "label": "At DSD Invest since",
+        "value": "2019"
+      },
+      {
+        "label": "Office",
+        "value": "London"
+      }
+    ],
+    "contacts": [
+      {
+        "label": "Email",
+        "href": "mailto:kwame@example.com"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/"
+      },
+      {
+        "label": "X",
+        "href": "https://x.com/"
+      }
+    ],
+    "companies": ["kitebird", "quillo", "tabula"],
+    "articles": ["what-we-look-for-in-a-founding-team"],
+    "next": {
+      "label": "NextHana Weber",
+      "href": "/team/hana-weber"
+    }
+  },
+  {
+    "slug": "hana-weber",
+    "href": "/team/hana-weber",
+    "name": "Hana Weber",
+    "role": "Principal, Stockholm",
+    "group": "Investment team",
+    "image": {
+      "src": "/images/team/hana-weber.webp",
+      "alt": ""
+    },
+    "bio": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Hana Weber works from the Stockholm office on investments where climate and finance overlap: insurance, energy markets and the financial products that new infrastructure depends on. She joined in 2020 and leads the firm's investments in Covera and Amperra."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Hana spent five years structuring financing for wind and solar projects at a German bank, which taught her how much of the energy transition turns on contracts rather than hardware. She is quick to get into a company's unit economics and regulatory exposure, and founders often bring her in when they are negotiating a first partnership with an insurer or a utility."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "She grew up in Freiburg and is working through an evening class in Swedish that she admits she should have started in 2020."
+          }
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Focus",
+        "value": "Fintech Climate",
+        "links": [
+          {
+            "label": "Fintech",
+            "href": "/sectors/fintech"
+          }
+        ]
+      },
+      {
+        "label": "Previously",
+        "value": "Structured renewable energy financing at a German bank"
+      },
+      {
+        "label": "At DSD Invest since",
+        "value": "2020"
+      },
+      {
+        "label": "Office",
+        "value": "Stockholm"
+      }
+    ],
+    "contacts": [
+      {
+        "label": "Email",
+        "href": "mailto:hana@example.com"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/"
+      },
+      {
+        "label": "X",
+        "href": "https://x.com/"
+      }
+    ],
+    "companies": ["amperra", "covera"],
+    "articles": ["the-grid-is-the-bottleneck", "the-first-eighteen-months"],
+    "next": {
+      "label": "NextJun Seo",
+      "href": "/team/jun-seo"
+    }
+  },
+  {
+    "slug": "jun-seo",
+    "href": "/team/jun-seo",
+    "name": "Jun Seo",
+    "role": "Associate, New York",
+    "group": "Investment team",
+    "image": {
+      "src": "/images/team/jun-seo.webp",
+      "alt": ""
+    },
+    "bio": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Jun Seo is an associate in New York, working with Theo Marchetti on infrastructure and developer tools. He joined in 2023 and spends most of his time meeting technical founders early, often before they have raised anything."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Jun was a software engineer for four years at a data infrastructure start-up, where he worked on the storage layer and was on call more often than he would have liked. He reads the code where it is public and tries the product where it is not, and his first conversations with founders are usually about architecture rather than market size. He also writes much of the firm's internal research on open-source projects."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Outside work, Jun builds mechanical keyboards and is slowly running out of places to put them."
+          }
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Focus",
+        "value": "Infrastructure Software",
+        "links": [
+          {
+            "label": "Infrastruktur",
+            "href": "/sectors/infrastructure"
+          },
+          {
+            "label": "Software",
+            "href": "/sectors/software"
+          }
+        ]
+      },
+      {
+        "label": "Previously",
+        "value": "Software engineer at a data infrastructure start-up"
+      },
+      {
+        "label": "At DSD Invest since",
+        "value": "2023"
+      },
+      {
+        "label": "Office",
+        "value": "New York"
+      }
+    ],
+    "contacts": [
+      {
+        "label": "Email",
+        "href": "mailto:jun@example.com"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/"
+      },
+      {
+        "label": "X",
+        "href": "https://x.com/"
+      }
+    ],
+    "companies": [],
+    "articles": ["boring-software-durable-companies"],
+    "next": {
+      "label": "NextAnanya Rao",
+      "href": "/team/ananya-rao"
+    }
+  },
+  {
+    "slug": "ananya-rao",
+    "href": "/team/ananya-rao",
+    "name": "Ananya Rao",
+    "role": "Associate, London",
+    "group": "Investment team",
+    "image": {
+      "src": "/images/team/ananya-rao.webp",
+      "alt": ""
+    },
+    "bio": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Ananya Rao joined DSD Invest in 2024 as an associate on the health team in London, working alongside Amira Haddad. She covers diagnostics, clinical workflow and the business of getting new products paid for."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Ananya trained as a health economist and spent three years advising hospitals on which new technologies were worth adopting. She has read a great many reimbursement submissions, good and bad, and she brings that to her work with founders: helping them build the evidence and the cost case a buyer will actually ask for, well before the first procurement meeting. She also keeps the team's running notes on how different health systems decide what to buy."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "She is a keen if unremarkable climber and spends most Sunday mornings at a bouldering wall in Hackney."
+          }
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Focus",
+        "value": "Sundhed",
+        "links": [
+          {
+            "label": "Sundhed",
+            "href": "/sectors/health"
+          }
+        ]
+      },
+      {
+        "label": "Previously",
+        "value": "Health economist advising hospitals on new technology"
+      },
+      {
+        "label": "At DSD Invest since",
+        "value": "2024"
+      },
+      {
+        "label": "Office",
+        "value": "London"
+      }
+    ],
+    "contacts": [
+      {
+        "label": "Email",
+        "href": "mailto:ananya@example.com"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/"
+      },
+      {
+        "label": "X",
+        "href": "https://x.com/"
+      }
+    ],
+    "companies": [],
+    "articles": [],
+    "next": {
+      "label": "NextLena Fischer",
+      "href": "/team/lena-fischer"
+    }
+  },
+  {
+    "slug": "lena-fischer",
+    "href": "/team/lena-fischer",
+    "name": "Lena Fischer",
+    "role": "Head of Platform, London",
+    "group": "Platform",
+    "image": {
+      "src": "/images/team/lena-fischer.webp",
+      "alt": ""
+    },
+    "bio": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Lena Fischer runs DSD Invest's platform team, the group that works with portfolio companies on everything outside the board meeting. Since joining in 2018 she has built the firm's founder network, its programme of small peer dinners, and the shared playbooks on hiring, pricing and fundraising that companies use after the first cheque."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Lena was chief operating officer at a software company in London, which she helped grow from twenty people to three hundred. She is usually the first call when a founder needs an introduction to a customer, a lawyer or another founder who has dealt with the same problem. She keeps the playbooks short on purpose and rewrites them when they stop matching what founders actually run into."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Lena spends her holidays walking long-distance footpaths and is about two-thirds of the way along the South West Coast Path."
+          }
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Previously",
+        "value": "Chief operating officer at a London software company"
+      },
+      {
+        "label": "At DSD Invest since",
+        "value": "2018"
+      },
+      {
+        "label": "Office",
+        "value": "London"
+      }
+    ],
+    "contacts": [
+      {
+        "label": "Email",
+        "href": "mailto:lena@example.com"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/"
+      }
+    ],
+    "companies": [],
+    "articles": ["board-meetings-that-help", "the-first-eighteen-months"],
+    "next": {
+      "label": "NextImani Clarke",
+      "href": "/team/imani-clarke"
+    }
+  },
+  {
+    "slug": "imani-clarke",
+    "href": "/team/imani-clarke",
+    "name": "Imani Clarke",
+    "role": "Head of Talent, New York",
+    "group": "Platform",
+    "image": {
+      "src": "/images/team/imani-clarke.webp",
+      "alt": ""
+    },
+    "bio": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Imani Clarke leads talent at DSD Invest, helping portfolio companies hire the people they need in their first few years. Most of her time goes on senior searches: first sales leaders, heads of engineering and finance, and the occasional chief executive."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Imani led recruiting at a New York software company through three years of fast growth, then ran her own search practice before joining the firm in 2021. She works on a small number of searches at a time and stays close to each one, from writing the role with the founder through to reference calls. She also keeps a shared pool of candidates across the portfolio, so a strong finalist for one company is often hired by another."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "She sits on the board of a youth basketball league in Brooklyn and coaches an under-12 team on Saturdays."
+          }
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Previously",
+        "value": "Led recruiting at a New York software company"
+      },
+      {
+        "label": "At DSD Invest since",
+        "value": "2021"
+      },
+      {
+        "label": "Office",
+        "value": "New York"
+      }
+    ],
+    "contacts": [
+      {
+        "label": "Email",
+        "href": "mailto:imani@example.com"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/"
+      }
+    ],
+    "companies": [],
+    "articles": [],
+    "next": {
+      "label": "NextSofia Ortega",
+      "href": "/team/sofia-ortega"
+    }
+  },
+  {
+    "slug": "sofia-ortega",
+    "href": "/team/sofia-ortega",
+    "name": "Sofia Ortega",
+    "role": "Chief Financial Officer, London",
+    "group": "Operations",
+    "image": {
+      "src": "/images/team/sofia-ortega.webp",
+      "alt": ""
+    },
+    "bio": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Sofia Ortega is DSD Invest's chief financial officer. She joined in 2015, just as the firm was closing its second fund, and has run finance, fund administration and reporting for every fund since."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Sofia was a fund controller at a private equity firm in London for seven years before joining. Her team handles capital calls, distributions, audits and the quarterly reports that go to the funds' investors, and she has a strong preference for reports a limited partner can read in ten minutes. She also works directly with founders on the practical side of a DSD Invest investment, from closing mechanics to the cap table questions that come up before a new round."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Sofia grew up in Valencia and makes paella for the whole office every summer, outdoors, in a pan that does not fit in her flat."
+          }
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Previously",
+        "value": "Fund controller at a London private equity firm"
+      },
+      {
+        "label": "At DSD Invest since",
+        "value": "2015"
+      },
+      {
+        "label": "Office",
+        "value": "London"
+      }
+    ],
+    "contacts": [
+      {
+        "label": "Email",
+        "href": "mailto:sofia@example.com"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/"
+      }
+    ],
+    "companies": [],
+    "articles": ["q3-2026-letter", "q2-2026-letter"],
+    "next": {
+      "label": "NextOwen Brooks",
+      "href": "/team/owen-brooks"
+    }
+  },
+  {
+    "slug": "owen-brooks",
+    "href": "/team/owen-brooks",
+    "name": "Owen Brooks",
+    "role": "Head of Investor Relations, New York",
+    "group": "Operations",
+    "image": {
+      "src": "/images/team/owen-brooks.webp",
+      "alt": ""
+    },
+    "bio": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Owen Brooks looks after the people who invest in DSD Invest's funds: university endowments, foundations, pension funds and a small group of families who have backed the firm since Fund I. He joined in 2019 and has worked on the raises for Fund IV and Fund V."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Owen spent nine years covering pension and endowment clients at an asset manager in New York. At DSD Invest he runs fundraising, the annual investor meeting and the steady flow of questions in between. He tries to tell investors about difficult news before they hear it anywhere else, and he answers every email within a working day, a habit the rest of the firm has slowly adopted."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Owen follows minor-league baseball and has been to twenty-two ballparks, keeping a scorecard from each."
+          }
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Previously",
+        "value": "Covered pension and endowment clients at an asset manager"
+      },
+      {
+        "label": "At DSD Invest since",
+        "value": "2019"
+      },
+      {
+        "label": "Office",
+        "value": "New York"
+      }
+    ],
+    "contacts": [
+      {
+        "label": "Email",
+        "href": "mailto:owen@example.com"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/"
+      }
+    ],
+    "companies": [],
+    "articles": [],
+    "next": null
+  }
+]

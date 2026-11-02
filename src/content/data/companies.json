@@ -1,0 +1,2875 @@
+[
+  {
+    "slug": "albedo",
+    "name": "Albedo",
+    "href": "/portfolio/albedo",
+    "logo": {
+      "src": "/images/companies/albedo.svg",
+      "alt": ""
+    },
+    "tagline": "Carbon removal, verified from orbit",
+    "sector": "Klima",
+    "stage": "Series A",
+    "cardStatus": "Aktiv",
+    "status": "Active",
+    "active": true,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Albedo measures and verifies carbon removal projects using satellite imagery. Its models track biomass on reforestation sites, soil carbon on regenerative farms and the progress of rock weathering on cropland, producing monitoring reports that buyers and registries can audit, at a fraction of the cost of sending teams into the field."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Buyers of carbon removal had been telling us for years that they could not be sure what they were paying for. Inês worked on Earth observation at a European space research institute, and Tomás built remote sensing tools for agricultural insurers. We led Albedo's Series A in 2026, and Clara joined the board."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Albedo now monitors more than 1.2 million hectares across 18 countries, and its reports are accepted by three of the largest carbon removal registries."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Clara Novak",
+      "href": "/team/clara-novak"
+    },
+    "partnerImage": {
+      "src": "/images/team/clara-novak.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Inês Ferreira",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Tomás Silva",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Klima",
+        "href": null
+      },
+      {
+        "label": "First investment",
+        "value": "Series A, 2026",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund V",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2023",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "Lisbon, Portugal",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://albedo.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$24M raised across 2 rounds",
+    "rounds": [
+      {
+        "date": "Oct 2023",
+        "name": "Seed",
+        "amount": "· $4M",
+        "lead": "Led by Fjordline Ventures",
+        "badge": ""
+      },
+      {
+        "date": "Mar 2026",
+        "name": "Series A",
+        "amount": "· $20M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": null,
+    "related": ["amperra", "fernway", "kiln"],
+    "firstYear": "2026"
+  },
+  {
+    "slug": "amperra",
+    "name": "Amperra",
+    "href": "/portfolio/amperra",
+    "logo": {
+      "src": "/images/companies/amperra.svg",
+      "alt": ""
+    },
+    "tagline": "Software for virtual power plants",
+    "sector": "Klima",
+    "stage": "Seed",
+    "cardStatus": "Aktiv",
+    "status": "Active",
+    "active": true,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Amperra coordinates thousands of home batteries, electric vehicle chargers and smart thermostats so that a utility can dispatch them like a single power plant. Utilities and energy retailers use it to enrol customers, forecast how much flexibility is available hour by hour and bid that capacity into wholesale markets, paying households for the energy they shift."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Carlos spent a decade in grid operations at a Texas utility, and Beth built device control systems for a residential solar installer. They had a working pilot with a municipal utility within six months of starting the company. We led the seed round in 2025, with Hana joining the board."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Amperra now coordinates around 85,000 devices across Texas and California, giving its customers more than 300 megawatts of flexible capacity. The team is preparing its first deployments outside the United States."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Hana Weber",
+      "href": "/team/hana-weber"
+    },
+    "partnerImage": {
+      "src": "/images/team/hana-weber.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Carlos Mendez",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Beth Lawson",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Klima",
+        "href": null
+      },
+      {
+        "label": "First investment",
+        "value": "Seed, 2025",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund V",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2024",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "Austin, US",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://amperra.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$7M raised across 2 rounds",
+    "rounds": [
+      {
+        "date": "Aug 2024",
+        "name": "Pre-seed",
+        "amount": "· $1M",
+        "lead": "Led by Brightwater Seed",
+        "badge": ""
+      },
+      {
+        "date": "Mar 2025",
+        "name": "Seed",
+        "amount": "· $6M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": null,
+    "related": ["albedo", "fernway", "kiln"],
+    "firstYear": "2025"
+  },
+  {
+    "slug": "arbor",
+    "name": "Arbor",
+    "href": "/portfolio/arbor",
+    "logo": {
+      "src": "/images/companies/arbor.svg",
+      "alt": ""
+    },
+    "tagline": "Treasury management for growing companies",
+    "sector": "Fintech",
+    "stage": "Seed",
+    "cardStatus": "Opkøbt af Meridian Bank",
+    "status": "Acquired by Meridian Bank, 2019",
+    "active": false,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Arbor gives finance teams at companies with 50 to 500 staff a single view of their cash across banks, currencies and entities. It connects to more than 30 European banks, forecasts liquidity thirteen weeks out and sweeps surplus balances into money market funds automatically, work most of its customers had been doing by hand in spreadsheets."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We met Pieter and Mila a few months after they left the treasury desk of a large Dutch insurer, where they had built a rough version of the product for internal use. Nadia led the seed round in 2013, our fourth investment from Fund I, and sat on the board through the Series B."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "By 2019 Arbor was managing more than €9 billion in client balances for some 1,400 companies. Meridian Bank acquired it that year to offer treasury tools to its business banking clients, and the Arbor team still runs the product from Amsterdam."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Nadia Mensah",
+      "href": "/team/nadia-mensah"
+    },
+    "partnerImage": {
+      "src": "/images/team/nadia-mensah.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Pieter de Vries",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Mila Jansen",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Fintech",
+        "href": "/sectors/fintech"
+      },
+      {
+        "label": "First investment",
+        "value": "Seed, 2013",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund I",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2012",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "Amsterdam, Netherlands",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://arbor.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$44.5M raised across 3 rounds",
+    "rounds": [
+      {
+        "date": "Apr 2013",
+        "name": "Seed",
+        "amount": "· $2.5M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Jun 2015",
+        "name": "Series A",
+        "amount": "· $12M",
+        "lead": "Led by Alderhill Ventures",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Sep 2017",
+        "name": "Series B",
+        "amount": "· $30M",
+        "lead": "Led by Harbourline Capital",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": {
+      "year": "2019",
+      "label": "Acquired by Meridian Bank"
+    },
+    "related": ["covera", "juniper", "payfield"],
+    "firstYear": "2013"
+  },
+  {
+    "slug": "cardia",
+    "name": "Cardia",
+    "href": "/portfolio/cardia",
+    "logo": {
+      "src": "/images/companies/cardia.svg",
+      "alt": ""
+    },
+    "tagline": "Remote cardiac monitoring after discharge",
+    "sector": "Sundhed",
+    "stage": "Series A",
+    "cardStatus": "Opkøbt af Halvard Medical",
+    "status": "Acquired by Halvard Medical, 2021",
+    "active": false,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Cardia sends heart patients home from hospital with a small adhesive patch that records a continuous ECG for 30 days. Its software reviews the data around the clock and alerts the discharging cardiology team when it sees an arrhythmia or other warning sign, often before the patient notices symptoms. In a Danish study of 2,400 patients, readmissions within 30 days fell by 27 per cent."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Freja is a cardiologist who saw the gap between discharge and the first follow-up appointment every week on the ward. Amira led our Series A in 2017, and we helped the company through CE marking and its first hospital contracts outside Scandinavia."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Halvard Medical acquired Cardia in 2021. By then the patch was in use at 140 hospitals across nine European countries, and it now forms part of Halvard's cardiology portfolio."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Amira Haddad",
+      "href": "/team/amira-haddad"
+    },
+    "partnerImage": {
+      "src": "/images/team/amira-haddad.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Dr Freja Holm",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Anders Berg",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Sundhed",
+        "href": "/sectors/health"
+      },
+      {
+        "label": "First investment",
+        "value": "Series A, 2017",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund II",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2015",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "Copenhagen, Denmark",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://cardia.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$59.5M raised across 3 rounds",
+    "rounds": [
+      {
+        "date": "Feb 2016",
+        "name": "Seed",
+        "amount": "· $3.5M",
+        "lead": "Led by Brightwater Seed",
+        "badge": ""
+      },
+      {
+        "date": "May 2017",
+        "name": "Series A",
+        "amount": "· $16M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Sep 2019",
+        "name": "Series B",
+        "amount": "· $40M",
+        "lead": "Led by Sablepoint Capital",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": {
+      "year": "2021",
+      "label": "Acquired by Halvard Medical"
+    },
+    "related": ["lumio", "ostra", "priora"],
+    "firstYear": "2017"
+  },
+  {
+    "slug": "corvid",
+    "name": "Corvid",
+    "href": "/portfolio/corvid",
+    "logo": {
+      "src": "/images/companies/corvid.svg",
+      "alt": ""
+    },
+    "tagline": "Sikkerhedsanalyse til cloud-native teams",
+    "sector": "Infrastruktur",
+    "stage": "Seed",
+    "cardStatus": "Opkøbt af Palisade",
+    "status": "Acquired by Palisade, 2023",
+    "active": false,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Corvid watches the logs, network traffic and configuration changes of cloud-native applications and flags the handful of events that deserve a person's attention. Its detection models are trained on how containers and serverless functions actually behave, so a security team of two or three people can cover infrastructure that changes hundreds of times a day."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Noor had run incident response at a large hosting provider, and Sam had built its internal monitoring tools. We led the seed round in 2017 after watching them turn a week of alert noise at one design partner into eleven real findings. Theo sat on the board for six years."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Palisade acquired Corvid in 2023, when the company had 420 customers and annual revenue above $60 million. Its detection engine now sits at the centre of Palisade's cloud security suite, and much of the original Boston team is still there."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Theo Marchetti",
+      "href": "/team/theo-marchetti"
+    },
+    "partnerImage": {
+      "src": "/images/team/theo-marchetti.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Noor Rahman",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Sam Adler",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Infrastruktur",
+        "href": "/sectors/infrastructure"
+      },
+      {
+        "label": "First investment",
+        "value": "Seed, 2017",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund II",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2016",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "Boston, US",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://corvid.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$187M raised across 4 rounds",
+    "rounds": [
+      {
+        "date": "Mar 2017",
+        "name": "Seed",
+        "amount": "· $4M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Oct 2018",
+        "name": "Series A",
+        "amount": "· $18M",
+        "lead": "Led by Graystone Peak",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Nov 2020",
+        "name": "Series B",
+        "amount": "· $55M",
+        "lead": "Led by Westerly Growth",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Apr 2022",
+        "name": "Series C",
+        "amount": "· $110M",
+        "lead": "Led by Kestrel Ridge",
+        "badge": ""
+      }
+    ],
+    "exit": {
+      "year": "2023",
+      "label": "Acquired by Palisade"
+    },
+    "related": ["gatehouse", "parallax", "stackwell"],
+    "firstYear": "2017"
+  },
+  {
+    "slug": "covera",
+    "name": "Covera",
+    "href": "/portfolio/covera",
+    "logo": {
+      "src": "/images/companies/covera.svg",
+      "alt": ""
+    },
+    "tagline": "Embedded insurance for marketplaces",
+    "sector": "Fintech",
+    "stage": "Series A",
+    "cardStatus": "Aktiv",
+    "status": "Active",
+    "active": true,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Through a single API, Covera lets marketplaces and platforms offer insurance at the point of sale. A peer-to-peer rental site can add damage cover to each booking, or a freelance platform can give its workers income protection, while Covera handles pricing, policy documents, claims and regulatory reporting across 14 European markets."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Daniel previously ran partnerships at a London insurance broker, and Elif built claims systems for a large European insurer. Hana led our investment in the 2023 Series A. What stood out was the claims experience: most claims through Covera are settled within 48 hours, which keeps both the platforms and their users coming back."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Covera now works with more than 120 platforms and wrote over £90 million in gross premiums last year, with a loss ratio well below the market average."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Hana Weber",
+      "href": "/team/hana-weber"
+    },
+    "partnerImage": {
+      "src": "/images/team/hana-weber.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Daniel Okafor",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Elif Kaya",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Fintech",
+        "href": "/sectors/fintech"
+      },
+      {
+        "label": "First investment",
+        "value": "Series A, 2023",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund IV",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2021",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "London, UK",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://covera.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$61.5M raised across 3 rounds",
+    "rounds": [
+      {
+        "date": "Sep 2021",
+        "name": "Seed",
+        "amount": "· $3.5M",
+        "lead": "Led by Brightwater Seed",
+        "badge": ""
+      },
+      {
+        "date": "Apr 2023",
+        "name": "Series A",
+        "amount": "· $16M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Oct 2025",
+        "name": "Series B",
+        "amount": "· $42M",
+        "lead": "Led by Harbourline Capital",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": null,
+    "related": ["arbor", "juniper", "payfield"],
+    "firstYear": "2023"
+  },
+  {
+    "slug": "fernway",
+    "name": "Fernway",
+    "href": "/portfolio/fernway",
+    "logo": {
+      "src": "/images/companies/fernway.svg",
+      "alt": ""
+    },
+    "tagline": "Sporbart tømmer til byggeriet",
+    "sector": "Klima",
+    "stage": "Series A",
+    "cardStatus": "Aktiv",
+    "status": "Active",
+    "active": true,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Fernway tracks timber from the forest to the building site. Every beam and panel carries a tag linked to a record of where the tree was felled, how the wood was processed and its embodied carbon, giving developers and architects the evidence they need for green building certification and for new European rules on deforestation-free supply."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Astrid was head of sustainability at a Swedish construction group, and Johan built supply chain software for the forestry industry. Clara led our investment in the 2023 Series A after hearing the same request from three large contractors in our network: a reliable way to prove where their timber came from."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Fernway now traces more than four million cubic metres of timber a year, working with 160 sawmills in the Nordics and the Baltics and more than 90 contractors across Europe."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Clara Novak",
+      "href": "/team/clara-novak"
+    },
+    "partnerImage": {
+      "src": "/images/team/clara-novak.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Astrid Lund",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Johan Ek",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Klima",
+        "href": null
+      },
+      {
+        "label": "First investment",
+        "value": "Series A, 2023",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund IV",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2020",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "Stockholm, Sweden",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://fernway.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$60M raised across 3 rounds",
+    "rounds": [
+      {
+        "date": "Apr 2021",
+        "name": "Seed",
+        "amount": "· $3M",
+        "lead": "Led by Fjordline Ventures",
+        "badge": ""
+      },
+      {
+        "date": "Feb 2023",
+        "name": "Series A",
+        "amount": "· $17M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Jun 2025",
+        "name": "Series B",
+        "amount": "· $40M",
+        "lead": "Led by Harbourline Capital",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": null,
+    "related": ["albedo", "amperra", "kiln"],
+    "firstYear": "2023"
+  },
+  {
+    "slug": "gatehouse",
+    "name": "Gatehouse",
+    "href": "/portfolio/gatehouse",
+    "logo": {
+      "src": "/images/companies/gatehouse.svg",
+      "alt": ""
+    },
+    "tagline": "Identity infrastructure for developers",
+    "sector": "Infrastruktur",
+    "stage": "Seed",
+    "cardStatus": "Opkøbt af Cobalt Systems",
+    "status": "Acquired by Cobalt Systems, 2020",
+    "active": false,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Gatehouse handles sign-up, login and permissions for software teams that would rather not build them. A developer adds a few lines of code and gets passwords, single sign-on, multi-factor authentication and role-based access, with an audit trail that holds up in enterprise security reviews."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Ethan and Lior had both spent years maintaining homegrown authentication systems at larger companies and knew how much engineering time disappeared into them. Theo led the seed round in 2014, one of Fund I's first investments in the US, and spent much of the following year helping the company close its first enterprise customers."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "When Cobalt Systems acquired Gatehouse in 2020, its API was handling more than two billion authentication requests a month across 11,000 applications. The product now forms the identity layer of Cobalt's developer platform, and both founders stayed on for three years after the deal."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Theo Marchetti",
+      "href": "/team/theo-marchetti"
+    },
+    "partnerImage": {
+      "src": "/images/team/theo-marchetti.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Ethan Park",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Lior Ben-David",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Infrastruktur",
+        "href": "/sectors/infrastructure"
+      },
+      {
+        "label": "First investment",
+        "value": "Seed, 2014",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund I",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2013",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "San Francisco, US",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://gatehouse.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$59M raised across 3 rounds",
+    "rounds": [
+      {
+        "date": "Feb 2014",
+        "name": "Seed",
+        "amount": "· $3M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Nov 2015",
+        "name": "Series A",
+        "amount": "· $14M",
+        "lead": "Led by Graystone Peak",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Mar 2018",
+        "name": "Series B",
+        "amount": "· $42M",
+        "lead": "Led by Westerly Growth",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": {
+      "year": "2020",
+      "label": "Acquired by Cobalt Systems"
+    },
+    "related": ["corvid", "parallax", "stackwell"],
+    "firstYear": "2014"
+  },
+  {
+    "slug": "halden",
+    "name": "Halden",
+    "href": "/portfolio/halden",
+    "logo": {
+      "src": "/images/companies/halden.svg",
+      "alt": ""
+    },
+    "tagline": "Factory software for precision machining",
+    "sector": "Industri",
+    "stage": "Series A",
+    "cardStatus": "Aktiv",
+    "status": "Active",
+    "active": true,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Most precision machine shops, the small and mid-sized manufacturers that make parts for aircraft, medical devices and chip-making equipment, still run on whiteboards and spreadsheets. Halden replaces them. It connects directly to CNC machines, schedules jobs across the shop floor and tracks every part from quote to final inspection."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Joris grew up in his family's machining business outside Eindhoven, and Sanne ran operations at a contract manufacturer before they started the company together. Grant led the Series A in 2019 after spending two days on the floor of one of Halden's earliest customers, watching the planners work."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Today more than 600 shops in Europe and North America run on Halden, and customers report machine utilisation rising by around 15 per cent in their first year. We have invested in every round since."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Grant Holloway",
+      "href": "/team/grant-holloway"
+    },
+    "partnerImage": {
+      "src": "/images/team/grant-holloway.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Joris Bakker",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Sanne Visser",
+        "role": "Co-founder and COO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Industri",
+        "href": "/sectors/industrials"
+      },
+      {
+        "label": "First investment",
+        "value": "Series A, 2019",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund III",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2017",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "Rotterdam, Netherlands",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://halden.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$130M raised across 4 rounds",
+    "rounds": [
+      {
+        "date": "Jan 2018",
+        "name": "Seed",
+        "amount": "· $3M",
+        "lead": "Led by Lowlands Seed Fund",
+        "badge": ""
+      },
+      {
+        "date": "Apr 2019",
+        "name": "Series A",
+        "amount": "· $14M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Oct 2021",
+        "name": "Series B",
+        "amount": "· $38M",
+        "lead": "Led by Graystone Peak",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "May 2024",
+        "name": "Series C",
+        "amount": "· $75M",
+        "lead": "Led by Kestrel Ridge",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": null,
+    "related": ["loadstar", "veldt"],
+    "firstYear": "2019"
+  },
+  {
+    "slug": "juniper",
+    "name": "Juniper",
+    "href": "/portfolio/juniper",
+    "logo": {
+      "src": "/images/companies/juniper.svg",
+      "alt": ""
+    },
+    "tagline": "Fraud prevention for instant payments",
+    "sector": "Fintech",
+    "stage": "Seed",
+    "cardStatus": "Aktiv",
+    "status": "Active",
+    "active": true,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Instant payments settle in seconds and cannot be recalled, which makes them an easy target for fraud. Banks and payment providers send each transfer to Juniper before it goes through, and its models score the risk in under 50 milliseconds, drawing on the device, the payee's account history and patterns across the network to catch scams that rely on talking people into paying."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Camille led fraud strategy at a French retail bank, and Hugo built real-time risk systems for a large European card processor. With new rules making instant payments standard across the euro area, the need was clear to us. Rafael led our seed investment in 2026."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Six banks in France and Belgium already run Juniper in production, screening around four million payments a week. The team plans to expand into Germany and Spain next year."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Rafael Costa",
+      "href": "/team/rafael-costa"
+    },
+    "partnerImage": {
+      "src": "/images/team/rafael-costa.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Camille Laurent",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Hugo Martin",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Fintech",
+        "href": "/sectors/fintech"
+      },
+      {
+        "label": "First investment",
+        "value": "Seed, 2026",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund V",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2025",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "Paris, France",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://juniper.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$5M raised across 1 round",
+    "rounds": [
+      {
+        "date": "Feb 2026",
+        "name": "Seed",
+        "amount": "· $5M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": null,
+    "related": ["arbor", "covera", "payfield"],
+    "firstYear": "2026"
+  },
+  {
+    "slug": "kiln",
+    "name": "Kiln",
+    "href": "/portfolio/kiln",
+    "logo": {
+      "src": "/images/companies/kiln.svg",
+      "alt": ""
+    },
+    "tagline": "Low-carbon cement for precast makers",
+    "sector": "Klima",
+    "stage": "Seed",
+    "cardStatus": "Aktiv",
+    "status": "Active",
+    "active": true,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Kiln supplies a low-carbon binder that precast concrete manufacturers can use in place of ordinary cement. It is made largely from calcined clay and industrial by-products, cures at the speed precast plants need, and cuts the embodied carbon of a finished panel or beam by around 45 per cent with no changes to existing moulds or equipment."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Tanya ran a precast plant in Michigan for nine years, and Victor is a materials scientist who spent his early career on cement chemistry. Clara led the seed round in 2025, after Kiln's first production trial at a plant outside Detroit ran for three months without a single rejected batch."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Kiln now supplies four precast manufacturers in the Midwest and is building its first dedicated production line, due to open in 2027."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Clara Novak",
+      "href": "/team/clara-novak"
+    },
+    "partnerImage": {
+      "src": "/images/team/clara-novak.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Tanya Reid",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Victor Hale",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Klima",
+        "href": null
+      },
+      {
+        "label": "First investment",
+        "value": "Seed, 2025",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund V",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2024",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "Detroit, US",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://kiln.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$7M raised across 1 round",
+    "rounds": [
+      {
+        "date": "Sep 2025",
+        "name": "Seed",
+        "amount": "· $7M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": null,
+    "related": ["albedo", "amperra", "fernway"],
+    "firstYear": "2025"
+  },
+  {
+    "slug": "kitebird",
+    "name": "Kitebird",
+    "href": "/portfolio/kitebird",
+    "logo": {
+      "src": "/images/companies/kitebird.svg",
+      "alt": ""
+    },
+    "tagline": "Scheduling for frontline workforces",
+    "sector": "Software",
+    "stage": "Series A",
+    "cardStatus": "Aktiv",
+    "status": "Active",
+    "active": true,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Retailers, care providers and hospitality groups use Kitebird to schedule staff who rarely sit at a desk. Managers build a rota in minutes, and employees swap shifts, pick up open ones and request leave from their phones, with rules on working hours and rest breaks enforced automatically. Its largest customer schedules 38,000 people across 1,100 sites."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "We first met Priya when she was running workforce planning for a national supermarket chain and building her own tools on the side. Kwame led our investment in the 2020 Series A, a few months into the pandemic, when frontline employers were redrawing their rotas every week and Kitebird's usage tripled."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The company now works with more than 2,000 employers in the UK, Ireland and the Nordics, and is opening its first office in North America."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Kwame Asante",
+      "href": "/team/kwame-asante"
+    },
+    "partnerImage": {
+      "src": "/images/team/kwame-asante.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Priya Shah",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Tom Ellery",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Software",
+        "href": "/sectors/software"
+      },
+      {
+        "label": "First investment",
+        "value": "Series A, 2020",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund III",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2018",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "London, UK",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://kitebird.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$73.5M raised across 3 rounds",
+    "rounds": [
+      {
+        "date": "Nov 2018",
+        "name": "Seed",
+        "amount": "· $3.5M",
+        "lead": "Led by Alderhill Ventures",
+        "badge": ""
+      },
+      {
+        "date": "Mar 2020",
+        "name": "Series A",
+        "amount": "· $18M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Jun 2022",
+        "name": "Series B",
+        "amount": "· $52M",
+        "lead": "Led by Harbourline Capital",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": null,
+    "related": ["tabula", "verity"],
+    "firstYear": "2020"
+  },
+  {
+    "slug": "loadstar",
+    "name": "Loadstar",
+    "href": "/portfolio/loadstar",
+    "logo": {
+      "src": "/images/companies/loadstar.svg",
+      "alt": ""
+    },
+    "tagline": "Lagerrobotter, der lejes pr. time",
+    "sector": "Industri",
+    "stage": "Series A",
+    "cardStatus": "Børsnoteret, Nasdaq",
+    "status": "IPO, Nasdaq, 2021",
+    "active": false,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Loadstar builds autonomous mobile robots for warehouses and rents them by the hour rather than selling them outright. Customers pay only for the hours the fleet works, which lets a regional distributor add capacity for the peak season without a seven-figure capital outlay. Robots are typically on the floor within six weeks of signing."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Dana and Marcus came out of a robotics lab in Pittsburgh with working hardware and an unusual commercial model. Grant led the Series A in 2014, when the company had three paying customers and 40 robots in the field, and we backed every round that followed."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Loadstar listed on Nasdaq in 2021 with more than 9,000 robots deployed across 300 sites in North America and Europe. It remains one of the strongest results in Fund I, and both founders still run the company."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Grant Holloway",
+      "href": "/team/grant-holloway"
+    },
+    "partnerImage": {
+      "src": "/images/team/grant-holloway.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Dana Whitfield",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Marcus Lowe",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Industri",
+        "href": "/sectors/industrials"
+      },
+      {
+        "label": "First investment",
+        "value": "Series A, 2014",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund I",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2012",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "Pittsburgh, US",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://loadstar.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$298M raised across 5 rounds",
+    "rounds": [
+      {
+        "date": "Jan 2013",
+        "name": "Seed",
+        "amount": "· $2M",
+        "lead": "Led by Brightwater Seed",
+        "badge": ""
+      },
+      {
+        "date": "May 2014",
+        "name": "Series A",
+        "amount": "· $11M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Feb 2016",
+        "name": "Series B",
+        "amount": "· $35M",
+        "lead": "Led by Sablepoint Capital",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Jul 2018",
+        "name": "Series C",
+        "amount": "· $90M",
+        "lead": "Led by Kestrel Ridge",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Mar 2020",
+        "name": "Series D",
+        "amount": "· $160M",
+        "lead": "Led by Westerly Growth",
+        "badge": ""
+      }
+    ],
+    "exit": {
+      "year": "2021",
+      "label": "IPO, Nasdaq"
+    },
+    "related": ["halden", "veldt"],
+    "firstYear": "2014"
+  },
+  {
+    "slug": "lumio",
+    "name": "Lumio",
+    "href": "/portfolio/lumio",
+    "logo": {
+      "src": "/images/companies/lumio.svg",
+      "alt": ""
+    },
+    "tagline": "Diagnostik i laboratoriekvalitet derhjemme",
+    "sector": "Sundhed",
+    "stage": "Seed",
+    "cardStatus": "Aktiv",
+    "status": "Active",
+    "active": true,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Lumio makes a home testing kit that produces results to the standard of a clinical laboratory. Patients draw a few drops of blood with a painless device on the upper arm, post the sample back in a stabilising cartridge and receive results for up to 40 markers within three days, each reviewed by a doctor. Insurers in Germany and Austria now reimburse several of its panels."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Lea had led diagnostics partnerships at a large German hospital group, and Yusuf spent eight years developing sample stabilisation chemistry at a university lab in Heidelberg. Amira led the seed round in 2022 and has worked closely with the team on reimbursement and regulatory approval since."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Lumio processed more than 300,000 tests last year and has opened its own laboratory in Leipzig to keep up with demand."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Amira Haddad",
+      "href": "/team/amira-haddad"
+    },
+    "partnerImage": {
+      "src": "/images/team/amira-haddad.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Lea Hoffmann",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Yusuf Demir",
+        "role": "Co-founder and CSO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Sundhed",
+        "href": "/sectors/health"
+      },
+      {
+        "label": "First investment",
+        "value": "Seed, 2022",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund IV",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2021",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "Berlin, Germany",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://lumio.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$26M raised across 2 rounds",
+    "rounds": [
+      {
+        "date": "Mar 2022",
+        "name": "Seed",
+        "amount": "· $5M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Nov 2023",
+        "name": "Series A",
+        "amount": "· $21M",
+        "lead": "Led by Harbourline Capital",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": null,
+    "related": ["cardia", "ostra", "priora"],
+    "firstYear": "2022"
+  },
+  {
+    "slug": "ostra",
+    "name": "Ostra",
+    "href": "/portfolio/ostra",
+    "logo": {
+      "src": "/images/companies/ostra.svg",
+      "alt": ""
+    },
+    "tagline": "Clinical trial recruitment in weeks, not months",
+    "sector": "Sundhed",
+    "stage": "Seed",
+    "cardStatus": "Opkøbt af Calder Health",
+    "status": "Acquired by Calder Health, 2025",
+    "active": false,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Finding patients is the slowest part of most clinical trials. Ostra matches trial eligibility criteria against de-identified records from partner hospital networks, then works through each patient's own physician to make the introduction. Sponsors using Ostra have filled oncology trials in an average of 11 weeks, against an industry norm of six months or more."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Rachel had run trial operations at a mid-sized biotech and lost count of the studies held up by slow enrolment, while Ben had built data systems for a large hospital group. We led the seed round in 2019, and Amira joined the board as the company grew its network to 90 health systems across the United States."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Calder Health acquired Ostra in 2025 to bring recruitment into its contract research business. Rachel now leads Calder's patient access division, and the Boston team has more than doubled since the deal."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Amira Haddad",
+      "href": "/team/amira-haddad"
+    },
+    "partnerImage": {
+      "src": "/images/team/amira-haddad.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Rachel Okoro",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Ben Hartley",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Sundhed",
+        "href": "/sectors/health"
+      },
+      {
+        "label": "First investment",
+        "value": "Seed, 2019",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund III",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2018",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "Boston, US",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://ostra.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$71M raised across 3 rounds",
+    "rounds": [
+      {
+        "date": "Jun 2019",
+        "name": "Seed",
+        "amount": "· $4M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Feb 2021",
+        "name": "Series A",
+        "amount": "· $19M",
+        "lead": "Led by Harbourline Capital",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "May 2023",
+        "name": "Series B",
+        "amount": "· $48M",
+        "lead": "Led by Sablepoint Capital",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": {
+      "year": "2025",
+      "label": "Acquired by Calder Health"
+    },
+    "related": ["cardia", "lumio", "priora"],
+    "firstYear": "2019"
+  },
+  {
+    "slug": "parallax",
+    "name": "Parallax",
+    "href": "/portfolio/parallax",
+    "logo": {
+      "src": "/images/companies/parallax.svg",
+      "alt": ""
+    },
+    "tagline": "Observability til machine learning-systemer",
+    "sector": "Infrastruktur",
+    "stage": "Series A",
+    "cardStatus": "Aktiv",
+    "status": "Active",
+    "active": true,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Parallax shows machine learning teams what their models are doing in production. It tracks input data, predictions and outcomes, alerts engineers when accuracy starts to drift, and traces a bad prediction back to the feature or data source that caused it. For teams running large language models, it also monitors cost, latency and response quality per request."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Arjun and Hannah ran the model platform at a large online marketplace, where a silent failure in a pricing model once went unnoticed for nine days. Rafael led our investment in the Series A in 2022 and sits on the board."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Parallax now monitors more than 30,000 models for 850 companies, from fraud detection at banks to recommendation systems at retailers. Its annual recurring revenue has more than tripled in the past eighteen months, and the team has doubled to 160 people."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Rafael Costa",
+      "href": "/team/rafael-costa"
+    },
+    "partnerImage": {
+      "src": "/images/team/rafael-costa.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Arjun Patel",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Hannah Cole",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Infrastruktur",
+        "href": "/sectors/infrastructure"
+      },
+      {
+        "label": "First investment",
+        "value": "Series A, 2022",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund IV",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2020",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "San Francisco, US",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://parallax.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$86M raised across 3 rounds",
+    "rounds": [
+      {
+        "date": "Jan 2021",
+        "name": "Seed",
+        "amount": "· $4M",
+        "lead": "Led by Alderhill Ventures",
+        "badge": ""
+      },
+      {
+        "date": "May 2022",
+        "name": "Series A",
+        "amount": "· $22M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Sep 2024",
+        "name": "Series B",
+        "amount": "· $60M",
+        "lead": "Led by Westerly Growth",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": null,
+    "related": ["corvid", "gatehouse", "stackwell"],
+    "firstYear": "2022"
+  },
+  {
+    "slug": "payfield",
+    "name": "Payfield",
+    "href": "/portfolio/payfield",
+    "logo": {
+      "src": "/images/companies/payfield.svg",
+      "alt": ""
+    },
+    "tagline": "Løn og compliance i 40 lande",
+    "sector": "Fintech",
+    "stage": "Series B",
+    "cardStatus": "Aktiv",
+    "status": "Active",
+    "active": true,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Payfield lets a company hire and pay people in 40 countries without opening a local entity in each one. It runs payroll, files taxes, handles statutory benefits and keeps employment contracts in line with local law, all from a single account. A startup with staff in six countries can run payroll for all of them in an afternoon."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Aoife and Karan met while leading international expansion at a Dublin software company, where setting up payroll in a new country took four months and a stack of local advisers. We got to know them in 2018 and led the Series B two years later, when Nadia joined the board."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Payfield now pays more than 180,000 people each month on behalf of 9,000 employers, and it holds its own payroll licences in 28 of its 40 markets."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Nadia Mensah",
+      "href": "/team/nadia-mensah"
+    },
+    "partnerImage": {
+      "src": "/images/team/nadia-mensah.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Aoife Byrne",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Karan Mehta",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Fintech",
+        "href": "/sectors/fintech"
+      },
+      {
+        "label": "First investment",
+        "value": "Series B, 2020",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund III",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2017",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "Dublin, Ireland",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://payfield.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$392M raised across 5 rounds",
+    "rounds": [
+      {
+        "date": "Oct 2017",
+        "name": "Seed",
+        "amount": "· $3M",
+        "lead": "Led by Alderhill Ventures",
+        "badge": ""
+      },
+      {
+        "date": "Dec 2018",
+        "name": "Series A",
+        "amount": "· $14M",
+        "lead": "Led by Brightwater Seed",
+        "badge": ""
+      },
+      {
+        "date": "Sep 2020",
+        "name": "Series B",
+        "amount": "· $45M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Nov 2022",
+        "name": "Series C",
+        "amount": "· $110M",
+        "lead": "Led by Westerly Growth",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Aug 2026",
+        "name": "Series D",
+        "amount": "· $220M",
+        "lead": "Led by Kestrel Ridge",
+        "badge": ""
+      }
+    ],
+    "exit": null,
+    "related": ["arbor", "covera", "juniper"],
+    "firstYear": "2020"
+  },
+  {
+    "slug": "priora",
+    "name": "Priora",
+    "href": "/portfolio/priora",
+    "logo": {
+      "src": "/images/companies/priora.svg",
+      "alt": ""
+    },
+    "tagline": "Prior authorisation, automated",
+    "sector": "Sundhed",
+    "stage": "Pre-seed",
+    "cardStatus": "Aktiv",
+    "status": "Active",
+    "active": true,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Prior authorisation, the process by which an insurer approves a treatment or medication before a patient receives it, costs clinics hours of staff time every day. Priora reads the clinical notes, assembles the evidence each payer requires, submits the request and follows up until there is a decision. Requests that took a clinic 40 minutes each now take about five."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Samir is a family physician who was spending several hours a week on authorisation paperwork, and Kate built clinical data pipelines for a large Canadian hospital network. We wrote our first cheque in 2025, the same year they founded the company. Amira has worked closely with them on their early deployments."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Priora is live in 30 clinics across Ontario and the north-eastern United States, and handled more than 25,000 requests in its first nine months."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Amira Haddad",
+      "href": "/team/amira-haddad"
+    },
+    "partnerImage": {
+      "src": "/images/team/amira-haddad.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Dr Samir Nadeem",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Kate Sutherland",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Sundhed",
+        "href": "/sectors/health"
+      },
+      {
+        "label": "First investment",
+        "value": "Pre-seed, 2025",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund V",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2025",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "Toronto, Canada",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://priora.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$2M raised across 1 round",
+    "rounds": [
+      {
+        "date": "Jun 2025",
+        "name": "Pre-seed",
+        "amount": "· $2M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": null,
+    "related": ["cardia", "lumio", "ostra"],
+    "firstYear": "2025"
+  },
+  {
+    "slug": "quillo",
+    "name": "Quillo",
+    "href": "/portfolio/quillo",
+    "logo": {
+      "src": "/images/companies/quillo.svg",
+      "alt": ""
+    },
+    "tagline": "Accounts payable for mid-market finance teams",
+    "sector": "Fintech",
+    "stage": "Pre-seed",
+    "cardStatus": "Aktiv",
+    "status": "Active",
+    "active": true,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Quillo automates accounts payable for finance teams at companies with $50 million to $1 billion in revenue. It reads incoming invoices, matches them to purchase orders and receipts, routes exceptions to the right approver and times payments to capture early-payment discounts. Customers typically close their books three days sooner."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Grace spent six years as a controller at a manufacturing company, where a team of nine processed every invoice by hand. Nate had built payment systems at a business banking provider. We wrote the first cheque in 2021, a few weeks after they incorporated, and have followed on in each round since. Kwame works with the team on hiring and sales."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Quillo now processes more than $14 billion in payables a year for 700 mid-market companies across the US and Canada."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Kwame Asante",
+      "href": "/team/kwame-asante"
+    },
+    "partnerImage": {
+      "src": "/images/team/kwame-asante.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Grace Liu",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Nate Pryce",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Fintech",
+        "href": "/sectors/fintech"
+      },
+      {
+        "label": "First investment",
+        "value": "Pre-seed, 2021",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund IV",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2021",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "New York, US",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://quillo.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$31.5M raised across 3 rounds",
+    "rounds": [
+      {
+        "date": "May 2021",
+        "name": "Pre-seed",
+        "amount": "· $1.5M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Jul 2022",
+        "name": "Seed",
+        "amount": "· $6M",
+        "lead": "Led by Alderhill Ventures",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Mar 2024",
+        "name": "Series A",
+        "amount": "· $24M",
+        "lead": "Led by Graystone Peak",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": null,
+    "related": ["arbor", "covera", "juniper"],
+    "firstYear": "2021"
+  },
+  {
+    "slug": "stackwell",
+    "name": "Stackwell",
+    "href": "/portfolio/stackwell",
+    "logo": {
+      "src": "/images/companies/stackwell.svg",
+      "alt": ""
+    },
+    "tagline": "En database bygget til eventdata",
+    "sector": "Infrastruktur",
+    "stage": "Seed",
+    "cardStatus": "Aktiv",
+    "status": "Active",
+    "active": true,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Stackwell is a database designed for event data: clicks, sensor readings, transactions and logs that arrive in vast numbers and are queried by time. It keeps data in a compressed columnar format on inexpensive object storage and still answers most queries in under a second, at a fraction of the cost of a general-purpose warehouse."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Wen and Diego built the first version while working on the data platform at a large ride-hailing company, where event volume was growing faster than any existing tool could handle. We led the seed round in 2018, a few months after the open-source project reached its first thousand production users. Theo has been on the board since."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "More than 1,500 companies now run Stackwell in production, and revenue from its managed cloud service has grown by more than 150 per cent a year for three years running."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Theo Marchetti",
+      "href": "/team/theo-marchetti"
+    },
+    "partnerImage": {
+      "src": "/images/team/theo-marchetti.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Wen Li",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Diego Ramos",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Infrastruktur",
+        "href": "/sectors/infrastructure"
+      },
+      {
+        "label": "First investment",
+        "value": "Seed, 2018",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund III",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2018",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "San Francisco, US",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://stackwell.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$219.5M raised across 4 rounds",
+    "rounds": [
+      {
+        "date": "Aug 2018",
+        "name": "Seed",
+        "amount": "· $4.5M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Dec 2019",
+        "name": "Series A",
+        "amount": "· $20M",
+        "lead": "Led by Graystone Peak",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Sep 2021",
+        "name": "Series B",
+        "amount": "· $70M",
+        "lead": "Led by Westerly Growth",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Feb 2024",
+        "name": "Series C",
+        "amount": "· $125M",
+        "lead": "Led by Kestrel Ridge",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": null,
+    "related": ["corvid", "gatehouse", "parallax"],
+    "firstYear": "2018"
+  },
+  {
+    "slug": "tabula",
+    "name": "Tabula",
+    "href": "/portfolio/tabula",
+    "logo": {
+      "src": "/images/companies/tabula.svg",
+      "alt": ""
+    },
+    "tagline": "Spreadsheets for operations teams",
+    "sector": "Software",
+    "stage": "Pre-seed",
+    "cardStatus": "Aktiv",
+    "status": "Active",
+    "active": true,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Tabula gives operations teams a spreadsheet that behaves like an application. Teams start from a familiar grid, then add forms, approvals, permissions and live connections to their other systems, so a supplier tracker or inventory log can grow into a proper tool without anyone writing code. Logistics companies and retailers make up most of its customers."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Felix and Mira met at a Berlin delivery company, where they once counted more than 400 business-critical spreadsheets in a single operations department. We led the pre-seed round in 2021, when the product was still a prototype. Kwame has worked with them since, from the first ten customers through to the Series A."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Tabula now has more than 3,000 paying teams, and around a third of new accounts are opened by people who used it at a previous job."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Kwame Asante",
+      "href": "/team/kwame-asante"
+    },
+    "partnerImage": {
+      "src": "/images/team/kwame-asante.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Felix Wagner",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Mira Kovač",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Software",
+        "href": "/sectors/software"
+      },
+      {
+        "label": "First investment",
+        "value": "Pre-seed, 2021",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund IV",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2021",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "Berlin, Germany",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://tabula.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$26.2M raised across 3 rounds",
+    "rounds": [
+      {
+        "date": "Jun 2021",
+        "name": "Pre-seed",
+        "amount": "· $1.2M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Oct 2022",
+        "name": "Seed",
+        "amount": "· $5M",
+        "lead": "Led by Alderhill Ventures",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Nov 2024",
+        "name": "Series A",
+        "amount": "· $20M",
+        "lead": "Led by Graystone Peak",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": null,
+    "related": ["kitebird", "verity"],
+    "firstYear": "2021"
+  },
+  {
+    "slug": "tidewater",
+    "name": "Tidewater",
+    "href": "/portfolio/tidewater",
+    "logo": {
+      "src": "/images/companies/tidewater.svg",
+      "alt": ""
+    },
+    "tagline": "Langtidslagring til kystnære elnet",
+    "sector": "Klima",
+    "stage": "Seed",
+    "cardStatus": "Børsnoteret, Oslo Børs",
+    "status": "IPO, Oslo Børs, 2024",
+    "active": false,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Tidewater makes iron-air battery systems for grid operators along the Norwegian and North Sea coast, where offshore wind output can swing sharply from one day to the next. Each installation stores energy for up to 100 hours, long enough to carry a regional grid through a calm spell, and uses materials that are cheap and widely available."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Ingrid and Erik had spent a decade in the Norwegian energy sector before starting the company. We invested in the seed round in 2016, when Tidewater was eleven people and a test cell in a borrowed workshop. Clara joined the board that year and helped recruit its first head of manufacturing."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "The company listed on Oslo Børs in 2024 with 1.4 gigawatt-hours of storage under contract across Norway, Denmark and Scotland. We remain one of its larger shareholders."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Clara Novak",
+      "href": "/team/clara-novak"
+    },
+    "partnerImage": {
+      "src": "/images/team/clara-novak.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Ingrid Solberg",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Erik Haugen",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Klima",
+        "href": null
+      },
+      {
+        "label": "First investment",
+        "value": "Seed, 2016",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund II",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2015",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "Oslo, Norway",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://tidewater.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$232M raised across 4 rounds",
+    "rounds": [
+      {
+        "date": "May 2016",
+        "name": "Seed",
+        "amount": "· $5M",
+        "lead": "Led by Fjordline Ventures",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Feb 2018",
+        "name": "Series A",
+        "amount": "· $22M",
+        "lead": "Led by Harbourline Capital",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Jun 2020",
+        "name": "Series B",
+        "amount": "· $65M",
+        "lead": "Led by Kestrel Ridge",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Sep 2022",
+        "name": "Series C",
+        "amount": "· $140M",
+        "lead": "Led by Skagen Infrastructure",
+        "badge": ""
+      }
+    ],
+    "exit": {
+      "year": "2024",
+      "label": "IPO, Oslo Børs"
+    },
+    "related": ["albedo", "amperra", "fernway"],
+    "firstYear": "2016"
+  },
+  {
+    "slug": "veldt",
+    "name": "Veldt",
+    "href": "/portfolio/veldt",
+    "logo": {
+      "src": "/images/companies/veldt.svg",
+      "alt": ""
+    },
+    "tagline": "Robotic harvesting for specialty crops",
+    "sector": "Industri",
+    "stage": "Seed",
+    "cardStatus": "Aktiv",
+    "status": "Active",
+    "active": true,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Veldt builds robots that pick strawberries, tomatoes, peppers and other soft fruit grown under glass. Its vision models judge ripeness from several angles, and its grippers handle each fruit gently enough to avoid bruising. The machines work through the night, when labour is hardest to find, and a single robot picks around 1,200 strawberries an hour."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Maarten grew up on a greenhouse farm in the Westland, and Isla worked on robotic grasping at a university research group in Delft. We led the seed round in 2022 after a season-long pilot with two growers. Grant joined the board that year and works with the team on manufacturing and field operations."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Veldt now has 140 robots in commercial use across the Netherlands, Belgium and Spain, leased to growers at a fixed rate per kilogram picked."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Grant Holloway",
+      "href": "/team/grant-holloway"
+    },
+    "partnerImage": {
+      "src": "/images/team/grant-holloway.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Maarten Smit",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Isla Romero",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Industri",
+        "href": "/sectors/industrials"
+      },
+      {
+        "label": "First investment",
+        "value": "Seed, 2022",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund IV",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2021",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "Utrecht, Netherlands",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://veldt.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$22M raised across 2 rounds",
+    "rounds": [
+      {
+        "date": "Sep 2022",
+        "name": "Seed",
+        "amount": "· $4M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Apr 2024",
+        "name": "Series A",
+        "amount": "· $18M",
+        "lead": "Led by Sablepoint Capital",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": null,
+    "related": ["halden", "loadstar"],
+    "firstYear": "2022"
+  },
+  {
+    "slug": "verity",
+    "name": "Verity",
+    "href": "/portfolio/verity",
+    "logo": {
+      "src": "/images/companies/verity.svg",
+      "alt": ""
+    },
+    "tagline": "Contract intelligence for legal teams",
+    "sector": "Software",
+    "stage": "Series A",
+    "cardStatus": "Børsnoteret, NYSE",
+    "status": "IPO, NYSE, 2022",
+    "active": false,
+    "story": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Verity reads contracts so that lawyers can spend less time doing it. In-house legal teams upload their agreements and Verity pulls renewal dates, liability caps, change-of-control clauses and other terms into a searchable register, flagging anything that departs from the company's standard positions. A typical customer has 20,000 to 50,000 contracts under management."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Julia practised corporate law in New York for eight years, and Femi had led machine learning work at a financial data company. When we led the Series A in 2016, Verity had 30 customers and an unusually high rate of expansion within each one. Nadia joined the board and stayed through the listing."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Verity went public on the NYSE in 2022. More than 1,800 legal departments now use it, and the company has since added tools for drafting and negotiation."
+          }
+        ]
+      }
+    ],
+    "leadPartner": {
+      "label": "Nadia Mensah",
+      "href": "/team/nadia-mensah"
+    },
+    "partnerImage": {
+      "src": "/images/team/nadia-mensah.webp",
+      "alt": ""
+    },
+    "founders": [
+      {
+        "name": "Julia Brandt",
+        "role": "Co-founder and CEO"
+      },
+      {
+        "name": "Femi Adeyemi",
+        "role": "Co-founder and CTO"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Sector",
+        "value": "Software",
+        "href": "/sectors/software"
+      },
+      {
+        "label": "First investment",
+        "value": "Series A, 2016",
+        "href": null
+      },
+      {
+        "label": "Fund",
+        "value": "Fund II",
+        "href": "/funds"
+      },
+      {
+        "label": "Founded",
+        "value": "2014",
+        "href": null
+      },
+      {
+        "label": "Headquarters",
+        "value": "New York, US",
+        "href": null
+      },
+      {
+        "label": "Website",
+        "value": "Visit website",
+        "href": "https://verity.example"
+      }
+    ],
+    "fundingHeading": "Funding history",
+    "raised": "$158M raised across 4 rounds",
+    "rounds": [
+      {
+        "date": "Jan 2015",
+        "name": "Seed",
+        "amount": "· $3M",
+        "lead": "Led by Alderhill Ventures",
+        "badge": ""
+      },
+      {
+        "date": "Jun 2016",
+        "name": "Series A",
+        "amount": "· $15M",
+        "lead": "Led by DSD Invest",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Apr 2018",
+        "name": "Series B",
+        "amount": "· $45M",
+        "lead": "Led by Harbourline Capital",
+        "badge": "DSD Invest invested"
+      },
+      {
+        "date": "Feb 2020",
+        "name": "Series C",
+        "amount": "· $95M",
+        "lead": "Led by Kestrel Ridge",
+        "badge": "DSD Invest invested"
+      }
+    ],
+    "exit": {
+      "year": "2022",
+      "label": "IPO, NYSE"
+    },
+    "related": ["kitebird", "tabula"],
+    "firstYear": "2016"
+  }
+]

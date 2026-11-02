@@ -1,15 +1,21 @@
 {
-  "name": "student-capital-landingpage",
+  "name": "student-capital",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --port 3003",
     "build": "next build",
-    "start": "next start",
+    "start": "next start --port 3003",
     "lint": "eslint",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "next typegen && tsc --noEmit",
+    "check": "npm run lint && npm run format:check && npm test && npm run typecheck && npm run build",
+    "test": "node --test tests/*.test.mjs",
+    "format": "prettier --write \"src/**/*.{ts,tsx,css,json}\" \"*.ts\" \"*.mjs\" \"tests/*.mjs\"",
+    "format:check": "prettier --check \"src/**/*.{ts,tsx,css,json}\" \"*.ts\" \"*.mjs\" \"tests/*.mjs\""
   },
   "dependencies": {
+    "@number-flow/react": "0.6.2",
+    "motion": "14.9.0",
     "next": "16.4.3",
     "react": "19.3.0",
     "react-dom": "19.3.0"
@@ -21,7 +27,11 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.4.3",
+    "prettier": "3.6.2",
     "tailwindcss": "^4",
     "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=22.22.0"
   }
 }

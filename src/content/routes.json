@@ -1,0 +1,362 @@
+[
+  {
+    "path": "/",
+    "title": "DSD Invest",
+    "metadataTitle": "DSD Invest | Venturekapital i tidlige faser"
+  },
+  {
+    "path": "/portfolio",
+    "title": "Portfolio",
+    "metadataTitle": "Portfolio | DSD Invest"
+  },
+  {
+    "path": "/sectors",
+    "title": "Sectors",
+    "metadataTitle": "Sectors | DSD Invest"
+  },
+  {
+    "path": "/team",
+    "title": "Team",
+    "metadataTitle": "Team | DSD Invest"
+  },
+  {
+    "path": "/insights",
+    "title": "Insights",
+    "metadataTitle": "Insights | DSD Invest"
+  },
+  {
+    "path": "/funds",
+    "title": "Funds",
+    "metadataTitle": "Funds | DSD Invest"
+  },
+  {
+    "path": "/about",
+    "title": "Om os",
+    "metadataTitle": "Om os | DSD Invest"
+  },
+  {
+    "path": "/pitch",
+    "title": "Pitch us",
+    "metadataTitle": "Pitch us | DSD Invest"
+  },
+  {
+    "path": "/portfolio/corvid",
+    "title": "Corvid",
+    "metadataTitle": "Corvid | DSD Invest"
+  },
+  {
+    "path": "/portfolio/fernway",
+    "title": "Fernway",
+    "metadataTitle": "Fernway | DSD Invest"
+  },
+  {
+    "path": "/portfolio/loadstar",
+    "title": "Loadstar",
+    "metadataTitle": "Loadstar | DSD Invest"
+  },
+  {
+    "path": "/portfolio/lumio",
+    "title": "Lumio",
+    "metadataTitle": "Lumio | DSD Invest"
+  },
+  {
+    "path": "/portfolio/parallax",
+    "title": "Parallax",
+    "metadataTitle": "Parallax | DSD Invest"
+  },
+  {
+    "path": "/portfolio/payfield",
+    "title": "Payfield",
+    "metadataTitle": "Payfield | DSD Invest"
+  },
+  {
+    "path": "/portfolio/stackwell",
+    "title": "Stackwell",
+    "metadataTitle": "Stackwell | DSD Invest"
+  },
+  {
+    "path": "/portfolio/tidewater",
+    "title": "Tidewater",
+    "metadataTitle": "Tidewater | DSD Invest"
+  },
+  {
+    "path": "/sectors/fintech",
+    "title": "Fintech",
+    "metadataTitle": "Fintech | DSD Invest"
+  },
+  {
+    "path": "/sectors/health",
+    "title": "Health",
+    "metadataTitle": "Health | DSD Invest"
+  },
+  {
+    "path": "/sectors/infrastructure",
+    "title": "Infrastructure",
+    "metadataTitle": "Infrastructure | DSD Invest"
+  },
+  {
+    "path": "/sectors/software",
+    "title": "Software",
+    "metadataTitle": "Software | DSD Invest"
+  },
+  {
+    "path": "/sectors/industrials",
+    "title": "Industrials",
+    "metadataTitle": "Industrials | DSD Invest"
+  },
+  {
+    "path": "/team/grant-holloway",
+    "title": "Grant Holloway",
+    "metadataTitle": "Grant Holloway | DSD Invest"
+  },
+  {
+    "path": "/team/nadia-mensah",
+    "title": "Nadia Mensah",
+    "metadataTitle": "Nadia Mensah | DSD Invest"
+  },
+  {
+    "path": "/team/theo-marchetti",
+    "title": "Theo Marchetti",
+    "metadataTitle": "Theo Marchetti | DSD Invest"
+  },
+  {
+    "path": "/team/clara-novak",
+    "title": "Clara Novak",
+    "metadataTitle": "Clara Novak | DSD Invest"
+  },
+  {
+    "path": "/team/amira-haddad",
+    "title": "Amira Haddad",
+    "metadataTitle": "Amira Haddad | DSD Invest"
+  },
+  {
+    "path": "/team/rafael-costa",
+    "title": "Rafael Costa",
+    "metadataTitle": "Rafael Costa | DSD Invest"
+  },
+  {
+    "path": "/insights/q3-2026-letter",
+    "title": "Third-quarter letter, 2026",
+    "metadataTitle": "Third-quarter letter, 2026 | DSD Invest"
+  },
+  {
+    "path": "/insights/the-long-first-cheque",
+    "title": "The case for the long first cheque",
+    "metadataTitle": "The case for the long first cheque | DSD Invest"
+  },
+  {
+    "path": "/insights/board-meetings-that-help",
+    "title": "Running a board meeting that helps you",
+    "metadataTitle": "Running a board meeting that helps you | DSD Invest"
+  },
+  {
+    "path": "/contact",
+    "title": "Kontakt",
+    "metadataTitle": "Kontakt | DSD Invest"
+  },
+  {
+    "path": "/insights/category/essays",
+    "title": "Essays",
+    "metadataTitle": "Essays | DSD Invest"
+  },
+  {
+    "path": "/insights/category/letters",
+    "title": "Investor letters",
+    "metadataTitle": "Investor letters | DSD Invest"
+  },
+  {
+    "path": "/insights/category/playbooks",
+    "title": "Playbooks",
+    "metadataTitle": "Playbooks | DSD Invest"
+  },
+  {
+    "path": "/insights/category/news",
+    "title": "News",
+    "metadataTitle": "News | DSD Invest"
+  },
+  {
+    "path": "/legal/privacy",
+    "title": "Privacy",
+    "metadataTitle": "Privacy | DSD Invest"
+  },
+  {
+    "path": "/legal/terms",
+    "title": "Terms of use",
+    "metadataTitle": "Terms of use | DSD Invest"
+  },
+  {
+    "path": "/legal/disclosures",
+    "title": "Important information",
+    "metadataTitle": "Important information | DSD Invest"
+  },
+  {
+    "path": "/portfolio/albedo",
+    "title": "Albedo",
+    "metadataTitle": "Albedo | DSD Invest"
+  },
+  {
+    "path": "/portfolio/amperra",
+    "title": "Amperra",
+    "metadataTitle": "Amperra | DSD Invest"
+  },
+  {
+    "path": "/portfolio/arbor",
+    "title": "Arbor",
+    "metadataTitle": "Arbor | DSD Invest"
+  },
+  {
+    "path": "/portfolio/cardia",
+    "title": "Cardia",
+    "metadataTitle": "Cardia | DSD Invest"
+  },
+  {
+    "path": "/portfolio/covera",
+    "title": "Covera",
+    "metadataTitle": "Covera | DSD Invest"
+  },
+  {
+    "path": "/portfolio/gatehouse",
+    "title": "Gatehouse",
+    "metadataTitle": "Gatehouse | DSD Invest"
+  },
+  {
+    "path": "/portfolio/halden",
+    "title": "Halden",
+    "metadataTitle": "Halden | DSD Invest"
+  },
+  {
+    "path": "/portfolio/juniper",
+    "title": "Juniper",
+    "metadataTitle": "Juniper | DSD Invest"
+  },
+  {
+    "path": "/portfolio/kiln",
+    "title": "Kiln",
+    "metadataTitle": "Kiln | DSD Invest"
+  },
+  {
+    "path": "/portfolio/kitebird",
+    "title": "Kitebird",
+    "metadataTitle": "Kitebird | DSD Invest"
+  },
+  {
+    "path": "/portfolio/ostra",
+    "title": "Ostra",
+    "metadataTitle": "Ostra | DSD Invest"
+  },
+  {
+    "path": "/portfolio/priora",
+    "title": "Priora",
+    "metadataTitle": "Priora | DSD Invest"
+  },
+  {
+    "path": "/portfolio/quillo",
+    "title": "Quillo",
+    "metadataTitle": "Quillo | DSD Invest"
+  },
+  {
+    "path": "/portfolio/tabula",
+    "title": "Tabula",
+    "metadataTitle": "Tabula | DSD Invest"
+  },
+  {
+    "path": "/portfolio/veldt",
+    "title": "Veldt",
+    "metadataTitle": "Veldt | DSD Invest"
+  },
+  {
+    "path": "/portfolio/verity",
+    "title": "Verity",
+    "metadataTitle": "Verity | DSD Invest"
+  },
+  {
+    "path": "/team/kwame-asante",
+    "title": "Kwame Asante",
+    "metadataTitle": "Kwame Asante | DSD Invest"
+  },
+  {
+    "path": "/team/hana-weber",
+    "title": "Hana Weber",
+    "metadataTitle": "Hana Weber | DSD Invest"
+  },
+  {
+    "path": "/team/jun-seo",
+    "title": "Jun Seo",
+    "metadataTitle": "Jun Seo | DSD Invest"
+  },
+  {
+    "path": "/team/ananya-rao",
+    "title": "Ananya Rao",
+    "metadataTitle": "Ananya Rao | DSD Invest"
+  },
+  {
+    "path": "/team/lena-fischer",
+    "title": "Lena Fischer",
+    "metadataTitle": "Lena Fischer | DSD Invest"
+  },
+  {
+    "path": "/team/imani-clarke",
+    "title": "Imani Clarke",
+    "metadataTitle": "Imani Clarke | DSD Invest"
+  },
+  {
+    "path": "/team/sofia-ortega",
+    "title": "Sofia Ortega",
+    "metadataTitle": "Sofia Ortega | DSD Invest"
+  },
+  {
+    "path": "/team/owen-brooks",
+    "title": "Owen Brooks",
+    "metadataTitle": "Owen Brooks | DSD Invest"
+  },
+  {
+    "path": "/insights/q2-2026-letter",
+    "title": "Second-quarter letter, 2026",
+    "metadataTitle": "Second-quarter letter, 2026 | DSD Invest"
+  },
+  {
+    "path": "/insights/boring-software-durable-companies",
+    "title": "Boring software, durable companies",
+    "metadataTitle": "Boring software, durable companies | DSD Invest"
+  },
+  {
+    "path": "/insights/the-grid-is-the-bottleneck",
+    "title": "The grid is the bottleneck",
+    "metadataTitle": "The grid is the bottleneck | DSD Invest"
+  },
+  {
+    "path": "/insights/what-we-look-for-in-a-founding-team",
+    "title": "What we look for in a founding team",
+    "metadataTitle": "What we look for in a founding team | DSD Invest"
+  },
+  {
+    "path": "/insights/the-first-eighteen-months",
+    "title": "The first eighteen months after a seed round",
+    "metadataTitle": "The first eighteen months after a seed round | DSD Invest"
+  },
+  {
+    "path": "/insights/annual-letter-2025",
+    "title": "Annual letter, 2025",
+    "metadataTitle": "Annual letter, 2025 | DSD Invest"
+  },
+  {
+    "path": "/insights/ostra-joins-calder-health",
+    "title": "Ostra joins Calder Health",
+    "metadataTitle": "Ostra joins Calder Health | DSD Invest"
+  },
+  {
+    "path": "/insights/announcing-fund-five",
+    "title": "Announcing Fund V",
+    "metadataTitle": "Announcing Fund V | DSD Invest"
+  },
+  {
+    "path": "/membership",
+    "title": "Bliv medlem",
+    "metadataTitle": "Medlemskab | DSD Invest"
+  },
+  {
+    "path": "/partnerskaber",
+    "title": "Partnerskaber",
+    "metadataTitle": "Partnerskaber | DSD Invest"
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "slug": "fintech",
+    "href": "/sectors/fintech",
+    "name": "Fintech",
+    "description": "Betalinger, udlån, forsikring og pengenes back office.",
+    "introduction": "The most durable financial companies we have backed sell to the people who keep the books: controllers, treasurers, payroll teams. Their problems are unglamorous, their budgets are real, and once a product runs the month-end close, it rarely gets replaced.",
+    "stats": [
+      {
+        "value": "5",
+        "label": "companies"
+      },
+      {
+        "value": "4",
+        "label": "active"
+      },
+      {
+        "value": "1",
+        "label": "exit"
+      },
+      {
+        "value": "2013",
+        "label": "first investment"
+      }
+    ],
+    "approach": "We look for founders who have done the job they are automating, and who understand the licences, audits and bank partnerships that sit between a good demo and a product a finance team can trust.",
+    "themes": [
+      {
+        "title": "The finance back office",
+        "text": "Payables, treasury, payroll and close: work that is still manual at most companies with fewer than a thousand people."
+      },
+      {
+        "title": "Embedded products",
+        "text": "Insurance, lending and payments sold inside the software a business already uses, rather than beside it."
+      },
+      {
+        "title": "Risk in real time",
+        "text": "Fraud and compliance tools built for instant payments, where a decision has to be made in milliseconds."
+      }
+    ],
+    "companies": ["arbor", "covera", "juniper", "payfield", "quillo"],
+    "people": ["kwame-asante", "nadia-mensah", "hana-weber", "rafael-costa"],
+    "articles": [
+      "q3-2026-letter",
+      "the-long-first-cheque",
+      "board-meetings-that-help"
+    ],
+    "closing": {
+      "title": "Building in Fintech?",
+      "text": "We read every pitch, and a partner replies within ten working days."
+    }
+  },
+  {
+    "slug": "health",
+    "href": "/sectors/health",
+    "name": "Sundhed",
+    "description": "Diagnostik, klinisk drift og behandling uden for hospitalet.",
+    "introduction": "Healthcare spends a remarkable share of its money on coordination: scheduling, approvals, recruitment, follow-up. We back companies that take that work off clinicians and give patients an answer sooner.",
+    "stats": [
+      {
+        "value": "4",
+        "label": "companies"
+      },
+      {
+        "value": "2",
+        "label": "active"
+      },
+      {
+        "value": "2",
+        "label": "exits"
+      },
+      {
+        "value": "2017",
+        "label": "first investment"
+      }
+    ],
+    "approach": "We prefer founders who have worked inside the system they are changing, and products that a hospital or clinic can adopt without rebuilding its workflow around them.",
+    "themes": [
+      {
+        "title": "Care after discharge",
+        "text": "Monitoring and diagnostics that move safely from the ward to the patient's home."
+      },
+      {
+        "title": "Clinical operations",
+        "text": "Trial recruitment, prior authorisation and the administrative work that delays treatment."
+      },
+      {
+        "title": "Diagnostics at the edge",
+        "text": "Lab-grade testing that happens closer to the patient and reports back faster."
+      }
+    ],
+    "companies": ["cardia", "lumio", "ostra", "priora"],
+    "people": ["ananya-rao", "amira-haddad"],
+    "articles": [
+      "q3-2026-letter",
+      "the-long-first-cheque",
+      "board-meetings-that-help"
+    ],
+    "closing": {
+      "title": "Building in Health?",
+      "text": "We read every pitch, and a partner replies within ten working days."
+    }
+  },
+  {
+    "slug": "infrastructure",
+    "href": "/sectors/infrastructure",
+    "name": "Infrastruktur",
+    "description": "Data, sikkerhed og de platforme, udviklere bygger på.",
+    "introduction": "Developers adopt tools on their merits and leave them the moment they break. The infrastructure companies that survive that test become very hard to replace, which is why some of our best results have been products few people outside engineering teams will ever see.",
+    "stats": [
+      {
+        "value": "4",
+        "label": "companies"
+      },
+      {
+        "value": "2",
+        "label": "active"
+      },
+      {
+        "value": "2",
+        "label": "exits"
+      },
+      {
+        "value": "2014",
+        "label": "first investment"
+      }
+    ],
+    "approach": "We look for founders who built the first version for themselves, at a company where the problem was large enough to hurt.",
+    "themes": [
+      {
+        "title": "Data at scale",
+        "text": "Databases and pipelines built for event volumes that general-purpose tools were never designed for."
+      },
+      {
+        "title": "Security for the cloud",
+        "text": "Detection and identity products that fit how modern teams actually ship."
+      },
+      {
+        "title": "Operating machine learning",
+        "text": "Monitoring and tooling for models that make decisions in production."
+      }
+    ],
+    "companies": ["corvid", "gatehouse", "parallax", "stackwell"],
+    "people": ["theo-marchetti", "jun-seo", "rafael-costa"],
+    "articles": [
+      "q3-2026-letter",
+      "the-long-first-cheque",
+      "board-meetings-that-help"
+    ],
+    "closing": {
+      "title": "Building in Infrastructure?",
+      "text": "We read every pitch, and a partner replies within ten working days."
+    }
+  },
+  {
+    "slug": "software",
+    "href": "/sectors/software",
+    "name": "Software",
+    "description": "Værktøjer, der ændrer, hvordan teams planlægger, beslutter og får arbejdet gjort.",
+    "introduction": "The best business software replaces a spreadsheet that a team has quietly outgrown. We back products for specific jobs, used every day by the people doing them, rather than broad platforms looking for a use.",
+    "stats": [
+      {
+        "value": "3",
+        "label": "companies"
+      },
+      {
+        "value": "2",
+        "label": "active"
+      },
+      {
+        "value": "1",
+        "label": "exit"
+      },
+      {
+        "value": "2016",
+        "label": "first investment"
+      }
+    ],
+    "approach": "Distribution matters as much as product here, so we look for teams with an honest view of how their first hundred customers will find them.",
+    "themes": [
+      {
+        "title": "Frontline work",
+        "text": "Scheduling, operations and tools for the people who are never at a desk."
+      },
+      {
+        "title": "Specialist workflows",
+        "text": "Software for legal, operations and finance teams that knows their work in detail."
+      },
+      {
+        "title": "Bottom-up adoption",
+        "text": "Products that individuals choose first and companies buy once they are already in use."
+      }
+    ],
+    "companies": ["kitebird", "tabula", "verity"],
+    "people": ["kwame-asante", "nadia-mensah", "theo-marchetti", "jun-seo"],
+    "articles": [
+      "q3-2026-letter",
+      "the-long-first-cheque",
+      "board-meetings-that-help"
+    ],
+    "closing": {
+      "title": "Building in Software?",
+      "text": "We read every pitch, and a partner replies within ten working days."
+    }
+  },
+  {
+    "slug": "industrials",
+    "href": "/sectors/industrials",
+    "name": "Industri",
+    "description": "Robotter, produktion og den fysiske forsyningskæde.",
+    "introduction": "Factories, warehouses and farms are short of people and full of equipment that does not talk to each other. We back robotics and software that raise output on the floor and pay for themselves inside a year.",
+    "stats": [
+      {
+        "value": "3",
+        "label": "companies"
+      },
+      {
+        "value": "2",
+        "label": "active"
+      },
+      {
+        "value": "1",
+        "label": "exit"
+      },
+      {
+        "value": "2014",
+        "label": "first investment"
+      }
+    ],
+    "approach": "Our partners in this sector have run plants themselves. We visit sites, we ask about uptime, and we would rather see a robot working in a customer's building than a video of one.",
+    "themes": [
+      {
+        "title": "Robotics as a service",
+        "text": "Machines leased by the hour or the pick, so customers buy outcomes rather than capital equipment."
+      },
+      {
+        "title": "Factory software",
+        "text": "Scheduling and monitoring that lift utilisation in shops still run on whiteboards."
+      },
+      {
+        "title": "Food and agriculture",
+        "text": "Automation for growers facing rising labour costs and tighter seasons."
+      }
+    ],
+    "companies": ["halden", "loadstar", "veldt"],
+    "people": ["grant-holloway", "clara-novak"],
+    "articles": [
+      "q3-2026-letter",
+      "the-long-first-cheque",
+      "board-meetings-that-help"
+    ],
+    "closing": {
+      "title": "Building in Industrials?",
+      "text": "We read every pitch, and a partner replies within ten working days."
+    }
+  }
+]

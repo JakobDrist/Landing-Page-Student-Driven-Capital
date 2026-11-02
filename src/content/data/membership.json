@@ -1,0 +1,139 @@
+{
+  "title": "Begynd karrieren, før du er færdig med studiet",
+  "description": "DSD Invest giver ambitiøse studerende reelt ansvar i en seriøs investeringsorganisation. Vi er ved at bygge de første teams. Søg om medlemskab, eller skriv dig på ventelisten, så hører du fra os, når optaget åbner.",
+  "introTitle": "Find din plads i DSD Invest",
+  "intro": "Kernen er investering, men en professionel investeringsorganisation kræver mere end analytikere. Vi har brug for folk inden for research, kvantitativ finans, risiko, teknologi, jura, kommunikation og partnerskaber. Arbejdet findes, fordi organisationen har brug for det.",
+  "criteria": [
+    {
+      "title": "Reelt ansvar",
+      "text": "Du får ejerskab over en funktion og leverer arbejde, som resten af organisationen er afhængig af. Ikke shadowing og ikke en titel uden indhold."
+    },
+    {
+      "title": "Et selektivt optag",
+      "text": "Vi optager på baggrund af evner, ambition, pålidelighed, intellektuel ærlighed og læringshastighed. Det skal være svært at komme ind, fordi kvaliteten af arbejdet betyder noget."
+    },
+    {
+      "title": "Åben for alle fagligheder",
+      "text": "Du behøver hverken at læse finans eller have erhvervserfaring. Vi lægger lige så meget vægt på, hvor hurtigt du lærer, som på det, du allerede kan."
+    }
+  ],
+  "form": {
+    "heading": "Din interesse for DSD Invest",
+    "fields": [
+      {
+        "name": "interest",
+        "label": "Jeg vil gerne",
+        "type": "select",
+        "required": true,
+        "placeholder": "",
+        "options": [
+          {
+            "label": "Vælg en mulighed",
+            "value": ""
+          },
+          {
+            "label": "Søge om medlemskab",
+            "value": "application"
+          },
+          {
+            "label": "Skrive mig på ventelisten",
+            "value": "waiting-list"
+          }
+        ],
+        "fullWidth": true
+      },
+      {
+        "name": "name",
+        "label": "Fulde navn",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "options": [],
+        "fullWidth": false
+      },
+      {
+        "name": "email",
+        "label": "E-mailadresse",
+        "type": "email",
+        "required": true,
+        "placeholder": "",
+        "options": [],
+        "fullWidth": false
+      },
+      {
+        "name": "university",
+        "label": "Universitet",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "options": [],
+        "fullWidth": false
+      },
+      {
+        "name": "programme",
+        "label": "Studieretning",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "options": [],
+        "fullWidth": false
+      },
+      {
+        "name": "department",
+        "label": "Interesseområde",
+        "type": "select",
+        "required": false,
+        "placeholder": "",
+        "options": [
+          {
+            "label": "Vælg et område (valgfrit)",
+            "value": ""
+          },
+          {
+            "label": "Sektorresearch",
+            "value": "Sector Research"
+          },
+          {
+            "label": "Makro og markeder",
+            "value": "Macro & Markets"
+          },
+          {
+            "label": "Risiko og kvant",
+            "value": "Risk & Quant"
+          },
+          {
+            "label": "Porteføljekonstruktion",
+            "value": "Portfolio Construction"
+          },
+          {
+            "label": "Tech og data",
+            "value": "Tech & Data"
+          },
+          {
+            "label": "Jura og governance",
+            "value": "Law & Governance"
+          },
+          {
+            "label": "Kommunikation og partnerskaber",
+            "value": "Communications & Partnerships"
+          },
+          {
+            "label": "Ved ikke endnu",
+            "value": "Still exploring"
+          }
+        ],
+        "fullWidth": true
+      },
+      {
+        "name": "motivation",
+        "label": "Fortæl os om dine interesser (valgfrit)",
+        "type": "textarea",
+        "required": false,
+        "placeholder": "",
+        "options": [],
+        "fullWidth": true
+      }
+    ],
+    "submit": "Send (forhåndsvisning)"
+  }
+}

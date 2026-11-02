@@ -1,0 +1,124 @@
+{
+  "title": "Investér i næste generation af investeringstalent",
+  "description": "Vær med til at bygge det miljø, hvor nogle af Danmarks mest ambitiøse studerende udvikler sig gennem reelt professionelt ansvar, og kom tættere på talentet, mens det udvikler sig.",
+  "action": {
+    "label": "Start en samtale",
+    "href": "/partnerskaber#kontakt"
+  },
+  "whyTitle": "Mere end endnu et studenterevent",
+  "why": [
+    "DSD Invest giver virksomheder mulighed for at gøre mere end at sponsorere en case competition eller en finance society. Som partner er I med til at bygge en organisation, hvor studerende får ansvar for arbejde, som andre er afhængige af.",
+    "Til gengæld kommer I tæt på et selektivt, nationalt netværk af studerende, der ikke blot siger, at de er ambitiøse, men som har fået ansvar og vist, hvordan de håndterer det."
+  ],
+  "pillars": [
+    {
+      "title": "Byg menneskene",
+      "text": "Gennem bedre værktøjer, teknologi, træning og adgang til erfarne professionelle."
+    },
+    {
+      "title": "Byg ansvaret",
+      "text": "På sigt, og under den rette juridiske og regulatoriske struktur, kan støtte være med til at øge det ansvar, de dygtigste studerende får."
+    }
+  ],
+  "areasTitle": "Fire måder at støtte på",
+  "areas": [
+    {
+      "title": "Research og teknologi",
+      "text": "Professionelle finansielle data, software, researchværktøjer og teknisk infrastruktur."
+    },
+    {
+      "title": "Uddannelse og mentorskab",
+      "text": "Træning, workshops, rådgivere og adgang til erfarne professionelle."
+    },
+    {
+      "title": "Internationalt program",
+      "text": "Konkurrencer, konferencer, internationalt engagement og rejser."
+    },
+    {
+      "title": "Institutionel udvikling",
+      "text": "Rekruttering, governance, organisatoriske kapabiliteter og langsigtet bæredygtighed."
+    }
+  ],
+  "principleTitle": "Uafhængighed er en del af aftalen",
+  "principle": "Partnere og sponsorer har ingen indflydelse på konkrete investeringsbeslutninger. Den endelige beslutningsmyndighed ligger hos Investeringskomitéen.",
+  "contactTitle": "Start en samtale",
+  "contactText": "Fortæl os kort om jeres organisation, og hvad I gerne vil støtte. Vi vender tilbage, så vi sammen kan finde en form for samarbejde, der giver mening.",
+  "email": "hello@example.com",
+  "preview": "Formularen er en forhåndsvisning. Henvendelser bliver endnu ikke sendt eller gemt, så skriv til os på e-mail indtil videre.",
+  "form": {
+    "heading": "",
+    "fields": [
+      {
+        "name": "organisation",
+        "label": "Organisation",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "options": [],
+        "fullWidth": true
+      },
+      {
+        "name": "name",
+        "label": "Navn",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "options": [],
+        "fullWidth": false
+      },
+      {
+        "name": "email",
+        "label": "E-mail",
+        "type": "email",
+        "required": true,
+        "placeholder": "",
+        "options": [],
+        "fullWidth": false
+      },
+      {
+        "name": "area",
+        "label": "Vi er interesserede i",
+        "type": "select",
+        "required": false,
+        "placeholder": "",
+        "options": [
+          {
+            "label": "Vælg et område (valgfrit)",
+            "value": ""
+          },
+          {
+            "label": "Research og teknologi",
+            "value": "research-technology"
+          },
+          {
+            "label": "Uddannelse og mentorskab",
+            "value": "education-mentorship"
+          },
+          {
+            "label": "Internationalt program",
+            "value": "international"
+          },
+          {
+            "label": "Institutionel udvikling",
+            "value": "institutional"
+          },
+          {
+            "label": "Noget andet",
+            "value": "other"
+          }
+        ],
+        "fullWidth": true
+      },
+      {
+        "name": "message",
+        "label": "Besked",
+        "type": "textarea",
+        "required": true,
+        "placeholder": "",
+        "options": [],
+        "fullWidth": true
+      }
+    ],
+    "submit": "Send henvendelse"
+  }
+}
