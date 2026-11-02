@@ -72,7 +72,7 @@ export function AboutPage() {
               {about.organisation.note}
             </p>
             <div className="mt-9">
-              <ButtonLink href="/#organisation" variant="outline">
+              <ButtonLink href="/membership#departments" variant="outline">
                 Udforsk vores afdelinger
               </ButtonLink>
             </div>
