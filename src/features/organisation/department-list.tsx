@@ -10,10 +10,18 @@ export interface Department {
   text: string;
   skills: string[];
   output: string;
+  examples?: string;
+  growth?: string;
 }
 
 /** Departments as quiet typographic rows; one opens at a time to reveal its role. */
-export function DepartmentList({ departments }: { departments: Department[] }) {
+export function DepartmentList({
+  departments,
+  extended = false,
+}: {
+  departments: Department[];
+  extended?: boolean;
+}) {
   const [open, setOpen] = useState<number | null>(0);
   const reducedMotion = useReducedMotion();
   const id = useId();
@@ -88,6 +96,18 @@ export function DepartmentList({ departments }: { departments: Department[] }) {
                       <dl className="text-[15px] leading-[1.6]">
                         <dt className="text-[13px] text-muted">Du leverer</dt>
                         <dd className="mt-1">{department.output}</dd>
+                        {extended && department.examples && (
+                          <>
+                            <dt className="mt-4 text-[13px] text-muted">Eksempler på opgaver</dt>
+                            <dd className="mt-1">{department.examples}</dd>
+                          </>
+                        )}
+                        {extended && department.growth && (
+                          <>
+                            <dt className="mt-4 text-[13px] text-muted">Du udvikler</dt>
+                            <dd className="mt-1">{department.growth}</dd>
+                          </>
+                        )}
                         <dt className="mt-4 text-[13px] text-muted lg:hidden">
                           Kompetencer
                         </dt>

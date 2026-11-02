@@ -1,24 +1,24 @@
 {
-  "title": "Begynd karrieren, før du er færdig med studiet",
-  "description": "DSD Invest giver ambitiøse studerende reelt ansvar i en seriøs investeringsorganisation. Vi er ved at bygge de første teams. Søg om medlemskab, eller skriv dig på ventelisten, så hører du fra os, når optaget åbner.",
-  "introTitle": "Find din plads i DSD Invest",
-  "intro": "Kernen er investering, men en professionel investeringsorganisation kræver mere end analytikere. Vi har brug for folk inden for research, kvantitativ finans, risiko, teknologi, jura, kommunikation og partnerskaber. Arbejdet findes, fordi organisationen har brug for det.",
+  "title": "Begynd karrieren, før du er færdig med studiet.",
+  "description": "DSD Invest samler ambitiøse studerende om udviklingen af en forskningsbaseret investeringsorganisation. Her udvikler du dig gennem ansvar for research, teknologi, porteføljeanalyse og de systemer, som organisationen bygger på.",
+  "introTitle": "Et tværfagligt investeringsmiljø",
+  "intro": "Vi har brug for mennesker med forskellige faglige tilgange. Økonomi og finans er centrale, men også matematik, software, datavidenskab, jura, governance og kommunikation bidrager til institutionens udvikling.",
   "criteria": [
     {
       "title": "Reelt ansvar",
-      "text": "Du får ejerskab over en funktion og leverer arbejde, som resten af organisationen er afhængig af. Ikke shadowing og ikke en titel uden indhold."
+      "text": "Arbejdet har et konkret formål og indgår i organisationens fælles processer."
     },
     {
-      "title": "Et selektivt optag",
-      "text": "Vi optager på baggrund af evner, ambition, pålidelighed, intellektuel ærlighed og læringshastighed. Det skal være svært at komme ind, fordi kvaliteten af arbejdet betyder noget."
+      "title": "Selektivt optag",
+      "text": "Udvælgelse baseret på evner, potentiale, ambition, pålidelighed og intellektuel ærlighed."
     },
     {
-      "title": "Åben for alle fagligheder",
-      "text": "Du behøver hverken at læse finans eller have erhvervserfaring. Vi lægger lige så meget vægt på, hvor hurtigt du lærer, som på det, du allerede kan."
+      "title": "Åbenhed på tværs af fag",
+      "text": "Det er ikke nødvendigt allerede at have professionel erfaring eller læse finans."
     }
   ],
   "form": {
-    "heading": "Din interesse for DSD Invest",
+    "heading": "Interesse for DSD Invest — forhåndsvisning",
     "fields": [
       {
         "name": "interest",
@@ -32,11 +32,11 @@
             "value": ""
           },
           {
-            "label": "Søge om medlemskab",
+            "label": "Interesseret i kommende medlemsoptag",
             "value": "application"
           },
           {
-            "label": "Skrive mig på ventelisten",
+            "label": "Ønsker information om venteliste",
             "value": "waiting-list"
           }
         ],
@@ -134,6 +134,129 @@
         "fullWidth": true
       }
     ],
-    "submit": "Send (forhåndsvisning)"
-  }
+    "submit": "Afprøv formular (sender ikke)"
+  },
+  "valueTitle": "Mere end et medlemskab.",
+  "valueIntro": "Du bliver ikke medlem for at stå på sidelinjen. Du bliver en del af en organisation, hvor hver funktion bidrager til et fælles investeringssystem — og hvor læring følger af det arbejde, vi udfører.",
+  "benefits": [
+    {
+      "title": "Professionelt ansvar",
+      "text": "Arbejd med konkrete problemstillinger og leverancer, som andre teams kan bygge videre på. Ansvar og opgaver tilpasses kompetencer og organisationens aktuelle fase."
+    },
+    {
+      "title": "Udvikling gennem evidens",
+      "text": "Lær gennem forskningsbaserede metoder, praktisk anvendelse, kvalificeret feedback og kritisk efterprøvning af egne antagelser."
+    },
+    {
+      "title": "Ambitiøse mennesker",
+      "text": "Arbejd på tværs af universiteter og fagligheder med andre studerende, som stiller høje krav til kvalitet, samarbejde og intellektuel ærlighed."
+    },
+    {
+      "title": "Et langsigtet fællesskab",
+      "text": "Bidrag til processer og viden, der skal kunne leve videre efter din studietid. Netværk, faglig udvikling og internationale muligheder er en del af ambitionen — ikke garanterede medlemsfordele."
+    }
+  ],
+  "departmentsTitle": "Find dit faglige område.",
+  "departmentsIntro": "DSD Invest har fem planlagte kerneafdelinger, der bidrager til samme investeringsproces. Udforsk formålet, de konkrete leverancer og den læring, du kan tage del i.",
+  "departments": [
+    {
+      "name": "Sektorresearch",
+      "text": "Undersøg virksomheder, brancher, konkurrencefordele og økonomiske drivkræfter. Omsæt undersøgelserne til begrundede prognoser og værdiansættelser.",
+      "skills": [
+        "Regnskabsforståelse",
+        "Værdiansættelse",
+        "Brancheanalyse"
+      ],
+      "output": "Researchcases, scenarieprognoser og dokumenterede investeringsestimater.",
+      "examples": "Opbyg en virksomhedscase; analyser en branches konkurrenceforhold; begrund antagelser om fremtidig indtjening.",
+      "growth": "Fundamental analyse, finansiel modellering, evidenskritik og formidling af investeringsargumenter."
+    },
+    {
+      "name": "Makro og markeder",
+      "text": "Undersøg globale økonomiske forhold, konjunkturregimer, pengepolitik og sammenhænge, der påvirker selskaber og porteføljer.",
+      "skills": [
+        "Makroøkonomi",
+        "Dataanalyse",
+        "Scenarieforståelse"
+      ],
+      "output": "Makroscenarier, regimevurderinger og underbyggede markedsestimater.",
+      "examples": "Analyser vækst- og inflationsdata; vurder recessionrisiko; undersøg konsekvenser for brancher.",
+      "growth": "Makroøkonomisk analyse, usikkerhedsvurdering og oversættelse af økonomisk evidens til beslutningsgrundlag."
+    },
+    {
+      "name": "Risiko og kvant",
+      "text": "Undersøg usikkerhed i prognoser og modeller, fælles risikofaktorer, korrelationer og ekstreme scenarier.",
+      "skills": [
+        "Statistik",
+        "Matematik",
+        "Risikomodellering"
+      ],
+      "output": "Risikomålinger, stresstests og uafhængige modelvurderinger.",
+      "examples": "Test følsomheden over for ændrede antagelser; analyser porteføljekoncentration; udfør stresstests.",
+      "growth": "Kvantitativ metode, probabilistisk tænkning, modelkritik og programmeringsbaseret analyse."
+    },
+    {
+      "name": "Porteføljekonstruktion",
+      "text": "Sammenlign investeringer på tværs af sektorer og omsæt estimater til porteføljeforslag under mandatets risiko- og likviditetsrammer.",
+      "skills": [
+        "Optimering",
+        "Porteføljeteori",
+        "Beslutningsanalyse"
+      ],
+      "output": "Dokumenterede kvantitative allokeringsforslag til Investeringskomitéen.",
+      "examples": "Sammenlign alternative allokeringer; undersøg diversifikation; vurder konsekvenser af nye prognoser.",
+      "growth": "Optimering, samspillet mellem afkast og risiko samt beslutningsdisciplin."
+    },
+    {
+      "name": "Tech og data",
+      "text": "Udvikl datagrundlag, software og analyseværktøjer, der forbinder research, prognoser, modeller og beslutninger.",
+      "skills": [
+        "Softwareudvikling",
+        "Datakvalitet",
+        "Systemdesign"
+      ],
+      "output": "Datapipelines, researchværktøjer og interne investeringssystemer.",
+      "examples": "Byg et analytikerværktøj; valider data; integrer estimater i den fælles platform.",
+      "growth": "Financial software engineering, datainfrastruktur, test og udvikling af robuste systemer."
+    }
+  ],
+  "extraRolesNote": "Jura, governance, kommunikation og partnerskaber er også nødvendige funktioner. De er ikke alle etablerede kerneafdelinger endnu, men studerende med relevante kompetencer kan vise interesse.",
+  "selectionTitle": "Et medlemskab skal fortjenes.",
+  "selectionIntro": "Vi ønsker et selektivt, transparent optag, fordi kvaliteten af arbejdet betyder noget. Vi vurderer potentiale, faglighed og arbejdsdisciplin — ikke prestige i studievalg eller tidligere arbejdsgivere.",
+  "selectionSteps": [
+    {
+      "title": "Vis din interesse",
+      "text": "Fortæl kort om din baggrund, dine interesser og den type ansvar, du gerne vil arbejde med."
+    },
+    {
+      "title": "Faglig dialog og vurdering",
+      "text": "Når rekrutteringsprocessen åbner, vil kandidater blive vurderet ud fra relevante evner, motivation, pålidelighed og læringspotentiale."
+    },
+    {
+      "title": "Bidrag og udvikling",
+      "text": "Udvalgte medlemmer skal kunne tage ansvar for konkrete leverancer og indgå i et samarbejde med tydelige standarder og feedback."
+    }
+  ],
+  "expectationsTitle": "Det forventer vi af medlemmer.",
+  "expectations": [
+    {
+      "title": "Intellektuel ærlighed",
+      "text": "Du udfordrer dine egne antagelser og gør usikkerhed, fejl og begrænsninger tydelige."
+    },
+    {
+      "title": "Pålidelighed",
+      "text": "Du følger op på dine forpligtelser, kommunikerer tidligt om problemer og leverer gennemarbejdet arbejde."
+    },
+    {
+      "title": "Læringsvilje",
+      "text": "Du behøver ikke være ekspert fra første dag. Du skal være villig til at lære, undersøge og forbedre dine metoder."
+    },
+    {
+      "title": "Samarbejde",
+      "text": "Dit arbejde indgår i en fælles proces. Kvalitet handler også om, at andre kan forstå og anvende det."
+    }
+  ],
+  "applyTitle": "Tag det første skridt.",
+  "applyIntro": "DSD Invest er i opbygningsfasen. Her kan du orientere dig om de oplysninger, der indgår i en kommende interesse- eller ansøgningsproces.",
+  "applyNote": "Formularen er endnu kun en forhåndsvisning. Den sender og gemmer ikke oplysninger; udfyldelse registrerer derfor ikke en interesse eller ansøgning. Den aktiveres først, når en sikker modtagerløsning og persondatabehandling er klar."
 }
