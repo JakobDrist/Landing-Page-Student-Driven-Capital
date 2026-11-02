@@ -1,101 +1,88 @@
 {
-  "title": "Støt talent. Styrk ansvar.",
-  "description": "DSD Invest bygger en national, studenterdrevet investeringsorganisation, hvor ambitiøse studerende udvikler deres faglighed gennem research, teknologi, risikostyring og professionelt ansvar. Partnere kan hjælpe med at gøre arbejdet mere kvalificeret og mulighederne større.",
+  "title": "Et partnerskab med næste generation af investeringstalent.",
+  "description": "Samarbejd med DSD Invest om at udvikle ambitiøse studerende gennem forskningsbaseret investeringsarbejde, faglig sparring og professionelle muligheder.",
   "action": {
-    "label": "Udforsk partnerskabsmuligheder",
+    "label": "Udforsk samarbejdsmuligheder",
     "href": "#muligheder"
-  },
-  "opening": {
-    "label": "Hvorfor et partnerskab?",
-    "title": "Mere end et sponsorat til et studenterarrangement.",
-    "paragraphs": [
-      "DSD Invest er ikke bygget op omkring enkeltstående events. Vores ambition er at udvikle en vedvarende investeringsorganisation, hvor studerende får ansvar for arbejde, som andre funktioner er afhængige af.",
-      "Eksterne partnere kan bidrage med adgang til viden, teknologi og professionelle miljøer. Støtten giver studerende bedre forudsætninger for at udføre krævende, forskningsbaseret arbejde — og for at udvikle sig gennem konkret ansvar."
-    ],
-    "statement": "Sponsorér ikke kun talent. Vær med til at udvikle det gennem arbejdet, det får ansvar for."
   },
   "value": {
     "label": "Værdien for partnere",
-    "title": "Et samarbejde med faglig substans.",
-    "intro": "Et partnerskab skal skabe værdi på begge sider. Mulighederne aftales konkret og afhænger af organisationens udvikling — vi lover ikke adgang til bestemte personer, jobansættelser eller investeringsresultater.",
+    "title": "Et samarbejde, der skaber værdi på begge sider.",
+    "intro": "DSD Invest udvikler et fagligt miljø, hvor studerende arbejder med investeringsresearch, økonomi, kvantitative modeller og teknologi. Et partnerskab kan skabe relevante relationer og aktiviteter for begge parter. Det konkrete udbytte afhænger af, hvad vi aftaler og faktisk gennemfører.",
     "items": [
       {
-        "title": "Relationer til talent",
-        "text": "Mød og samarbejd med studerende fra økonomi, matematik, teknologi og andre relevante fag gennem aftalte aktiviteter."
+        "title": "Relationer til investeringstalent",
+        "text": "Opbyg relationer til studerende med faglige interesser inden for økonomi, finans, matematik og teknologi gennem relevante samarbejdsaktiviteter."
       },
       {
-        "title": "Faglig involvering",
-        "text": "Bidrag med mentorer, oplæg, feedback på metode og indsigt i professionelle arbejdsgange, når det passer til begge parters mål."
+        "title": "Fagligt samarbejde",
+        "text": "Bidrag med ekspertise, workshops og feedback i et miljø, hvor forskningsbaserede investeringsmetoder udvikles og udfordres."
       },
       {
-        "title": "Synlighed med relevans",
-        "text": "Bliv knyttet til relevante aktiviteter og projekter gennem aftalt omtale, faglige arrangementer eller fælles formidling, hvor det er tilladt."
+        "title": "Relevant synlighed",
+        "text": "Bliv synlig i forbindelse med aftalte faglige initiativer og aktiviteter, som passer til virksomhedens kompetencer og interesser."
       },
       {
-        "title": "Dokumenterbar udvikling",
-        "text": "Modtag relevante opdateringer om gennemførte aktiviteter, researchleverancer og talentudvikling, efterhånden som DSD kan dokumentere dem."
+        "title": "Langsigtet talentudvikling",
+        "text": "Vær med til at skabe bedre forudsætninger for, at studerende udvikler og demonstrerer professionelle kompetencer, før de afslutter deres uddannelse."
       }
     ]
   },
-  "pillarsTitle": "To niveauer af ansvar.",
-  "pillars": [
-    {
-      "title": "Byg menneskene",
-      "text": "Bidrag til bedre data, læring, metoder og adgang til professionelle erfaringer, så medlemmernes arbejde bliver stærkere."
-    },
-    {
-      "title": "Byg institutionen",
-      "text": "Støt udviklingen af processer, teknologi, governance og langsigtet kontinuitet, så ansvar og faglig kvalitet kan vokse med organisationen."
-    }
-  ],
-  "areasTitle": "Fire områder, hvor støtte gør en forskel.",
-  "areasIntro": "Støtte kan være økonomisk, teknologisk eller faglig. Omfang og form fastlægges i dialog med hver partner.",
+  "areasTitle": "Fire måder at gøre en forskel.",
+  "areasIntro": "Samarbejder kan tage form af faglig sparring, teknologi, økonomisk støtte eller fælles aktiviteter. Vi tilpasser omfanget til partnerens interesser og DSD Invests konkrete behov.",
   "areas": [
     {
       "title": "Research og teknologi",
-      "text": "Adgang til finansielle data, professionelle analyseværktøjer, software og infrastruktur, der understøtter dokumenteret research.",
-      "example": "Eksempler: datalicenser, modelværktøjer og udviklingsressourcer."
+      "text": "Støt arbejdet med finansielle data, analyseværktøjer, software og infrastruktur til dokumenterbar investeringsresearch.",
+      "example": "Mulige bidrag: datalicenser, analyseværktøjer og teknisk ekspertise."
     },
     {
       "title": "Uddannelse og mentorskab",
-      "text": "Faglig sparring, workshops og adgang til praktikere, som kan udfordre analyser og styrke medlemmernes metodeforståelse.",
-      "example": "Eksempler: mentorsessioner, gæsteoplæg og faglig feedback."
+      "text": "Giv studerende mulighed for at møde og lære af praktikere, der kan udfordre deres analyser og udvikle deres faglige metoder.",
+      "example": "Mulige bidrag: workshops, mentorsessioner og kvalificeret feedback."
     },
     {
-      "title": "Internationalt program",
-      "text": "Mulighed for at forberede og finansiere deltagelse i internationale investeringskonkurrencer, konferencer og faglige netværk.",
-      "example": "Eksempler: tilmeldingsgebyrer, transport og ophold, når deltagelse er mulig og bekræftet."
+      "title": "Internationale muligheder",
+      "text": "Hjælp med at muliggøre forberedelse til og eventuel deltagelse i internationale investeringskonkurrencer og faglige arrangementer.",
+      "example": "Mulige bidrag: faglig forberedelse, tilmelding og rejseomkostninger, når deltagelse er bekræftet."
     },
     {
       "title": "Institutionel udvikling",
-      "text": "Støtte til recruitment, governance, dokumentation og de organisatoriske funktioner, der skaber kontinuitet på tværs af studiegenerationer.",
-      "example": "Eksempler: rådgivning, processupport og organisatorisk infrastruktur."
+      "text": "Bidrag til de processer, kompetencer og rammer, der kan gøre investeringsorganisationen stærkere på tværs af årgange.",
+      "example": "Mulige bidrag: rekruttering, governance, rådgivning og organisatorisk infrastruktur."
     }
   ],
-  "international": {
-    "label": "Internationalt perspektiv",
-    "title": "En ambition om at måle os med de bedste.",
-    "paragraphs": [
-      "Vi ønsker på sigt at lade DSD's analytikere og teams deltage i internationale investeringskonkurrencer og professionelle fagmiljøer. Det kan give ekstern evaluering af research, porteføljekonstruktion og kvantitative kompetencer.",
-      "Deltagelse afhænger af arrangørernes adgangskrav, finansiering og de enkelte teams' kvalifikationer. Konkurrencerne er en mulighed for at efterprøve vores arbejde — ikke organisationens formål eller en allerede opnået anerkendelse."
+  "examples": {
+    "label": "Eksempler på mulige samarbejder",
+    "intro": "Samarbejdsformerne nedenfor er illustrationer — ikke eksisterende aftaler eller faste sponsorpakker.",
+    "items": [
+      {
+        "title": "Finansielle institutioner",
+        "text": "Case competitions, analytikerworkshops og feedback på research eller porteføljemetode."
+      },
+      {
+        "title": "Teknologivirksomheder",
+        "text": "Adgang til data, software, teknisk sparring eller værktøjer til investeringsresearch."
+      },
+      {
+        "title": "Internationale partnere",
+        "text": "Faglig støtte eller finansiering af deltagelse i relevante internationale konkurrencer og arrangementer."
+      }
     ]
   },
-  "measurement": {
-    "label": "Ansvarlig opfølgning",
-    "title": "Ambitioner skal følges af dokumentation.",
-    "intro": "Vi vil gøre det muligt for partnere at se, hvad deres bidrag faktisk har understøttet. Resultater skal rapporteres, når de foreligger — ikke præsenteres som allerede opnåede.",
-    "measures": [
-      "Gennemførte faglige aktiviteter og mentorforløb",
-      "Dokumenterede research- og teknologioutputs",
-      "Medlemsudvikling og deltagelse i relevante programmer",
-      "International deltagelse og ekstern evaluering, når gennemført"
+  "international": {
+    "label": "International ambition",
+    "title": "Ambitioner, der skal møde ekstern vurdering.",
+    "paragraphs": [
+      "Vi ønsker, at DSD Invests analytikere og teams på sigt kan prøve deres arbejde af i internationale investeringskonkurrencer, konferencer og professionelle fagmiljøer. Her kan deres research, modeller og beslutningsgrundlag møde kvalificeret ekstern vurdering.",
+      "Partnere kan hjælpe med faglig forberedelse og de ressourcer, som gør deltagelse mulig. Deltagelse afhænger af adgangskrav, kvalifikationer og finansiering; vi fremstiller ikke internationale præstationer eller aftaler som allerede opnåede."
     ]
   },
   "principleTitle": "Investeringsmæssig uafhængighed",
-  "principle": "Partnere og sponsorer har ingen indflydelse på konkrete investeringsbeslutninger. Modeller udarbejder forslag; Investeringskomitéen har den endelige investeringsmyndighed.",
-  "principleNote": "Et sponsorat giver ikke adgang til fortrolige analyser, særlige investeringer eller et løfte om afkast. Eventuelle aftaler om kapital til investering kræver særskilt juridisk og regulatorisk afklaring.",
-  "contactTitle": "Lad os drøfte et muligt samarbejde.",
-  "contactText": "Fortæl os om jeres organisation og idéer til et samarbejde. Vi er ved at etablere vores officielle kontaktkanaler; her kan I se den planlagte formular og kontaktmulighed.",
+  "principle": "Sponsorer har ingen indflydelse på konkrete investeringsbeslutninger. Investeringskomitéen har den endelige beslutningsmyndighed.",
+  "principleNote": "Et partnerskab giver ikke adgang til fortrolige investeringsanalyser eller særlige investeringsmuligheder. Resultater og samarbejdsaktiviteter kan dokumenteres, når de er gennemført.",
+  "contactTitle": "Lad os udvikle noget konkret sammen.",
+  "contactText": "Et muligt partnerskab bør tage udgangspunkt i jeres faglige interesser og DSD Invests aktuelle behov. Nedenfor kan I se den planlagte kontaktmulighed, som endnu ikke er aktiveret.",
   "contactNote": "E-mailadressen er en pladsholder og skal udskiftes før siden bruges til faktiske sponsorhenvendelser.",
   "email": "hello@example.com",
   "preview": "Formularen er en forhåndsvisning og sender eller gemmer endnu ikke henvendelser. E-mailadressen nedenfor er også en pladsholder, indtil DSD's officielle kontaktadresse er bekræftet.",
