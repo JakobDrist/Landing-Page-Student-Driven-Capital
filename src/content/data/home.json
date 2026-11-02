@@ -216,11 +216,16 @@
     ]
   },
   "closing": {
-    "title": "Byg din karriere gennem reelt ansvar.",
-    "text": "Udforsk medlemskab af DSD Invest, eller skriv dig på ventelisten for at vise din interesse.",
+    "eyebrow": "BLIV EN DEL AF DSD INVEST",
+    "title": "Vær med til at bygge fremtidens investeringsinstitution.",
+    "text": "Uanset om du ønsker at bidrage med dine kompetencer eller støtte udviklingen af næste generation af dansk investeringstalent, begynder det her.",
     "action": {
-      "label": "Bliv en del af DSD Invest",
+      "label": "Udforsk medlemskab",
       "href": "/membership"
+    },
+    "secondaryAction": {
+      "label": "Udforsk partnerskaber",
+      "href": "/partnerskaber"
     }
   },
   "mission": {
