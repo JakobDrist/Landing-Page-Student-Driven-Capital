@@ -56,7 +56,7 @@ export function MembershipPage() {
         </div>
       </Section>
 
-      <Section className="bg-white">
+      <Section>
         <div className="grid gap-12 lg:grid-cols-[1fr_1.2fr] lg:gap-[10%]">
           <div>
             <p className="text-[13px] text-muted">Optagelse og ansvar</p>
@@ -102,7 +102,7 @@ export function MembershipPage() {
         </div>
       </Section>
 
-      <Section id="membership-form" className="scroll-mt-20">
+      <Section id="membership-form" className="scroll-mt-20 bg-white">
         <div className="grid gap-14 lg:grid-cols-[1fr_1.2fr] lg:gap-[10%]">
           <aside>
             <p className="text-[13px] text-muted">Medlemskab og interesse</p>
