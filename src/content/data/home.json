@@ -62,10 +62,10 @@
     ]
   },
   "sectors": {
-    "title": "Vores investeringsmetode",
-    "description": "Fra fundamental research og sandsynlighedsbaserede estimater til kvantitative porteføljeforslag og integreret risikostyring.",
+    "title": "Et integreret investeringssystem. Bygget på evidens.",
+    "description": "Fra global økonomisk analyse og fundamental selskabsresearch til probabilistiske prognoser, kvantitativ porteføljekonstruktion og kontinuerlig forbedring. Ni faser samlet i én metodisk arkitektur.",
     "action": {
-      "label": "Udforsk investeringsmetoden",
+      "label": "Udforsk hele investeringsmetoden",
       "href": "/sectors"
     }
   },

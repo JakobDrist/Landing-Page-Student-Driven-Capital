@@ -45,7 +45,7 @@
   },
   "sectors": {
     "title": "Investeringsmetode",
-    "description": "DSD Invest udvikler en forskningsbaseret, fundamental og sandsynlighedsbaseret investeringsproces, hvor virksomhedsanalyse omsættes til prognoser, kvantitative porteføljeforslag og disciplineret risikostyring.",
+    "description": "DSD Invest udvikler en samlet forsknings- og investeringsarkitektur med ni faser, fra investeringsmandat og evidens til makroanalyse, selskabsresearch, porteføljebeslutninger og løbende evaluering.",
     "philosophy": {
       "label": "Vores investeringsfilosofi",
       "title": "Bedre beslutninger begynder med bedre estimater.",
@@ -56,27 +56,9 @@
       "maxim": "Research estimerer muligheder. Modellen foreslår allokeringer. Investeringskomitéen træffer beslutninger."
     },
     "process": {
-      "label": "Fra indsigt til beslutning",
-      "title": "Én sammenhængende investeringsproces.",
-      "intro": "Specialiseret research leverer begrundede estimater til en fælles beslutningsproces. Hvert led skal kunne forklares, udfordres og forbedres.",
-      "steps": [
-        {
-          "title": "Fundamental research",
-          "text": "Analytikere undersøger forretningsmodeller, brancher, konkurrenceforhold, regnskaber og makroøkonomiske drivkræfter på baggrund af pålidelige kilder."
-        },
-        {
-          "title": "Probabilistiske prognoser",
-          "text": "Research omsættes til scenarier for virksomhedens økonomi, værdi og mulige investeringsudfald. Antagelser, sandsynligheder og usikkerhed skal fremgå tydeligt."
-        },
-        {
-          "title": "Kvantitativ porteføljekonstruktion",
-          "text": "Modellen sammenligner muligheder på tværs af markedet og foreslår vægte ud fra forventet afkast, usikkerhed, afhængigheder, likviditet og mandatets begrænsninger. Hver position vurderes på ny."
-        },
-        {
-          "title": "Risikostyring og opdatering",
-          "text": "Nye data og ændrede økonomiske forhold opdaterer estimater og porteføljevurderinger. Stresstests og alternative scenarier hjælper med at udfordre beslutningsgrundlaget."
-        }
-      ]
+      "label": "Investment Operating Framework",
+      "title": "Ni faser. Én sammenhængende metode.",
+      "intro": "Vores specificerede investeringssystem forbinder research, økonomiske regimer og sandsynlighedsbaserede estimater med kapitalallokering, uafhængig investeringsmyndighed og systematisk læring."
     },
     "universe": {
       "label": "Globalt investeringsunivers",
@@ -140,6 +122,110 @@
     "closing": {
       "title": "Vær med til at udvikle metoden.",
       "text": "DSD Invest samler studerende fra økonomi, matematik, teknologi og beslægtede fag om en fælles investeringsproces med høje krav til kvalitet, samarbejde og ansvar."
+    },
+    "framework": {
+      "eyebrow": "DSD INVEST · INVESTMENT OPERATING FRAMEWORK",
+      "title": "Et integreret investeringssystem. Bygget på evidens.",
+      "description": "DSD Invest udvikler en sammenhængende metode, hvor global økonomisk analyse, fundamental virksomhedsresearch og probabilistiske estimater omsættes til kvantitative porteføljeforslag under integreret risikostyring — med løbende evaluering og forbedring.",
+      "architecture": "9 faser · 50 underfaser · 11 moduler til fundamental selskabsanalyse",
+      "levels": [
+        {
+          "number": "I",
+          "title": "Fundament og markedsforståelse",
+          "phases": [
+            {
+              "number": "01",
+              "title": "Investment Mandate & Universe",
+              "summary": "Mål, mandat og risikorammer",
+              "detail": "Fastlægger benchmark, globalt investeringsunivers, horisonter, investeringsbegrænsninger og beslutningsrettigheder.",
+              "subphases": 4
+            },
+            {
+              "number": "02",
+              "title": "Data & Evidence",
+              "summary": "Datakvalitet og dokumenteret evidens",
+              "detail": "Indsamler og kontrollerer kilder, finansielle data, sektoroplysninger og datagrundlag, så konklusioner kan efterprøves.",
+              "subphases": 5
+            },
+            {
+              "number": "03",
+              "title": "Macro & Economic Regimes",
+              "summary": "Konjunkturer og scenarieprognoser",
+              "detail": "Vurderer økonomiske indikatorer, regimesandsynligheder og betingede makroscenarier med løbende kalibrering.",
+              "subphases": 5
+            },
+            {
+              "number": "04",
+              "title": "Markets & Trends",
+              "summary": "Værdiansættelse og markedsdynamik",
+              "detail": "Undersøger markedsforventninger, likviditet, faktorer, strukturelle tendenser og mulige dislokationer.",
+              "subphases": 4
+            }
+          ]
+        },
+        {
+          "number": "II",
+          "title": "Investeringsresearch",
+          "phases": [
+            {
+              "number": "05",
+              "title": "Candidate Selection",
+              "summary": "Systematisk screening og analytikeridéer",
+              "detail": "Udvælger og prioriterer investeringskandidater via global screening, selvstændige hypoteser, sektorsammenligning og investerbarhedstjek.",
+              "subphases": 5
+            },
+            {
+              "number": "06",
+              "title": "Fundamental Company Research",
+              "summary": "11 moduler · Prognoser · Værdiansættelse · Scenarier",
+              "detail": "Analyserer virksomhedens økonomiske motor, konkurrenceposition og historik; udvikler fremskrivninger, værdiansættelser, sandsynlighedsvægtede udfald og en kritisk investment thesis.",
+              "subphases": 11
+            }
+          ]
+        },
+        {
+          "number": "III",
+          "title": "Kapitalallokering og beslutninger",
+          "phases": [
+            {
+              "number": "07",
+              "title": "Risk & Portfolio Construction",
+              "summary": "Afkastfordelinger, optimering og stresstests",
+              "detail": "Kombinerer forventet afkast med afhængigheder, likviditet, scenarier og risikobegrænsninger i zero-based porteføljeforslag og robusthedstests.",
+              "subphases": 7
+            },
+            {
+              "number": "08",
+              "title": "Investment Committee & Implementation",
+              "summary": "Uafhængig vurdering, godkendelse og udførelse",
+              "detail": "Samler beslutningsgrundlaget, udfordrer antagelser, dokumenterer Investeringskomitéens godkendelse og styrer eventuel implementering.",
+              "subphases": 4
+            }
+          ]
+        },
+        {
+          "number": "IV",
+          "title": "Kontinuerlig forbedring",
+          "phases": [
+            {
+              "number": "09",
+              "title": "Monitoring & Continuous Learning",
+              "summary": "Prognosekalibrering, attribution og modeludvikling",
+              "detail": "Overvåger ændringer, sammenholder prognoser med faktiske udfald, analyserer afkast og risiko og bruger dokumenterede fejl til at forbedre metoden.",
+              "subphases": 5
+            }
+          ]
+        }
+      ],
+      "principlesLabel": "Gennemgående principper",
+      "principles": [
+        "Videnskabelig evidens",
+        "Modelvalidering",
+        "Integreret risikostyring",
+        "Menneskelig beslutningsmyndighed"
+      ],
+      "maxim": "Mennesker og analytiske systemer estimerer. Modeller foreslår allokeringer. Investeringskomitéen beslutter.",
+      "note": "Dette er DSD Invests specificerede metodiske arkitektur. Den dokumenterer ikke, at alle processer og systemer allerede er implementeret eller empirisk valideret."
     }
   },
   "insights": {

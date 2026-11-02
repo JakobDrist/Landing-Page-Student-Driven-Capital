@@ -1,5 +1,6 @@
 import { pages } from "@/content/data";
 import { PageHeader } from "@/components/sections/page-header";
+import { InvestmentFramework } from "@/components/sections/investment-framework";
 import { Section } from "@/components/sections/section";
 import { ButtonLink } from "@/components/ui/button-link";
 import { sectionTitle, leadText } from "@/components/ui/section-heading";
@@ -36,21 +37,9 @@ export function SectorsPage() {
           <h2 className={sectionTitle}>{content.process.title}</h2>
           <p className={`${leadText} text-muted`}>{content.process.intro}</p>
         </div>
-        <ol className="mt-14 grid gap-x-12 gap-y-12 md:grid-cols-2">
-          {content.process.steps.map((step, index) => (
-            <li key={step.title} className="border-t border-line pt-6">
-              <p className="text-[13px] tabular-nums text-muted">
-                0{index + 1}
-              </p>
-              <h3 className="mt-5 text-[26px] leading-[1.2] tracking-[-0.025em]">
-                {step.title}
-              </h3>
-              <p className="mt-4 max-w-xl text-[17px] leading-[1.6] text-muted">
-                {step.text}
-              </p>
-            </li>
-          ))}
-        </ol>
+        <div className="mt-14 md:mt-20">
+          <InvestmentFramework expanded />
+        </div>
       </Section>
 
       <Section className="bg-white">
