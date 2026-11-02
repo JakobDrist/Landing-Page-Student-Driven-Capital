@@ -20,15 +20,26 @@
       },
       {
         "title": "Investment team",
-        "people": ["kwame-asante", "hana-weber", "jun-seo", "ananya-rao"]
+        "people": [
+          "kwame-asante",
+          "hana-weber",
+          "jun-seo",
+          "ananya-rao"
+        ]
       },
       {
         "title": "Platform",
-        "people": ["lena-fischer", "imani-clarke"]
+        "people": [
+          "lena-fischer",
+          "imani-clarke"
+        ]
       },
       {
         "title": "Operations",
-        "people": ["sofia-ortega", "owen-brooks"]
+        "people": [
+          "sofia-ortega",
+          "owen-brooks"
+        ]
       }
     ]
   },
@@ -77,122 +88,62 @@
   },
   "about": {
     "title": "Om os",
-    "description": "DSD Invest er et venturefirma inden for tidlige faser med kontorer i London, New York og Stockholm, grundlagt i 2012 af to personer, der havde bygget virksomheder, før de investerede i dem.",
-    "photo": {
-      "src": "/images/about/cover.webp",
-      "alt": ""
+    "description": "DSD Invest er en national, studenterdrevet investeringsorganisation under opbygning. Vi kombinerer fundamental research, sandsynlighedsbaserede prognoser og kvantitativ porteføljekonstruktion med et fælles formål: at give ambitiøse studerende reelt professionelt ansvar.",
+    "mission": {
+      "label": "Hvorfor vi findes",
+      "title": "Du skal ikke vente til efter studiet med at begynde på din karriere.",
+      "paragraphs": [
+        "I DSD Invest udvikler studerende sig ved at tage ansvar for det arbejde, en seriøs investeringsorganisation faktisk er afhængig af. Det er ikke kun undervisning, caseøvelser eller en titel på et CV.",
+        "Vi vil samle talent fra universiteter og fagligheder på tværs af Danmark. Faglig dygtighed, pålidelighed, intellektuel ærlighed og evnen til at lære er vigtigere end, om man allerede har professionel erfaring."
+      ],
+      "statement": "Vi bygger ikke blot en organisation, der giver studerende erfaring. Vi bygger en investeringsorganisation, hvor erfaring opstår gennem reelt ansvar."
     },
-    "caption": "Foto:Mikael Blomkvist / Pexels",
-    "storyTitle": "Et partnerskab, ikke en platform.",
-    "story": [
-      {
-        "kind": "paragraph",
-        "runs": [
-          {
-            "text": "Nadia Mensah og Theo Marchetti startede DSD Invest efter et årti med at bygge deres egne virksomheder. De havde rejst kapital fra firmaer, der skrev mange små checks og holdt afstand, og fra nogle få, der skrev færre og holdt sig tæt på. Den anden slags gjorde forskellen, så de satte sig for at blive den slags firma."
-          }
-        ]
-      },
-      {
-        "kind": "paragraph",
-        "runs": [
-          {
-            "text": "Fjorten år og fem fonde senere er modellen ikke ændret. Vi leder seed- og Series A-runder, tager en bestyrelsespost og holder det meste af hver fond i reserve til de virksomheder, der allerede er i den. Hver partner arbejder med et lille antal founders ad gangen, og den partner, der argumenterer for en investering, er den, der bliver ved den."
-          }
-        ]
-      },
-      {
-        "kind": "paragraph",
-        "runs": [
-          {
-            "text": "Firmaet ejes af partnerne og finansieres af en lille gruppe af fonde, legater og familiekontorer, hvoraf de fleste har været med os siden den første fond."
-          }
-        ]
-      }
-    ],
-    "principlesTitle": "Sådan arbejder vi",
-    "principles": [
-      {
-        "title": "Færre, større første checks",
-        "text": "Vi foretager omkring ti nye investeringer om året, så vi kan lede, eje nok til at gøre en forskel og give hver virksomhed reel tid."
-      },
-      {
-        "title": "Reserver til den lange stigning",
-        "text": "Mere end halvdelen af hver fond holdes tilbage til opfølgende runder. Founders skal ikke overbevise os to gange."
-      },
-      {
-        "title": "Én partner fra start til slut",
-        "text": "Den partner, der leder investeringen, træder ind i bestyrelsen og bliver der, indtil virksomheden ikke længere har brug for os."
-      },
-      {
-        "title": "Klare svar, hurtigt",
-        "text": "En beslutning inden for tre uger efter det første møde, og en begrundelse, når svaret er nej."
-      }
-    ],
-    "timelineTitle": "Fjorten år",
-    "timeline": [
-      {
-        "year": "2012",
-        "events": [
-          "DSD Invest grundlægges i London af Nadia Mensah og Theo Marchetti.",
-          "Fond I lukker på $85M."
-        ]
-      },
-      {
-        "year": "2014",
-        "events": ["Kontoret i New York åbner med Grant Holloway."]
-      },
-      {
-        "year": "2015",
-        "events": ["Fond II lukker på $180M."]
-      },
-      {
-        "year": "2016",
-        "events": ["Clara Novak åbner kontoret i Stockholm."]
-      },
-      {
-        "year": "2018",
-        "events": [
-          "Platformsteamet dannes for at hjælpe founders med at rekruttere og sælge.",
-          "Fond III lukker på $320M."
-        ]
-      },
-      {
-        "year": "2019",
-        "events": ["Arbor opkøbes af Meridian Bank."]
-      },
-      {
-        "year": "2020",
-        "events": ["Gatehouse opkøbes af Cobalt Systems."]
-      },
-      {
-        "year": "2021",
-        "events": [
-          "Fond IV lukker på $480M.",
-          "Cardia opkøbes af Halvard Medical.",
-          "Loadstar børsnoteres på Nasdaq."
-        ]
-      },
-      {
-        "year": "2022",
-        "events": [
-          "Grant Holloway bliver managing partner.",
-          "Verity børsnoteres på NYSE."
-        ]
-      },
-      {
-        "year": "2023",
-        "events": ["Corvid opkøbes af Palisade."]
-      },
-      {
-        "year": "2024",
-        "events": ["Tidewater børsnoteres på Oslo Børs."]
-      },
-      {
-        "year": "2025",
-        "events": ["Fond V lukker på $650M.", "Ostra opkøbes af Calder Health."]
-      }
-    ]
+    "evidence": {
+      "label": "Vores faglige fundament",
+      "title": "Bygget på evidens.",
+      "intro": "Vores metoder og vores måde at udvikle medlemmer på skal kunne begrundes i relevant forskning, dokumentation og efterprøvelig evidens. Faglig kvalitet kræver mere end overbevisende forklaringer.",
+      "principles": [
+        {
+          "title": "Forskningsbaserede metoder",
+          "text": "Analyse, prognoser, modellering og risikostyring tager udgangspunkt i anerkendt forskning, pålidelige data og fagligt begrundede antagelser."
+        },
+        {
+          "title": "Evidensbaseret læring",
+          "text": "Vi søger at tilrettelægge faglig udvikling ud fra dokumenterede læringsprincipper, praktisk anvendelse, feedback og løbende evaluering."
+        },
+        {
+          "title": "Kritisk efterprøvning",
+          "text": "Nye hypoteser og alternative metoder er velkomne, men skal testes systematisk. Vi skelner mellem en lovende idé og en empirisk valideret metode."
+        }
+      ],
+      "note": "En matematisk avanceret model er ikke nødvendigvis en pålidelig model. Vi vurderer metoder på deres forudsætninger, dokumentation og resultater — ikke deres kompleksitet."
+    },
+    "organisation": {
+      "label": "Hvad vi bygger",
+      "title": "Én investeringsproces. Specialiserede funktioner.",
+      "intro": "DSD Invest organiseres omkring et fælles forsknings- og investeringssystem: fra analyse af virksomheder og økonomiske forhold til sandsynlighedsbaserede estimater, kvantitative porteføljeforslag og integreret risikovurdering.",
+      "governance": "Analytikere udvikler research og estimater. Modeller udarbejder beslutningsgrundlag. Investeringskomitéen har den endelige investeringsmyndighed.",
+      "note": "De fem afdelinger og den interne infrastruktur er under opbygning i fase 1."
+    },
+    "founders": {
+      "label": "Menneskene bag",
+      "title": "Tre founding partners. Én fælles ambition.",
+      "intro": "DSD Invest bygges af tre ligeværdige founding partners med faglige afsæt i økonomi, investering og teknologi. Ambitionen er at opbygge en institution med varige processer og en kultur, som kan leve videre på tværs af generationer af studerende."
+    },
+    "ambition": {
+      "label": "Vores langsigtede ambition",
+      "title": "Bygget til at bestå.",
+      "paragraphs": [
+        "Vi begynder med en dokumenteret investeringsproces, frivillige medlemmer, forskningsinfrastruktur og papirkapital. Før vi påtager os et større kapitalansvar, skal metoder, governance og risikostyring kunne stå deres prøve.",
+        "På længere sigt vil vi etablere stærke partnerskaber, udvikle permanent institutionel viden og deltage i internationale fagmiljøer og investeringskonkurrencer, hvor vores arbejde kan møde ekstern vurdering.",
+        "En eventuel overgang til forvaltning af reel kapital forudsætter den nødvendige juridiske, regulatoriske og organisatoriske struktur. International anerkendelse og investeringsresultater er ambitioner, ikke noget vi påstår allerede at have opnået."
+      ]
+    },
+    "closing": {
+      "label": "Tag del i arbejdet",
+      "title": "Vær med til at bygge DSD Invest.",
+      "description": "Udforsk mulighederne for at udvikle dig som medlem, eller bliv partner i arbejdet med at opbygge næste generation af dansk investeringstalent."
+    }
   },
   "funds": {
     "title": "Funds",
@@ -283,7 +234,17 @@
         "–"
       ]
     ],
-    "total": ["Total", "", "$1.7B", "127", "33", "", "", "", ""],
+    "total": [
+      "Total",
+      "",
+      "$1.7B",
+      "127",
+      "33",
+      "",
+      "",
+      "",
+      ""
+    ],
     "disclosure": "As of 30 June 2026. Figures are illustrative and unaudited, shown net of fees, expenses and carried interest, as of the date above. TVPI is total value to paid-in capital and DPI is distributions to paid-in capital. Past performance is not a guide to future results, and nothing on this page is an offer to sell or a solicitation of an offer to buy an interest in any fund.",
     "photo": {
       "src": "/images/funds/cover.webp",
@@ -771,32 +732,51 @@
   "insights/letters": {
     "title": "Investor letters",
     "description": "Our quarterly and annual letters to the partners in our funds, published in full.",
-    "items": ["q3-2026-letter", "q2-2026-letter", "annual-letter-2025"]
+    "items": [
+      "q3-2026-letter",
+      "q2-2026-letter",
+      "annual-letter-2025"
+    ]
   },
   "insights/playbooks": {
     "title": "Playbooks",
     "description": "Practical notes for founders on boards, hiring, fundraising and the first years.",
-    "items": ["board-meetings-that-help", "the-first-eighteen-months"]
+    "items": [
+      "board-meetings-that-help",
+      "the-first-eighteen-months"
+    ]
   },
   "insights/news": {
     "title": "News",
     "description": "Funds, partners, and the companies that have joined or left the portfolio.",
-    "items": ["ostra-joins-calder-health", "announcing-fund-five"]
+    "items": [
+      "ostra-joins-calder-health",
+      "announcing-fund-five"
+    ]
   },
   "offices": [
     {
       "city": "London",
-      "address": ["14 Fitzroy Square", "London W1T 5HP"],
+      "address": [
+        "14 Fitzroy Square",
+        "London W1T 5HP"
+      ],
       "phone": "+44 20 7946 0321"
     },
     {
       "city": "New York",
-      "address": ["211 Elizabeth Street, Floor 4", "New York, NY 10012"],
+      "address": [
+        "211 Elizabeth Street, Floor 4",
+        "New York, NY 10012"
+      ],
       "phone": "+1 212 555 0148"
     },
     {
       "city": "Stockholm",
-      "address": ["Birger Jarlsgatan 18", "114 34 Stockholm"],
+      "address": [
+        "Birger Jarlsgatan 18",
+        "114 34 Stockholm"
+      ],
       "phone": "+46 8 555 019 20"
     }
   ],
