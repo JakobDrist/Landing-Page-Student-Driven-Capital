@@ -95,7 +95,84 @@
   "principle": "Partnere og sponsorer har ingen indflydelse på konkrete investeringsbeslutninger. Modeller udarbejder forslag; Investeringskomitéen har den endelige investeringsmyndighed.",
   "principleNote": "Et sponsorat giver ikke adgang til fortrolige analyser, særlige investeringer eller et løfte om afkast. Eventuelle aftaler om kapital til investering kræver særskilt juridisk og regulatorisk afklaring.",
   "contactTitle": "Lad os drøfte et muligt samarbejde.",
-  "contactText": "Vi ønsker partnerskaber med et klart fagligt eller institutionelt formål. En konkret kontaktadresse offentliggøres her, så snart modtagelsen af henvendelser er klar.",
-  "contactNote": "Vi åbner for direkte partnerskabshenvendelser, når den officielle kontaktkanal er etableret. Der er endnu ingen aktiv kontaktformular eller offentliggjort kontaktadresse.",
-  "email": ""
+  "contactText": "Fortæl os om jeres organisation og idéer til et samarbejde. Vi er ved at etablere vores officielle kontaktkanaler; her kan I se den planlagte formular og kontaktmulighed.",
+  "contactNote": "E-mailadressen er en pladsholder og skal udskiftes før siden bruges til faktiske sponsorhenvendelser.",
+  "email": "hello@example.com",
+  "preview": "Formularen er en forhåndsvisning og sender eller gemmer endnu ikke henvendelser. E-mailadressen nedenfor er også en pladsholder, indtil DSD's officielle kontaktadresse er bekræftet.",
+  "form": {
+    "heading": "",
+    "fields": [
+      {
+        "name": "organisation",
+        "label": "Organisation",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "options": [],
+        "fullWidth": true
+      },
+      {
+        "name": "name",
+        "label": "Navn",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "options": [],
+        "fullWidth": false
+      },
+      {
+        "name": "email",
+        "label": "E-mail",
+        "type": "email",
+        "required": true,
+        "placeholder": "",
+        "options": [],
+        "fullWidth": false
+      },
+      {
+        "name": "area",
+        "label": "Vi er interesserede i",
+        "type": "select",
+        "required": false,
+        "placeholder": "",
+        "options": [
+          {
+            "label": "Vælg et område (valgfrit)",
+            "value": ""
+          },
+          {
+            "label": "Research og teknologi",
+            "value": "research-technology"
+          },
+          {
+            "label": "Uddannelse og mentorskab",
+            "value": "education-mentorship"
+          },
+          {
+            "label": "Internationalt program",
+            "value": "international"
+          },
+          {
+            "label": "Institutionel udvikling",
+            "value": "institutional"
+          },
+          {
+            "label": "Noget andet",
+            "value": "other"
+          }
+        ],
+        "fullWidth": true
+      },
+      {
+        "name": "message",
+        "label": "Besked",
+        "type": "textarea",
+        "required": true,
+        "placeholder": "",
+        "options": [],
+        "fullWidth": true
+      }
+    ],
+    "submit": "Send henvendelse"
+  }
 }
