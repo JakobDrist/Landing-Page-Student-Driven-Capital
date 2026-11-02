@@ -446,83 +446,67 @@
     ]
   },
   "contact": {
-    "title": "Kontakt",
-    "description": "Founders bør bruge pitchformularen, som når hele partnerskabet. Til alt andet kan du skrive til den rette indbakke nedenfor, så svarer et menneske inden for to hverdage.",
-    "inboxes": [
+    "title": "Kontakt DSD Invest",
+    "description": "Vil du være en del af DSD Invest, udforske et partnerskab eller høre mere om organisationen? Find den relevante vej her.",
+    "heading": "Hvad drejer din henvendelse sig om?",
+    "intro": "Vi bygger DSD Invest som en national, studenterdrevet investeringsorganisation. Vælg det område, der passer til din interesse.",
+    "channels": [
       {
-        "title": "Founders",
-        "description": "Pitches og introduktioner",
-        "links": [
-          {
-            "label": "pitch@example.com",
-            "href": "mailto:pitch@example.com"
-          },
-          {
-            "label": "Brug pitchformularen",
-            "href": "/pitch"
-          }
-        ],
-        "email": "pitch@example.com"
+        "title": "Medlemskab og rekruttering",
+        "description": "Udforsk de fem afdelinger, kravene til medlemskab og mulighederne for at blive en del af DSD Invest.",
+        "link": {
+          "label": "Udforsk medlemskab",
+          "href": "/membership"
+        }
       },
       {
-        "title": "Investorer",
-        "description": "Til partnerne i vores fonde",
-        "links": [
-          {
-            "label": "ir@example.com",
-            "href": "mailto:ir@example.com"
-          }
-        ],
-        "email": "ir@example.com"
+        "title": "Partnerskaber og sponsorer",
+        "description": "Læs hvordan virksomheder og faglige partnere kan støtte research, talentudvikling og organisationens internationale ambitioner.",
+        "link": {
+          "label": "Se partnerskabsmuligheder",
+          "href": "/partnerskaber"
+        }
       },
       {
-        "title": "Presse",
-        "description": "Interviews og udtalelser",
-        "links": [
-          {
-            "label": "press@example.com",
-            "href": "mailto:press@example.com"
-          }
-        ],
-        "email": "press@example.com"
-      },
-      {
-        "title": "Alt andet",
-        "description": "Karriere, events og generelle henvendelser",
-        "links": [
-          {
-            "label": "hello@example.com",
-            "href": "mailto:hello@example.com"
-          }
-        ],
-        "email": "hello@example.com"
+        "title": "Presse og øvrige henvendelser",
+        "description": "For spørgsmål om DSD Invest, den institutionelle vision eller andre relevante samarbejdsmuligheder.",
+        "link": null
       }
     ],
+    "emailTitle": "E-mail",
+    "email": "hello@example.com",
+    "emailNote": "Adressen er en midlertidig pladsholder og er ikke bekræftet som aktiv. Udskift den med DSD Invests officielle e-mail, før siden anvendes til faktiske henvendelser.",
+    "formTitle": "Kontaktformular",
+    "formNote": "Formularen er en forhåndsvisning. Den sender og gemmer endnu ikke beskeder. Brug den ikke til følsomme eller fortrolige oplysninger.",
     "form": {
-      "heading": "",
+      "heading": "Din henvendelse — forhåndsvisning",
       "fields": [
         {
           "name": "topic",
-          "label": "Jeg skriver om",
+          "label": "Hvad handler din henvendelse om?",
           "type": "select",
-          "required": false,
+          "required": true,
           "placeholder": "",
           "options": [
             {
-              "label": "noget andet",
-              "value": "general"
+              "label": "Vælg emne",
+              "value": ""
             },
             {
-              "label": "at investere i en fond",
-              "value": "investors"
+              "label": "Medlemskab eller rekruttering",
+              "value": "membership"
             },
             {
-              "label": "en presseforespørgsel",
+              "label": "Partnerskaber og sponsorater",
+              "value": "partnerships"
+            },
+            {
+              "label": "Presse",
               "value": "press"
             },
             {
-              "label": "at arbejde hos DSD Invest",
-              "value": "careers"
+              "label": "Andet",
+              "value": "general"
             }
           ],
           "fullWidth": true
@@ -547,10 +531,10 @@
         },
         {
           "name": "organisation",
-          "label": "Organisation",
+          "label": "Organisation (valgfrit)",
           "type": "text",
           "required": false,
-          "placeholder": "Valgfrit",
+          "placeholder": "",
           "options": [],
           "fullWidth": true
         },
@@ -564,7 +548,7 @@
           "fullWidth": true
         }
       ],
-      "submit": "Send besked"
+      "submit": "Afprøv formular (sender ikke)"
     }
   },
   "pitch": {
