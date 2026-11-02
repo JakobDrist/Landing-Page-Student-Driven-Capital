@@ -81,11 +81,11 @@ export function AboutPage() {
       </Section>
 
       <Section className="pb-0">
-          <p className="text-[13px] text-muted">{about.founders.label}</p>
-          <div className="mt-6 grid gap-8 lg:grid-cols-[1fr_1fr] lg:gap-[10%]">
-            <h2 className={sectionTitle}>{about.founders.title}</h2>
-            <p className={`${leadText} text-muted`}>{about.founders.intro}</p>
-          </div>
+        <p className="text-[13px] text-muted">{about.founders.label}</p>
+        <div className="mt-6 grid gap-8 lg:grid-cols-[1fr_1fr] lg:gap-[10%]">
+          <h2 className={sectionTitle}>{about.founders.title}</h2>
+          <p className={`${leadText} text-muted`}>{about.founders.intro}</p>
+        </div>
       </Section>
       <FoundingPartnersSection
         title="Founding Partners"
