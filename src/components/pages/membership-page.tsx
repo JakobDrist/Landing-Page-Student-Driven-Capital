@@ -9,7 +9,10 @@ import { DepartmentList } from "@/features/organisation/department-list";
 export function MembershipPage() {
   return (
     <>
-      <PageHeader title={membership.title} description={membership.description} />
+      <PageHeader
+        title={membership.title}
+        description={membership.description}
+      />
 
       <Section className="bg-white">
         <div className="grid gap-12 lg:grid-cols-[1fr_1.2fr] lg:gap-[10%]">
@@ -57,10 +60,7 @@ export function MembershipPage() {
               {membership.extraRolesNote}
             </p>
           </div>
-          <DepartmentList
-            departments={membership.departments}
-            extended
-          />
+          <DepartmentList departments={membership.departments} extended />
         </div>
       </Section>
 
@@ -123,7 +123,10 @@ export function MembershipPage() {
             </p>
           </aside>
           <div>
-            <EnquiryForm definition={membership.form} label="Medlemsformular — forhåndsvisning" />
+            <EnquiryForm
+              definition={membership.form}
+              label="Medlemsformular — forhåndsvisning"
+            />
           </div>
         </div>
       </Section>
