@@ -1,7 +1,6 @@
 import { home, pages } from "@/content/data";
 import { PageHeader } from "@/components/sections/page-header";
 import { Section } from "@/components/sections/section";
-import { Container } from "@/components/ui/container";
 import { ButtonLink } from "@/components/ui/button-link";
 import { sectionTitle, leadText } from "@/components/ui/section-heading";
 import { FoundingPartnersSection } from "@/components/sections/founding-partners-section";
@@ -81,14 +80,12 @@ export function AboutPage() {
         </div>
       </Section>
 
-      <Section className="pb-0!">
-        <Container className="px-0!">
+      <Section className="pb-0">
           <p className="text-[13px] text-muted">{about.founders.label}</p>
           <div className="mt-6 grid gap-8 lg:grid-cols-[1fr_1fr] lg:gap-[10%]">
             <h2 className={sectionTitle}>{about.founders.title}</h2>
             <p className={`${leadText} text-muted`}>{about.founders.intro}</p>
           </div>
-        </Container>
       </Section>
       <FoundingPartnersSection
         title="Founding Partners"
