@@ -1,124 +1,101 @@
 {
-  "title": "Investér i næste generation af investeringstalent",
-  "description": "Vær med til at bygge det miljø, hvor nogle af Danmarks mest ambitiøse studerende udvikler sig gennem reelt professionelt ansvar, og kom tættere på talentet, mens det udvikler sig.",
+  "title": "Støt talent. Styrk ansvar.",
+  "description": "DSD Invest bygger en national, studenterdrevet investeringsorganisation, hvor ambitiøse studerende udvikler deres faglighed gennem research, teknologi, risikostyring og professionelt ansvar. Partnere kan hjælpe med at gøre arbejdet mere kvalificeret og mulighederne større.",
   "action": {
-    "label": "Start en samtale",
-    "href": "/partnerskaber#kontakt"
+    "label": "Udforsk partnerskabsmuligheder",
+    "href": "#muligheder"
   },
-  "whyTitle": "Mere end endnu et studenterevent",
-  "why": [
-    "DSD Invest giver virksomheder mulighed for at gøre mere end at sponsorere en case competition eller en finance society. Som partner er I med til at bygge en organisation, hvor studerende får ansvar for arbejde, som andre er afhængige af.",
-    "Til gengæld kommer I tæt på et selektivt, nationalt netværk af studerende, der ikke blot siger, at de er ambitiøse, men som har fået ansvar og vist, hvordan de håndterer det."
-  ],
+  "opening": {
+    "label": "Hvorfor et partnerskab?",
+    "title": "Mere end et sponsorat til et studenterarrangement.",
+    "paragraphs": [
+      "DSD Invest er ikke bygget op omkring enkeltstående events. Vores ambition er at udvikle en vedvarende investeringsorganisation, hvor studerende får ansvar for arbejde, som andre funktioner er afhængige af.",
+      "Eksterne partnere kan bidrage med adgang til viden, teknologi og professionelle miljøer. Støtten giver studerende bedre forudsætninger for at udføre krævende, forskningsbaseret arbejde — og for at udvikle sig gennem konkret ansvar."
+    ],
+    "statement": "Sponsorér ikke kun talent. Vær med til at udvikle det gennem arbejdet, det får ansvar for."
+  },
+  "value": {
+    "label": "Værdien for partnere",
+    "title": "Et samarbejde med faglig substans.",
+    "intro": "Et partnerskab skal skabe værdi på begge sider. Mulighederne aftales konkret og afhænger af organisationens udvikling — vi lover ikke adgang til bestemte personer, jobansættelser eller investeringsresultater.",
+    "items": [
+      {
+        "title": "Relationer til talent",
+        "text": "Mød og samarbejd med studerende fra økonomi, matematik, teknologi og andre relevante fag gennem aftalte aktiviteter."
+      },
+      {
+        "title": "Faglig involvering",
+        "text": "Bidrag med mentorer, oplæg, feedback på metode og indsigt i professionelle arbejdsgange, når det passer til begge parters mål."
+      },
+      {
+        "title": "Synlighed med relevans",
+        "text": "Bliv knyttet til relevante aktiviteter og projekter gennem aftalt omtale, faglige arrangementer eller fælles formidling, hvor det er tilladt."
+      },
+      {
+        "title": "Dokumenterbar udvikling",
+        "text": "Modtag relevante opdateringer om gennemførte aktiviteter, researchleverancer og talentudvikling, efterhånden som DSD kan dokumentere dem."
+      }
+    ]
+  },
+  "pillarsTitle": "To niveauer af ansvar.",
   "pillars": [
     {
       "title": "Byg menneskene",
-      "text": "Gennem bedre værktøjer, teknologi, træning og adgang til erfarne professionelle."
+      "text": "Bidrag til bedre data, læring, metoder og adgang til professionelle erfaringer, så medlemmernes arbejde bliver stærkere."
     },
     {
-      "title": "Byg ansvaret",
-      "text": "På sigt, og under den rette juridiske og regulatoriske struktur, kan støtte være med til at øge det ansvar, de dygtigste studerende får."
+      "title": "Byg institutionen",
+      "text": "Støt udviklingen af processer, teknologi, governance og langsigtet kontinuitet, så ansvar og faglig kvalitet kan vokse med organisationen."
     }
   ],
-  "areasTitle": "Fire måder at støtte på",
+  "areasTitle": "Fire områder, hvor støtte gør en forskel.",
+  "areasIntro": "Støtte kan være økonomisk, teknologisk eller faglig. Omfang og form fastlægges i dialog med hver partner.",
   "areas": [
     {
       "title": "Research og teknologi",
-      "text": "Professionelle finansielle data, software, researchværktøjer og teknisk infrastruktur."
+      "text": "Adgang til finansielle data, professionelle analyseværktøjer, software og infrastruktur, der understøtter dokumenteret research.",
+      "example": "Eksempler: datalicenser, modelværktøjer og udviklingsressourcer."
     },
     {
       "title": "Uddannelse og mentorskab",
-      "text": "Træning, workshops, rådgivere og adgang til erfarne professionelle."
+      "text": "Faglig sparring, workshops og adgang til praktikere, som kan udfordre analyser og styrke medlemmernes metodeforståelse.",
+      "example": "Eksempler: mentorsessioner, gæsteoplæg og faglig feedback."
     },
     {
       "title": "Internationalt program",
-      "text": "Konkurrencer, konferencer, internationalt engagement og rejser."
+      "text": "Mulighed for at forberede og finansiere deltagelse i internationale investeringskonkurrencer, konferencer og faglige netværk.",
+      "example": "Eksempler: tilmeldingsgebyrer, transport og ophold, når deltagelse er mulig og bekræftet."
     },
     {
       "title": "Institutionel udvikling",
-      "text": "Rekruttering, governance, organisatoriske kapabiliteter og langsigtet bæredygtighed."
+      "text": "Støtte til recruitment, governance, dokumentation og de organisatoriske funktioner, der skaber kontinuitet på tværs af studiegenerationer.",
+      "example": "Eksempler: rådgivning, processupport og organisatorisk infrastruktur."
     }
   ],
-  "principleTitle": "Uafhængighed er en del af aftalen",
-  "principle": "Partnere og sponsorer har ingen indflydelse på konkrete investeringsbeslutninger. Den endelige beslutningsmyndighed ligger hos Investeringskomitéen.",
-  "contactTitle": "Start en samtale",
-  "contactText": "Fortæl os kort om jeres organisation, og hvad I gerne vil støtte. Vi vender tilbage, så vi sammen kan finde en form for samarbejde, der giver mening.",
-  "email": "hello@example.com",
-  "preview": "Formularen er en forhåndsvisning. Henvendelser bliver endnu ikke sendt eller gemt, så skriv til os på e-mail indtil videre.",
-  "form": {
-    "heading": "",
-    "fields": [
-      {
-        "name": "organisation",
-        "label": "Organisation",
-        "type": "text",
-        "required": true,
-        "placeholder": "",
-        "options": [],
-        "fullWidth": true
-      },
-      {
-        "name": "name",
-        "label": "Navn",
-        "type": "text",
-        "required": true,
-        "placeholder": "",
-        "options": [],
-        "fullWidth": false
-      },
-      {
-        "name": "email",
-        "label": "E-mail",
-        "type": "email",
-        "required": true,
-        "placeholder": "",
-        "options": [],
-        "fullWidth": false
-      },
-      {
-        "name": "area",
-        "label": "Vi er interesserede i",
-        "type": "select",
-        "required": false,
-        "placeholder": "",
-        "options": [
-          {
-            "label": "Vælg et område (valgfrit)",
-            "value": ""
-          },
-          {
-            "label": "Research og teknologi",
-            "value": "research-technology"
-          },
-          {
-            "label": "Uddannelse og mentorskab",
-            "value": "education-mentorship"
-          },
-          {
-            "label": "Internationalt program",
-            "value": "international"
-          },
-          {
-            "label": "Institutionel udvikling",
-            "value": "institutional"
-          },
-          {
-            "label": "Noget andet",
-            "value": "other"
-          }
-        ],
-        "fullWidth": true
-      },
-      {
-        "name": "message",
-        "label": "Besked",
-        "type": "textarea",
-        "required": true,
-        "placeholder": "",
-        "options": [],
-        "fullWidth": true
-      }
-    ],
-    "submit": "Send henvendelse"
-  }
+  "international": {
+    "label": "Internationalt perspektiv",
+    "title": "En ambition om at måle os med de bedste.",
+    "paragraphs": [
+      "Vi ønsker på sigt at lade DSD's analytikere og teams deltage i internationale investeringskonkurrencer og professionelle fagmiljøer. Det kan give ekstern evaluering af research, porteføljekonstruktion og kvantitative kompetencer.",
+      "Deltagelse afhænger af arrangørernes adgangskrav, finansiering og de enkelte teams' kvalifikationer. Konkurrencerne er en mulighed for at efterprøve vores arbejde — ikke organisationens formål eller en allerede opnået anerkendelse."
+    ]
+  },
+  "measurement": {
+    "label": "Ansvarlig opfølgning",
+    "title": "Ambitioner skal følges af dokumentation.",
+    "intro": "Vi vil gøre det muligt for partnere at se, hvad deres bidrag faktisk har understøttet. Resultater skal rapporteres, når de foreligger — ikke præsenteres som allerede opnåede.",
+    "measures": [
+      "Gennemførte faglige aktiviteter og mentorforløb",
+      "Dokumenterede research- og teknologioutputs",
+      "Medlemsudvikling og deltagelse i relevante programmer",
+      "International deltagelse og ekstern evaluering, når gennemført"
+    ]
+  },
+  "principleTitle": "Investeringsmæssig uafhængighed",
+  "principle": "Partnere og sponsorer har ingen indflydelse på konkrete investeringsbeslutninger. Modeller udarbejder forslag; Investeringskomitéen har den endelige investeringsmyndighed.",
+  "principleNote": "Et sponsorat giver ikke adgang til fortrolige analyser, særlige investeringer eller et løfte om afkast. Eventuelle aftaler om kapital til investering kræver særskilt juridisk og regulatorisk afklaring.",
+  "contactTitle": "Lad os drøfte et muligt samarbejde.",
+  "contactText": "Vi ønsker partnerskaber med et klart fagligt eller institutionelt formål. En konkret kontaktadresse offentliggøres her, så snart modtagelsen af henvendelser er klar.",
+  "contactNote": "Vi åbner for direkte partnerskabshenvendelser, når den officielle kontaktkanal er etableret. Der er endnu ingen aktiv kontaktformular eller offentliggjort kontaktadresse.",
+  "email": ""
 }
