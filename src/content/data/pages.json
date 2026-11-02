@@ -20,21 +20,127 @@
       },
       {
         "title": "Investment team",
-        "people": ["kwame-asante", "hana-weber", "jun-seo", "ananya-rao"]
+        "people": [
+          "kwame-asante",
+          "hana-weber",
+          "jun-seo",
+          "ananya-rao"
+        ]
       },
       {
         "title": "Platform",
-        "people": ["lena-fischer", "imani-clarke"]
+        "people": [
+          "lena-fischer",
+          "imani-clarke"
+        ]
       },
       {
         "title": "Operations",
-        "people": ["sofia-ortega", "owen-brooks"]
+        "people": [
+          "sofia-ortega",
+          "owen-brooks"
+        ]
       }
     ]
   },
   "sectors": {
-    "title": "Sectors",
-    "description": "Five sectors where a technical team with a head start can build something that lasts, and where our partners have spent their careers."
+    "title": "Investeringsmetode",
+    "description": "DSD Invest udvikler en forskningsbaseret, fundamental og sandsynlighedsbaseret investeringsproces, hvor virksomhedsanalyse omsættes til prognoser, kvantitative porteføljeforslag og disciplineret risikostyring.",
+    "philosophy": {
+      "label": "Vores investeringsfilosofi",
+      "title": "Bedre beslutninger begynder med bedre estimater.",
+      "paragraphs": [
+        "Vores ambition er at skabe merafkast i forhold til et bredt globalt aktiemarked over tid — gennem bedre forståelse af virksomheder, deres økonomiske drivkræfter og de risici, der påvirker fremtidige udfald. Ambitionen er ikke i sig selv dokumentation for en investeringsmæssig fordel.",
+        "Vi lægger os ikke fast på én permanent value-, growth- eller quality-strategi. En investering vurderes ud fra den forventede fremtidige værdi i forhold til prisen, usikkerheden og dens bidrag til den samlede portefølje."
+      ],
+      "maxim": "Research estimerer muligheder. Modellen foreslår allokeringer. Investeringskomitéen træffer beslutninger."
+    },
+    "process": {
+      "label": "Fra indsigt til beslutning",
+      "title": "Én sammenhængende investeringsproces.",
+      "intro": "Specialiseret research leverer begrundede estimater til en fælles beslutningsproces. Hvert led skal kunne forklares, udfordres og forbedres.",
+      "steps": [
+        {
+          "title": "Fundamental research",
+          "text": "Analytikere undersøger forretningsmodeller, brancher, konkurrenceforhold, regnskaber og makroøkonomiske drivkræfter på baggrund af pålidelige kilder."
+        },
+        {
+          "title": "Probabilistiske prognoser",
+          "text": "Research omsættes til scenarier for virksomhedens økonomi, værdi og mulige investeringsudfald. Antagelser, sandsynligheder og usikkerhed skal fremgå tydeligt."
+        },
+        {
+          "title": "Kvantitativ porteføljekonstruktion",
+          "text": "Modellen sammenligner muligheder på tværs af markedet og foreslår vægte ud fra forventet afkast, usikkerhed, afhængigheder, likviditet og mandatets begrænsninger. Hver position vurderes på ny."
+        },
+        {
+          "title": "Risikostyring og opdatering",
+          "text": "Nye data og ændrede økonomiske forhold opdaterer estimater og porteføljevurderinger. Stresstests og alternative scenarier hjælper med at udfordre beslutningsgrundlaget."
+        }
+      ]
+    },
+    "universe": {
+      "label": "Globalt investeringsunivers",
+      "title": "Globalt perspektiv. Dybde i research.",
+      "paragraphs": [
+        "Børsnoterede aktier på tværs af verden udgør kernen i investeringsuniverset, mens udviklede markeder er det primære researchfokus. Analysen organiseres overvejende efter sektor, ikke efter landegrænser.",
+        "Mandatet giver også mulighed for at vurdere blandt andet obligationer, likvide midler, guld og bestemte beskyttelsesinstrumenter, når deres rolle og risici kan begrundes. Tilladte instrumenter er ikke ensbetydende med faktiske beholdninger."
+      ],
+      "principles": [
+        {
+          "title": "Global benchmark",
+          "text": "Vi sammenligner vores langsigtede resultater med et bredt, globalt og markedsværdivægtet aktieindeks."
+        },
+        {
+          "title": "Zero-based allocation",
+          "text": "Eksisterende positioner har ingen automatisk ret til kapital. Alle muligheder vurderes på deres aktuelle, forventede bidrag."
+        },
+        {
+          "title": "Uafhængig investeringsmyndighed",
+          "text": "Modeller producerer beslutningsgrundlag. Det er Investeringskomitéen, der har myndighed til at godkende investeringer."
+        }
+      ]
+    },
+    "risk": {
+      "label": "Integreret risikostyring",
+      "title": "Risiko vurderes i alle led.",
+      "intro": "Målet er ikke at undgå enhver kursbevægelse, men at forstå usikkerheden og begrænse risikoen for alvorlige, varige kapitaltab.",
+      "layers": [
+        {
+          "title": "Prognoserisiko",
+          "text": "Usikkerheden i virksomheders fremtidige økonomi, scenarier og værdiansættelser."
+        },
+        {
+          "title": "Porteføljerisiko",
+          "text": "Koncentration, korrelationer, fælles eksponeringer, likviditet og diversifikation."
+        },
+        {
+          "title": "Modelrisiko",
+          "text": "Fejl i data, antagelser og modelstruktur, vurderet gennem følsomhedsanalyser og stresstests."
+        },
+        {
+          "title": "Systemisk risiko",
+          "text": "Ekstreme markedsforhold og likviditetschok, som kan true porteføljens og organisationens robusthed."
+        }
+      ],
+      "regimes": "Vores risikoprofil tilpasses løbende sandsynligheden for ekspansion, genopretning, recession og depression. I gunstige perioder prioriteres forventet afkast inden for risikorammerne; i alvorligt ugunstige perioder får kapitalbevarelse større vægt."
+    },
+    "evidence": {
+      "label": "Forskningsbaseret og efterprøvelig",
+      "title": "En metode er ikke bevist, fordi den er avanceret.",
+      "paragraphs": [
+        "Vi tager udgangspunkt i relevant videnskabelig forskning og dokumenterbare økonomiske sammenhænge. Nye hypoteser og modeller skal kunne testes kritisk mod data, alternative antagelser og deres faktiske resultater.",
+        "Vi skelner klart mellem teoretisk begrundelse, modelestimater og empirisk valideret effekt. Faglig stringens indebærer også at ændre metode, når evidensen tilsiger det."
+      ]
+    },
+    "phase": {
+      "label": "Vores nuværende fase",
+      "title": "Først processen. Derefter større ansvar.",
+      "text": "DSD Invest er under opbygning. I den første fase udvikler og dokumenterer vi investeringsprocessen med papirkapital; organisationen forvalter ikke ekstern kapital. Mere omfattende kapitalansvar forudsætter både faglig dokumentation og de rette juridiske og organisatoriske rammer."
+    },
+    "closing": {
+      "title": "Vær med til at udvikle metoden.",
+      "text": "DSD Invest samler studerende fra økonomi, matematik, teknologi og beslægtede fag om en fælles investeringsproces med høje krav til kvalitet, samarbejde og ansvar."
+    }
   },
   "insights": {
     "title": "Insights",
@@ -140,15 +246,21 @@
       },
       {
         "year": "2014",
-        "events": ["Kontoret i New York åbner med Grant Holloway."]
+        "events": [
+          "Kontoret i New York åbner med Grant Holloway."
+        ]
       },
       {
         "year": "2015",
-        "events": ["Fond II lukker på $180M."]
+        "events": [
+          "Fond II lukker på $180M."
+        ]
       },
       {
         "year": "2016",
-        "events": ["Clara Novak åbner kontoret i Stockholm."]
+        "events": [
+          "Clara Novak åbner kontoret i Stockholm."
+        ]
       },
       {
         "year": "2018",
@@ -159,11 +271,15 @@
       },
       {
         "year": "2019",
-        "events": ["Arbor opkøbes af Meridian Bank."]
+        "events": [
+          "Arbor opkøbes af Meridian Bank."
+        ]
       },
       {
         "year": "2020",
-        "events": ["Gatehouse opkøbes af Cobalt Systems."]
+        "events": [
+          "Gatehouse opkøbes af Cobalt Systems."
+        ]
       },
       {
         "year": "2021",
@@ -182,15 +298,22 @@
       },
       {
         "year": "2023",
-        "events": ["Corvid opkøbes af Palisade."]
+        "events": [
+          "Corvid opkøbes af Palisade."
+        ]
       },
       {
         "year": "2024",
-        "events": ["Tidewater børsnoteres på Oslo Børs."]
+        "events": [
+          "Tidewater børsnoteres på Oslo Børs."
+        ]
       },
       {
         "year": "2025",
-        "events": ["Fond V lukker på $650M.", "Ostra opkøbes af Calder Health."]
+        "events": [
+          "Fond V lukker på $650M.",
+          "Ostra opkøbes af Calder Health."
+        ]
       }
     ]
   },
@@ -283,7 +406,17 @@
         "–"
       ]
     ],
-    "total": ["Total", "", "$1.7B", "127", "33", "", "", "", ""],
+    "total": [
+      "Total",
+      "",
+      "$1.7B",
+      "127",
+      "33",
+      "",
+      "",
+      "",
+      ""
+    ],
     "disclosure": "As of 30 June 2026. Figures are illustrative and unaudited, shown net of fees, expenses and carried interest, as of the date above. TVPI is total value to paid-in capital and DPI is distributions to paid-in capital. Past performance is not a guide to future results, and nothing on this page is an offer to sell or a solicitation of an offer to buy an interest in any fund.",
     "photo": {
       "src": "/images/funds/cover.webp",
@@ -771,32 +904,51 @@
   "insights/letters": {
     "title": "Investor letters",
     "description": "Our quarterly and annual letters to the partners in our funds, published in full.",
-    "items": ["q3-2026-letter", "q2-2026-letter", "annual-letter-2025"]
+    "items": [
+      "q3-2026-letter",
+      "q2-2026-letter",
+      "annual-letter-2025"
+    ]
   },
   "insights/playbooks": {
     "title": "Playbooks",
     "description": "Practical notes for founders on boards, hiring, fundraising and the first years.",
-    "items": ["board-meetings-that-help", "the-first-eighteen-months"]
+    "items": [
+      "board-meetings-that-help",
+      "the-first-eighteen-months"
+    ]
   },
   "insights/news": {
     "title": "News",
     "description": "Funds, partners, and the companies that have joined or left the portfolio.",
-    "items": ["ostra-joins-calder-health", "announcing-fund-five"]
+    "items": [
+      "ostra-joins-calder-health",
+      "announcing-fund-five"
+    ]
   },
   "offices": [
     {
       "city": "London",
-      "address": ["14 Fitzroy Square", "London W1T 5HP"],
+      "address": [
+        "14 Fitzroy Square",
+        "London W1T 5HP"
+      ],
       "phone": "+44 20 7946 0321"
     },
     {
       "city": "New York",
-      "address": ["211 Elizabeth Street, Floor 4", "New York, NY 10012"],
+      "address": [
+        "211 Elizabeth Street, Floor 4",
+        "New York, NY 10012"
+      ],
       "phone": "+1 212 555 0148"
     },
     {
       "city": "Stockholm",
-      "address": ["Birger Jarlsgatan 18", "114 34 Stockholm"],
+      "address": [
+        "Birger Jarlsgatan 18",
+        "114 34 Stockholm"
+      ],
       "phone": "+46 8 555 019 20"
     }
   ],
