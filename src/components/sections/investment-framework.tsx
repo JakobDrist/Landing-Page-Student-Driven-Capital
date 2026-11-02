@@ -1,4 +1,5 @@
 import { pages } from "@/content/data";
+import { Icon } from "@/components/ui/icon";
 
 export function InvestmentFramework({
   expanded = false,
@@ -63,8 +64,10 @@ export function InvestmentFramework({
             </div>
             {levelIndex < framework.levels.length - 1 && (
               <div className="flex h-12 items-center justify-center" aria-hidden="true">
-                <span className="h-7 w-px bg-control" />
-                <span className="-ml-[5px] mt-7 h-2 w-2 rotate-45 border-r border-b border-control" />
+                <Icon
+                  path="M12 4v16m-6-6 6 6 6-6"
+                  className="size-5 text-muted"
+                />
               </div>
             )}
           </div>
