@@ -49,7 +49,7 @@ export function ScrollRevealText({
             <p className="sr-only">{text}</p>
             <p
               aria-hidden="true"
-              className="text-[clamp(1.875rem,4.3vw,4rem)] leading-[1.16] tracking-[-0.035em] text-paper"
+              className="text-[clamp(1.75rem,3.85vw,3.6rem)] leading-[1.16] tracking-[-0.035em] text-paper"
             >
               {words.map((word, index) => (
                 <span key={index}>
