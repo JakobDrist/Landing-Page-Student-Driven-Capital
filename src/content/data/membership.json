@@ -1,6 +1,6 @@
 {
-  "title": "Begynd karrieren, før du er færdig med studiet.",
-  "description": "DSD Invest samler ambitiøse studerende om udviklingen af en forskningsbaseret investeringsorganisation. Her udvikler du dig gennem ansvar for research, teknologi, porteføljeanalyse og de systemer, som organisationen bygger på.",
+  "title": "Tag ansvar for arbejdet bag en investeringsorganisation.",
+  "description": "Hos DSD Invest kan du arbejde med virksomhedsresearch, makroøkonomi, kvantitative modeller, porteføljekonstruktion eller teknologi. Dine analyser og løsninger skal kunne bruges af andre i udviklingen af vores fælles investeringssystem.",
   "introTitle": "Et tværfagligt investeringsmiljø",
   "intro": "Vi har brug for mennesker med forskellige faglige tilgange. Økonomi og finans er centrale, men også matematik, software, datavidenskab, jura, governance og kommunikation bidrager til institutionens udvikling.",
   "criteria": [
@@ -136,24 +136,20 @@
     ],
     "submit": "Afprøv formular (sender ikke)"
   },
-  "valueTitle": "Mere end et medlemskab.",
-  "valueIntro": "Du bliver ikke medlem for at stå på sidelinjen. Du bliver en del af en organisation, hvor hver funktion bidrager til et fælles investeringssystem — og hvor læring følger af det arbejde, vi udfører.",
+  "valueTitle": "Udvikling gennem arbejde, der betyder noget.",
+  "valueIntro": "Din faglige udvikling kommer fra at undersøge virkelige problemstillinger, levere brugbart arbejde og få dine antagelser udfordret. Vi bygger et miljø, hvor du både bidrager med det, du kan, og udvikler det, du endnu ikke kan.",
   "benefits": [
     {
-      "title": "Professionelt ansvar",
-      "text": "Arbejd med konkrete problemstillinger og leverancer, som andre teams kan bygge videre på. Ansvar og opgaver tilpasses kompetencer og organisationens aktuelle fase."
+      "title": "Ansvar med faglig substans",
+      "text": "Få ansvar for konkrete leverancer, som andre teams kan bygge videre på. Omfanget følger dine kompetencer og organisationens udvikling."
     },
     {
-      "title": "Udvikling gennem evidens",
-      "text": "Lær gennem forskningsbaserede metoder, praktisk anvendelse, kvalificeret feedback og kritisk efterprøvning af egne antagelser."
+      "title": "Læring og kvalificeret feedback",
+      "text": "Arbejd med dokumenterede metoder, kritisk analyse og konstruktiv feedback, så du bliver bedre til at begrunde og forbedre dit arbejde."
     },
     {
-      "title": "Ambitiøse mennesker",
-      "text": "Arbejd på tværs af universiteter og fagligheder med andre studerende, som stiller høje krav til kvalitet, samarbejde og intellektuel ærlighed."
-    },
-    {
-      "title": "Et langsigtet fællesskab",
-      "text": "Bidrag til processer og viden, der skal kunne leve videre efter din studietid. Netværk, faglig udvikling og internationale muligheder er en del af ambitionen — ikke garanterede medlemsfordele."
+      "title": "Et ambitiøst fagligt fællesskab",
+      "text": "Samarbejd med studerende på tværs af universiteter og fagligheder. Vær med til at opbygge viden og processer, der kan leve videre efter studiet."
     }
   ],
   "departmentsTitle": "Find dit faglige område.",
@@ -222,7 +218,7 @@
   ],
   "extraRolesNote": "Jura, governance, kommunikation og partnerskaber er også nødvendige funktioner. De er ikke alle etablerede kerneafdelinger endnu, men studerende med relevante kompetencer kan vise interesse.",
   "selectionTitle": "Et medlemskab skal fortjenes.",
-  "selectionIntro": "Vi ønsker et selektivt, transparent optag, fordi kvaliteten af arbejdet betyder noget. Vi vurderer potentiale, faglighed og arbejdsdisciplin — ikke prestige i studievalg eller tidligere arbejdsgivere.",
+  "selectionIntro": "Vi ønsker et selektivt og transparent optag baseret på fagligt potentiale, ambition, pålidelighed og læringsvilje — ikke universitetets prestige eller tidligere arbejdsgivere.",
   "selectionSteps": [
     {
       "title": "Vis din interesse",
@@ -237,23 +233,23 @@
       "text": "Udvalgte medlemmer skal kunne tage ansvar for konkrete leverancer og indgå i et samarbejde med tydelige standarder og feedback."
     }
   ],
-  "expectationsTitle": "Det forventer vi af medlemmer.",
+  "expectationsTitle": "Fælles standarder",
   "expectations": [
     {
       "title": "Intellektuel ærlighed",
-      "text": "Du udfordrer dine egne antagelser og gør usikkerhed, fejl og begrænsninger tydelige."
+      "text": "Udfordr egne antagelser, og vær tydelig om usikkerhed og fejl."
     },
     {
       "title": "Pålidelighed",
-      "text": "Du følger op på dine forpligtelser, kommunikerer tidligt om problemer og leverer gennemarbejdet arbejde."
+      "text": "Tag ansvar for aftaler, samarbejde og gennemarbejdede leverancer."
     },
     {
       "title": "Læringsvilje",
-      "text": "Du behøver ikke være ekspert fra første dag. Du skal være villig til at lære, undersøge og forbedre dine metoder."
+      "text": "Vær nysgerrig, modtag feedback, og forbedr dine metoder."
     },
     {
       "title": "Samarbejde",
-      "text": "Dit arbejde indgår i en fælles proces. Kvalitet handler også om, at andre kan forstå og anvende det."
+      "text": "Lever arbejde, som andre kan forstå, efterprøve og anvende."
     }
   ],
   "applyTitle": "Tag det første skridt.",
