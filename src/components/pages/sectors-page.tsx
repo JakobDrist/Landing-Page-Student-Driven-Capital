@@ -16,7 +16,9 @@ export function SectorsPage() {
         <div className="grid gap-12 lg:grid-cols-[1fr_1.4fr] lg:gap-[10%]">
           <div>
             <p className="text-[13px] text-muted">{content.philosophy.label}</p>
-            <h2 className={`${sectionTitle} mt-6`}>{content.philosophy.title}</h2>
+            <h2 className={`${sectionTitle} mt-6`}>
+              {content.philosophy.title}
+            </h2>
           </div>
           <div className="space-y-6">
             {content.philosophy.paragraphs.map((paragraph) => (

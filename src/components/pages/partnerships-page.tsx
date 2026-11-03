@@ -23,7 +23,9 @@ export function PartnershipsPage() {
         <div className="grid gap-10 lg:grid-cols-[1fr_1fr] lg:gap-[10%]">
           <div>
             <p className="text-[13px] text-muted">{partnerships.value.label}</p>
-            <h2 className={`${sectionTitle} mt-6`}>{partnerships.value.title}</h2>
+            <h2 className={`${sectionTitle} mt-6`}>
+              {partnerships.value.title}
+            </h2>
           </div>
           <p className={`${leadText} text-muted`}>{partnerships.value.intro}</p>
         </div>
@@ -77,7 +79,9 @@ export function PartnershipsPage() {
       <Section className="bg-white">
         <div className="grid gap-12 lg:grid-cols-[1fr_1.4fr] lg:gap-[10%]">
           <div>
-            <p className="text-[13px] text-muted">{partnerships.international.label}</p>
+            <p className="text-[13px] text-muted">
+              {partnerships.international.label}
+            </p>
             <h2 className={`${sectionTitle} mt-6`}>
               {partnerships.international.title}
             </h2>
@@ -99,17 +103,6 @@ export function PartnershipsPage() {
             <p className={`${leadText} mt-6 max-w-md text-muted`}>
               {partnerships.contactText}
             </p>
-            <p className="mt-8 text-[17px]">
-              <a
-                href={`mailto:${partnerships.email}`}
-                className="underline decoration-ink/30 underline-offset-4 hover:decoration-ink"
-              >
-                {partnerships.email}
-              </a>
-            </p>
-            <p className="mt-3 text-[14px] leading-[1.6] text-muted">
-              {partnerships.contactNote}
-            </p>
             <div className="mt-12 border-t border-line pt-6">
               <h3 className="text-[13px] text-muted">
                 {partnerships.principleTitle}
@@ -123,12 +116,10 @@ export function PartnershipsPage() {
             </div>
           </div>
           <div>
-            <p className="mb-8 rounded-[10px] border border-control p-4 text-[15px] leading-6 text-muted">
-              {partnerships.preview}
-            </p>
             <EnquiryForm
+              kind="partnership"
               definition={partnerships.form}
-              label="Partnerskabsformular — forhåndsvisning"
+              label="Partnerskabsformular"
             />
           </div>
         </div>

@@ -98,13 +98,17 @@ export function DepartmentList({
                         <dd className="mt-1">{department.output}</dd>
                         {extended && department.examples && (
                           <>
-                            <dt className="mt-4 text-[13px] text-muted">Eksempler på opgaver</dt>
+                            <dt className="mt-4 text-[13px] text-muted">
+                              Eksempler på opgaver
+                            </dt>
                             <dd className="mt-1">{department.examples}</dd>
                           </>
                         )}
                         {extended && department.growth && (
                           <>
-                            <dt className="mt-4 text-[13px] text-muted">Du udvikler</dt>
+                            <dt className="mt-4 text-[13px] text-muted">
+                              Du udvikler
+                            </dt>
                             <dd className="mt-1">{department.growth}</dd>
                           </>
                         )}

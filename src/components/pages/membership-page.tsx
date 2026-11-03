@@ -34,7 +34,9 @@ export function MembershipPage() {
       <Section className="bg-white">
         <div className="grid gap-12 lg:grid-cols-[1fr_1.2fr] lg:gap-[10%]">
           <div>
-            <p className="text-[13px] text-muted">Hvad får du ud af arbejdet?</p>
+            <p className="text-[13px] text-muted">
+              Hvad får du ud af arbejdet?
+            </p>
             <h2 className={`${sectionTitle} mt-6`}>{membership.valueTitle}</h2>
           </div>
           <p className={`${leadText} text-muted`}>{membership.valueIntro}</p>
@@ -121,8 +123,9 @@ export function MembershipPage() {
           </aside>
           <div>
             <EnquiryForm
+              kind="membership"
               definition={membership.form}
-              label="Medlemsformular — forhåndsvisning"
+              label="Medlemsformular"
             />
           </div>
         </div>

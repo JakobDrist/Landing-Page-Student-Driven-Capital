@@ -51,3 +51,16 @@
     }
   }
 }
+
+.submission-check {
+  stroke-dasharray: 1;
+  animation: submission-check 650ms ease-out both;
+}
+@keyframes submission-check {
+  from {
+    stroke-dashoffset: 1;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}

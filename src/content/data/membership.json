@@ -18,30 +18,8 @@
     }
   ],
   "form": {
-    "heading": "Interesse for DSD Invest — forhåndsvisning",
+    "heading": "Din interesse for DSD Invest",
     "fields": [
-      {
-        "name": "interest",
-        "label": "Jeg vil gerne",
-        "type": "select",
-        "required": true,
-        "placeholder": "",
-        "options": [
-          {
-            "label": "Vælg en mulighed",
-            "value": ""
-          },
-          {
-            "label": "Interesseret i kommende medlemsoptag",
-            "value": "application"
-          },
-          {
-            "label": "Ønsker information om venteliste",
-            "value": "waiting-list"
-          }
-        ],
-        "fullWidth": true
-      },
       {
         "name": "name",
         "label": "Fulde navn",
@@ -120,6 +98,10 @@
           {
             "label": "Ved ikke endnu",
             "value": "Still exploring"
+          },
+          {
+            "label": "Andet",
+            "value": "Other"
           }
         ],
         "fullWidth": true
@@ -134,7 +116,7 @@
         "fullWidth": true
       }
     ],
-    "submit": "Afprøv formular (sender ikke)"
+    "submit": "Registrér interesse"
   },
   "valueTitle": "Udvikling gennem arbejde, der betyder noget.",
   "valueIntro": "Din faglige udvikling kommer fra at undersøge virkelige problemstillinger, levere brugbart arbejde og få dine antagelser udfordret. Vi bygger et miljø, hvor du både bidrager med det, du kan, og udvikler det, du endnu ikke kan.",
@@ -158,11 +140,7 @@
     {
       "name": "Sektorresearch",
       "text": "Undersøg virksomheder, brancher, konkurrencefordele og økonomiske drivkræfter. Omsæt undersøgelserne til begrundede prognoser og værdiansættelser.",
-      "skills": [
-        "Regnskabsforståelse",
-        "Værdiansættelse",
-        "Brancheanalyse"
-      ],
+      "skills": ["Regnskabsforståelse", "Værdiansættelse", "Brancheanalyse"],
       "output": "Researchcases, scenarieprognoser og dokumenterede investeringsestimater.",
       "examples": "Opbyg en virksomhedscase; analyser en branches konkurrenceforhold; begrund antagelser om fremtidig indtjening.",
       "growth": "Fundamental analyse, finansiel modellering, evidenskritik og formidling af investeringsargumenter."
@@ -170,11 +148,7 @@
     {
       "name": "Makro og markeder",
       "text": "Undersøg globale økonomiske forhold, konjunkturregimer, pengepolitik og sammenhænge, der påvirker selskaber og porteføljer.",
-      "skills": [
-        "Makroøkonomi",
-        "Dataanalyse",
-        "Scenarieforståelse"
-      ],
+      "skills": ["Makroøkonomi", "Dataanalyse", "Scenarieforståelse"],
       "output": "Makroscenarier, regimevurderinger og underbyggede markedsestimater.",
       "examples": "Analyser vækst- og inflationsdata; vurder recessionrisiko; undersøg konsekvenser for brancher.",
       "growth": "Makroøkonomisk analyse, usikkerhedsvurdering og oversættelse af økonomisk evidens til beslutningsgrundlag."
@@ -182,11 +156,7 @@
     {
       "name": "Risiko og kvant",
       "text": "Undersøg usikkerhed i prognoser og modeller, fælles risikofaktorer, korrelationer og ekstreme scenarier.",
-      "skills": [
-        "Statistik",
-        "Matematik",
-        "Risikomodellering"
-      ],
+      "skills": ["Statistik", "Matematik", "Risikomodellering"],
       "output": "Risikomålinger, stresstests og uafhængige modelvurderinger.",
       "examples": "Test følsomheden over for ændrede antagelser; analyser porteføljekoncentration; udfør stresstests.",
       "growth": "Kvantitativ metode, probabilistisk tænkning, modelkritik og programmeringsbaseret analyse."
@@ -194,11 +164,7 @@
     {
       "name": "Porteføljekonstruktion",
       "text": "Sammenlign investeringer på tværs af sektorer og omsæt estimater til porteføljeforslag under mandatets risiko- og likviditetsrammer.",
-      "skills": [
-        "Optimering",
-        "Porteføljeteori",
-        "Beslutningsanalyse"
-      ],
+      "skills": ["Optimering", "Porteføljeteori", "Beslutningsanalyse"],
       "output": "Dokumenterede kvantitative allokeringsforslag til Investeringskomitéen.",
       "examples": "Sammenlign alternative allokeringer; undersøg diversifikation; vurder konsekvenser af nye prognoser.",
       "growth": "Optimering, samspillet mellem afkast og risiko samt beslutningsdisciplin."
@@ -206,11 +172,7 @@
     {
       "name": "Tech og data",
       "text": "Udvikl datagrundlag, software og analyseværktøjer, der forbinder research, prognoser, modeller og beslutninger.",
-      "skills": [
-        "Softwareudvikling",
-        "Datakvalitet",
-        "Systemdesign"
-      ],
+      "skills": ["Softwareudvikling", "Datakvalitet", "Systemdesign"],
       "output": "Datapipelines, researchværktøjer og interne investeringssystemer.",
       "examples": "Byg et analytikerværktøj; valider data; integrer estimater i den fælles platform.",
       "growth": "Financial software engineering, datainfrastruktur, test og udvikling af robuste systemer."
@@ -253,7 +215,7 @@
     }
   ],
   "applyTitle": "Tag det første skridt.",
-  "applyIntro": "DSD Invest er i opbygningsfasen. Her kan du orientere dig om de oplysninger, der indgår i en kommende interesse- eller ansøgningsproces.",
-  "applyNote": "Formularen er endnu kun en forhåndsvisning. Den sender og gemmer ikke oplysninger; udfyldelse registrerer derfor ikke en interesse eller ansøgning. Den aktiveres først, når en sikker modtagerløsning og persondatabehandling er klar.",
+  "applyIntro": "DSD Invest er i opbygningsfasen. Fortæl os om din baggrund og dine interesser, så vi kan kontakte dig om kommende medlemsoptag.",
+  "applyNote": "Når du sender formularen, registrerer vi din interesse. Registreringen er ikke en bekræftelse på optagelse som medlem.",
   "commitment": "Medlemskab af DSD Invest indebærer et løbende fagligt engagement. Vi forventer, at medlemmer tager ansvar for deres aftaler, bidrager aktivt til samarbejdet og leverer arbejde, som andre kan bygge videre på. Det konkrete tidsforbrug og ansvarsområde aftales ud fra kompetencer, interesser og organisationens behov."
 }

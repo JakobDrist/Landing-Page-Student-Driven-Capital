@@ -144,51 +144,31 @@
       {
         "name": "Sektorresearch",
         "text": "Forstå virksomheder, brancher og konkurrencefordele, og omsæt dem til finansielle analyser og værdiansættelser.",
-        "skills": [
-          "Finansiel analyse",
-          "Værdiansættelse",
-          "Brancheanalyse"
-        ],
+        "skills": ["Finansiel analyse", "Værdiansættelse", "Brancheanalyse"],
         "output": "Evidensbaserede prognoser for virksomhederne i dækningen."
       },
       {
         "name": "Makro og markeder",
         "text": "Følg de økonomiske forhold, markedsdynamikken og de makroøkonomiske scenarier, der former porteføljens risiko.",
-        "skills": [
-          "Makroøkonomi",
-          "Markedsanalyse",
-          "Prognoser"
-        ],
+        "skills": ["Makroøkonomi", "Markedsanalyse", "Prognoser"],
         "output": "Vurderinger af økonomiske regimer og scenarier."
       },
       {
         "name": "Risiko og kvant",
         "text": "Mål porteføljens eksponeringer, prognoseusikkerhed og modelrisiko med kvantitative metoder.",
-        "skills": [
-          "Statistik",
-          "Risikomodellering",
-          "Kvantitativ finans"
-        ],
+        "skills": ["Statistik", "Risikomodellering", "Kvantitativ finans"],
         "output": "Stresstests og risikovurderinger til Investeringskomitéen."
       },
       {
         "name": "Porteføljekonstruktion",
         "text": "Omsæt virksomheds- og makroprognoser til allokeringer inden for mandatets risikorammer.",
-        "skills": [
-          "Optimering",
-          "Porteføljeteori",
-          "Beslutningsmodeller"
-        ],
+        "skills": ["Optimering", "Porteføljeteori", "Beslutningsmodeller"],
         "output": "Kvantitative porteføljeforslag."
       },
       {
         "name": "Tech og data",
         "text": "Byg den software, de datasystemer og den analytiske infrastruktur, hele organisationen er afhængig af.",
-        "skills": [
-          "Softwareudvikling",
-          "Datapipelines",
-          "Fintech"
-        ],
+        "skills": ["Softwareudvikling", "Datapipelines", "Fintech"],
         "output": "Systemer, som resten af organisationen bygger på."
       }
     ],

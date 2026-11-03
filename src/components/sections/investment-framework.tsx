@@ -14,9 +14,7 @@ export function InvestmentFramework({
         <p className="text-[13px] font-medium tracking-[0.08em] text-muted uppercase">
           {framework.eyebrow}
         </p>
-        <p className="text-[13px] text-muted">
-          {framework.architecture}
-        </p>
+        <p className="text-[13px] text-muted">{framework.architecture}</p>
       </div>
 
       <div className="mt-10 space-y-4 md:mt-14">
@@ -63,7 +61,10 @@ export function InvestmentFramework({
               </ol>
             </div>
             {levelIndex < framework.levels.length - 1 && (
-              <div className="flex h-12 items-center justify-center" aria-hidden="true">
+              <div
+                className="flex h-12 items-center justify-center"
+                aria-hidden="true"
+              >
                 <Icon
                   path="M12 4v16m-6-6 6 6 6-6"
                   className="size-5 text-muted"

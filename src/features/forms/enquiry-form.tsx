@@ -1,19 +1,23 @@
 import type { FormDefinition } from "@/content/types";
+import { SubmissionForm } from "./submission-form";
 import { DemoForm } from "./demo-form";
 import { Icon } from "@/components/ui/icon";
 const control =
   "min-h-12 w-full rounded-[10px] border border-control bg-white px-4 py-3 text-[16px] text-ink outline-none transition-shadow placeholder:text-muted focus-visible:ring-1 focus-visible:ring-ink";
 export function EnquiryForm({
   definition,
+  kind,
   label = definition.submit === "Send pitch"
     ? "Pitchformular"
     : "Kontaktformular",
 }: {
   definition: FormDefinition;
+  kind?: "membership" | "partnership";
   label?: string;
 }) {
+  const Form = kind ? SubmissionForm : DemoForm;
   return (
-    <DemoForm className="flex flex-col gap-6" label={label}>
+    <Form kind={kind} className="flex flex-col gap-6" label={label}>
       {definition.heading && (
         <h2 className="text-[28px] leading-[1.2] tracking-[-0.025em]">
           {definition.heading}
@@ -82,6 +86,6 @@ export function EnquiryForm({
           <Icon path="M5 12h14m-5-5 5 5-5 5" />
         </span>
       </button>
-    </DemoForm>
+    </Form>
   );
 }

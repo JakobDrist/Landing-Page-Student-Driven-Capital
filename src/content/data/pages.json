@@ -20,26 +20,15 @@
       },
       {
         "title": "Investment team",
-        "people": [
-          "kwame-asante",
-          "hana-weber",
-          "jun-seo",
-          "ananya-rao"
-        ]
+        "people": ["kwame-asante", "hana-weber", "jun-seo", "ananya-rao"]
       },
       {
         "title": "Platform",
-        "people": [
-          "lena-fischer",
-          "imani-clarke"
-        ]
+        "people": ["lena-fischer", "imani-clarke"]
       },
       {
         "title": "Operations",
-        "people": [
-          "sofia-ortega",
-          "owen-brooks"
-        ]
+        "people": ["sofia-ortega", "owen-brooks"]
       }
     ]
   },
@@ -406,17 +395,7 @@
         "–"
       ]
     ],
-    "total": [
-      "Total",
-      "",
-      "$1.7B",
-      "127",
-      "33",
-      "",
-      "",
-      "",
-      ""
-    ],
+    "total": ["Total", "", "$1.7B", "127", "33", "", "", "", ""],
     "disclosure": "As of 30 June 2026. Figures are illustrative and unaudited, shown net of fees, expenses and carried interest, as of the date above. TVPI is total value to paid-in capital and DPI is distributions to paid-in capital. Past performance is not a guide to future results, and nothing on this page is an offer to sell or a solicitation of an offer to buy an interest in any fund.",
     "photo": {
       "src": "/images/funds/cover.webp",
@@ -888,51 +867,32 @@
   "insights/letters": {
     "title": "Investor letters",
     "description": "Our quarterly and annual letters to the partners in our funds, published in full.",
-    "items": [
-      "q3-2026-letter",
-      "q2-2026-letter",
-      "annual-letter-2025"
-    ]
+    "items": ["q3-2026-letter", "q2-2026-letter", "annual-letter-2025"]
   },
   "insights/playbooks": {
     "title": "Playbooks",
     "description": "Practical notes for founders on boards, hiring, fundraising and the first years.",
-    "items": [
-      "board-meetings-that-help",
-      "the-first-eighteen-months"
-    ]
+    "items": ["board-meetings-that-help", "the-first-eighteen-months"]
   },
   "insights/news": {
     "title": "News",
     "description": "Funds, partners, and the companies that have joined or left the portfolio.",
-    "items": [
-      "ostra-joins-calder-health",
-      "announcing-fund-five"
-    ]
+    "items": ["ostra-joins-calder-health", "announcing-fund-five"]
   },
   "offices": [
     {
       "city": "London",
-      "address": [
-        "14 Fitzroy Square",
-        "London W1T 5HP"
-      ],
+      "address": ["14 Fitzroy Square", "London W1T 5HP"],
       "phone": "+44 20 7946 0321"
     },
     {
       "city": "New York",
-      "address": [
-        "211 Elizabeth Street, Floor 4",
-        "New York, NY 10012"
-      ],
+      "address": ["211 Elizabeth Street, Floor 4", "New York, NY 10012"],
       "phone": "+1 212 555 0148"
     },
     {
       "city": "Stockholm",
-      "address": [
-        "Birger Jarlsgatan 18",
-        "114 34 Stockholm"
-      ],
+      "address": ["Birger Jarlsgatan 18", "114 34 Stockholm"],
       "phone": "+46 8 555 019 20"
     }
   ],
