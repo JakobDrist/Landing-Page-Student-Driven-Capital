@@ -1,5 +1,4 @@
 import partnerships from "@/content/data/partnerships.json";
-import { Container } from "@/components/ui/container";
 import { ButtonLink } from "@/components/ui/button-link";
 import { sectionTitle, leadText } from "@/components/ui/section-heading";
 import { PageHeader } from "@/components/sections/page-header";
@@ -12,12 +11,11 @@ export function PartnershipsPage() {
       <PageHeader
         title={partnerships.title}
         description={partnerships.description}
-      />
-      <Container>
+      >
         <ButtonLink href={partnerships.action.href} variant="dark">
           {partnerships.action.label}
         </ButtonLink>
-      </Container>
+      </PageHeader>
 
       <Section className="bg-white">
         <div className="grid gap-10 lg:grid-cols-[1fr_1fr] lg:gap-[10%]">
