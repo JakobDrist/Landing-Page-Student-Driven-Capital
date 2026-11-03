@@ -52,24 +52,6 @@
       "example": "Mulige bidrag: rekruttering, governance, rådgivning og organisatorisk infrastruktur."
     }
   ],
-  "examples": {
-    "label": "Eksempler på mulige samarbejder",
-    "intro": "Samarbejdsformerne nedenfor er illustrationer — ikke eksisterende aftaler eller faste sponsorpakker.",
-    "items": [
-      {
-        "title": "Finansielle institutioner",
-        "text": "Case competitions, analytikerworkshops og feedback på research eller porteføljemetode."
-      },
-      {
-        "title": "Teknologivirksomheder",
-        "text": "Adgang til data, software, teknisk sparring eller værktøjer til investeringsresearch."
-      },
-      {
-        "title": "Internationale partnere",
-        "text": "Faglig støtte eller finansiering af deltagelse i relevante internationale konkurrencer og arrangementer."
-      }
-    ]
-  },
   "international": {
     "label": "International ambition",
     "title": "Ambitioner, der skal møde ekstern vurdering.",
