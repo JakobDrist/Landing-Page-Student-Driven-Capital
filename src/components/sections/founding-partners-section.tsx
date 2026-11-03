@@ -12,14 +12,16 @@ interface FoundingPartner {
 
 export function FoundingPartnersSection({
   title,
+  description,
   members,
 }: {
   title: string;
+  description?: string;
   members: FoundingPartner[];
 }) {
   return (
     <Section id="founding-partners">
-      <SectionHeading title={title} />
+      <SectionHeading title={title} description={description} />
       <div className="mx-auto mt-12 grid max-w-4xl grid-cols-1 gap-x-8 gap-y-10 sm:grid-cols-3 md:mt-16">
         {members.map((partner) => (
           <article key={partner.name} className="mx-auto w-full max-w-[240px]">
