@@ -64,9 +64,14 @@ export function MembershipPage() {
               {membership.selectionTitle}
             </h2>
           </div>
-          <p className={`${leadText} text-muted`}>
-            {membership.selectionIntro}
-          </p>
+          <div>
+            <p className={`${leadText} text-muted`}>
+              {membership.selectionIntro}
+            </p>
+            <p className="mt-6 max-w-2xl text-[16px] leading-[1.65] text-muted">
+              {membership.commitment}
+            </p>
+          </div>
         </div>
         <ol className="mt-14 grid gap-x-10 gap-y-10 md:grid-cols-3">
           {membership.selectionSteps.map((step, index) => (
