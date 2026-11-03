@@ -72,24 +72,6 @@ export function PartnershipsPage() {
             </li>
           ))}
         </ol>
-        <div className="mt-16 border-t border-line pt-9">
-          <p className="text-[13px] text-muted">{partnerships.examples.label}</p>
-          <p className="mt-3 max-w-3xl text-[15px] leading-[1.6] text-muted">
-            {partnerships.examples.intro}
-          </p>
-          <div className="mt-8 grid gap-7 md:grid-cols-3">
-            {partnerships.examples.items.map((example) => (
-              <article key={example.title}>
-                <h3 className="text-[21px] leading-[1.3] tracking-[-0.02em]">
-                  {example.title}
-                </h3>
-                <p className="mt-3 text-[16px] leading-[1.6] text-muted">
-                  {example.text}
-                </p>
-              </article>
-            ))}
-          </div>
-        </div>
       </Section>
 
       <Section className="bg-white">
