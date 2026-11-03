@@ -53,15 +53,9 @@ export function AboutPage() {
         </div>
       </Section>
 
-      <Section className="bg-white pb-0!">
-        <p className="text-[13px] text-muted">{about.founders.label}</p>
-        <div className="mt-6 grid gap-8 lg:grid-cols-[1fr_1fr] lg:gap-[10%]">
-          <h2 className={sectionTitle}>{about.founders.title}</h2>
-          <p className={`${leadText} text-muted`}>{about.founders.intro}</p>
-        </div>
-      </Section>
       <FoundingPartnersSection
-        title="Founding Partners"
+        title={about.founders.title}
+        description={about.founders.intro}
         members={home.foundingPartners.members}
       />
 
