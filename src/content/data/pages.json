@@ -269,61 +269,52 @@
   },
   "about": {
     "title": "Om os",
-    "description": "DSD Invest er en national, studenterdrevet investeringsorganisation under opbygning. Vi kombinerer fundamental research, sandsynlighedsbaserede prognoser og kvantitativ porteføljekonstruktion med et fælles formål: at give ambitiøse studerende reelt professionelt ansvar.",
-    "mission": {
-      "label": "Hvorfor vi findes",
-      "title": "Du skal ikke vente til efter studiet med at begynde på din karriere.",
+    "description": "DSD Invest er en national, studenterdrevet investeringsorganisation under opbygning. Vi arbejder for at skabe et varigt, forskningsbaseret miljø, hvor faglighed, ansvar og samarbejde kan udvikles på tværs af studiegenerationer.",
+    "origin": {
+      "label": "Hvorfor DSD Invest?",
+      "title": "Bygget til at bestå.",
       "paragraphs": [
-        "I DSD Invest udvikler studerende sig ved at tage ansvar for det arbejde, en seriøs investeringsorganisation faktisk er afhængig af. Det er ikke kun undervisning, caseøvelser eller en titel på et CV.",
-        "Vi vil samle talent fra universiteter og fagligheder på tværs af Danmark. Faglig dygtighed, pålidelighed, intellektuel ærlighed og evnen til at lære er vigtigere end, om man allerede har professionel erfaring."
-      ],
-      "statement": "Vi bygger ikke blot en organisation, der giver studerende erfaring. Vi bygger en investeringsorganisation, hvor erfaring opstår gennem reelt ansvar."
+        "DSD Invest er grundlagt med ambitionen om at opbygge en investeringsorganisation, hvor studerende ikke blot deltager, men bidrager til at udvikle noget, der kan leve videre efter deres egen studietid.",
+        "Organisationen samler forskellige fagligheder omkring et fælles formål. Kontinuitet skal skabes gennem dokumenterede processer, overdragelse af viden og ansvar for det arbejde, andre bygger videre på."
+      ]
     },
-    "evidence": {
-      "label": "Vores faglige fundament",
-      "title": "Bygget på evidens.",
-      "intro": "Vores metoder og vores måde at udvikle medlemmer på skal kunne begrundes i relevant forskning, dokumentation og efterprøvelig evidens. Faglig kvalitet kræver mere end overbevisende forklaringer.",
-      "principles": [
+    "principles": {
+      "label": "Vores principper",
+      "title": "Faglighed, ansvar og intellektuel ærlighed.",
+      "intro": "Vores kultur bygger på høje faglige standarder, åbenhed om usikkerhed og respekt for evidens. Vi vurderer både metoder og mennesker på kvaliteten af deres arbejde — ikke på titler eller påstande.",
+      "items": [
         {
-          "title": "Forskningsbaserede metoder",
-          "text": "Analyse, prognoser, modellering og risikostyring tager udgangspunkt i anerkendt forskning, pålidelige data og fagligt begrundede antagelser."
+          "title": "Forskningsbaseret arbejde",
+          "text": "Metoder og faglig udvikling skal kunne begrundes i relevant forskning, pålidelige data og efterprøvelig evidens."
         },
         {
-          "title": "Evidensbaseret læring",
-          "text": "Vi søger at tilrettelægge faglig udvikling ud fra dokumenterede læringsprincipper, praktisk anvendelse, feedback og løbende evaluering."
+          "title": "Intellektuel ærlighed",
+          "text": "Vi udfordrer antagelser, synliggør usikkerhed og skelner mellem hypoteser, modeller og dokumenterede resultater."
         },
         {
-          "title": "Kritisk efterprøvning",
-          "text": "Nye hypoteser og alternative metoder er velkomne, men skal testes systematisk. Vi skelner mellem en lovende idé og en empirisk valideret metode."
+          "title": "Ansvar og samarbejde",
+          "text": "Vi tager ansvar for vores leverancer og udvikler viden og processer, som andre kan forstå, anvende og videreføre."
         }
-      ],
-      "note": "En matematisk avanceret model er ikke nødvendigvis en pålidelig model. Vi vurderer metoder på deres forudsætninger, dokumentation og resultater — ikke deres kompleksitet."
-    },
-    "organisation": {
-      "label": "Hvad vi bygger",
-      "title": "Én investeringsproces. Specialiserede funktioner.",
-      "intro": "DSD Invest organiseres omkring et fælles forsknings- og investeringssystem: fra analyse af virksomheder og økonomiske forhold til sandsynlighedsbaserede estimater, kvantitative porteføljeforslag og integreret risikovurdering.",
-      "governance": "Analytikere udvikler research og estimater. Modeller udarbejder beslutningsgrundlag. Investeringskomitéen har den endelige investeringsmyndighed.",
-      "note": "De fem afdelinger og den interne infrastruktur er under opbygning i fase 1."
+      ]
     },
     "founders": {
       "label": "Menneskene bag",
-      "title": "Tre founding partners. Én fælles ambition.",
-      "intro": "DSD Invest bygges af tre ligeværdige founding partners med faglige afsæt i økonomi, investering og teknologi. Ambitionen er at opbygge en institution med varige processer og en kultur, som kan leve videre på tværs af generationer af studerende."
+      "title": "Tre grundlæggere. Én fælles ambition.",
+      "intro": "DSD Invest bygges af tre ligeværdige founding partners med komplementære faglige fokusområder inden for investeringssystemer, research, organisation og teknologi."
     },
-    "ambition": {
+    "future": {
       "label": "Vores langsigtede ambition",
-      "title": "Bygget til at bestå.",
+      "title": "En institution, der skal leve videre efter os.",
       "paragraphs": [
-        "Vi begynder med en dokumenteret investeringsproces, frivillige medlemmer, forskningsinfrastruktur og papirkapital. Før vi påtager os et større kapitalansvar, skal metoder, governance og risikostyring kunne stå deres prøve.",
-        "På længere sigt vil vi etablere stærke partnerskaber, udvikle permanent institutionel viden og deltage i internationale fagmiljøer og investeringskonkurrencer, hvor vores arbejde kan møde ekstern vurdering.",
-        "En eventuel overgang til forvaltning af reel kapital forudsætter den nødvendige juridiske, regulatoriske og organisatoriske struktur. International anerkendelse og investeringsresultater er ambitioner, ikke noget vi påstår allerede at have opnået."
+        "Vi vil udvikle et fagligt miljø, hvor metoder, viden og ansvar kan overdrages til nye generationer af studerende. Organisationen er under opbygning og arbejder indledningsvis med dokumenterede processer og papirkapital.",
+        "På længere sigt ønsker vi stærke faglige partnerskaber og deltagelse i internationale investeringsmiljøer og konkurrencer, hvor vores arbejde kan møde ekstern vurdering.",
+        "Eventuelt ansvar for reel investeringskapital kræver særskilt juridisk, regulatorisk og organisatorisk afklaring. Vi præsenterer ikke fremtidige muligheder som allerede opnåede resultater."
       ]
     },
     "closing": {
       "label": "Tag del i arbejdet",
       "title": "Vær med til at bygge DSD Invest.",
-      "description": "Udforsk mulighederne for at udvikle dig som medlem, eller bliv partner i arbejdet med at opbygge næste generation af dansk investeringstalent."
+      "description": "Udforsk mulighederne for at bidrage som medlem eller støtte organisationens faglige udvikling gennem et partnerskab."
     }
   },
   "funds": {
