@@ -1,10 +1,8 @@
 import type { Metadata } from "next";
 import { outfit } from "@/lib/fonts";
+import { rootMetadata } from "@/lib/metadata";
 import "@/styles/globals.css";
-export const metadata: Metadata = {
-  title: "DSD Invest",
-  description: "Venturekapital i tidlige faser.",
-};
+export const metadata: Metadata = rootMetadata;
 export default function RootLayout({
   children,
 }: {

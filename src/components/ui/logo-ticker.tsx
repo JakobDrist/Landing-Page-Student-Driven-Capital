@@ -1,33 +1,29 @@
 "use client";
 
+/* eslint-disable @next/next/no-img-element -- tiny static icons; next/image
+   adds nothing here and would wrap each icon in extra markup. */
+
 import { motion, useReducedMotion } from "motion/react";
+import { universityFonts } from "@/lib/university-fonts";
 
-// Endless row of wordmarks drifting slowly (~20px/s) to the left with faded
-// edges, after the logo ticker in the Stills "Track Record" section. The four
-// type treatments mirror the variety of real marks: light with a glyph, bold
-// capitals, serif with a full stop, and tight geometric bold. The drift and
-// the edge fade are set on the elements themselves, so the ticker needs no
-// global CSS.
+// Endless row of Danish universities drifting slowly (~20px/s) to the left
+// with faded edges. Each entry shows the university's own favicon beside its
+// name, set in the university's typeface or the closest open alternative (see
+// university-fonts.ts); a university whose favicon is too small to show
+// sharply uses its official wordmark instead. The drift and the edge fade are
+// set on the elements themselves, so the ticker needs no global CSS.
 
-export interface Wordmark {
+export interface University {
   name: string;
-  mark: string;
-  style: string;
+  /** Square favicon shown before the name. */
+  icon?: string;
+  /** Key into universityFonts. */
+  font?: string;
+  /** Official wordmark shown instead of icon and name. */
+  wordmark?: string;
+  /** Width-to-height ratio of the wordmark. */
+  ratio?: number;
 }
-
-const styles: Record<string, string> = {
-  thin: "text-[24px] font-light tracking-[-0.03em]",
-  caps: "text-[19px] font-semibold tracking-[0.02em] uppercase",
-  serif: "font-serif text-[27px] font-bold tracking-[-0.02em]",
-  bold: "text-[24px] font-semibold tracking-[-0.04em]",
-};
-
-const tones = {
-  /** Dark marks on light backgrounds. */
-  light: "text-ink/60",
-  /** Light marks on dark backgrounds. */
-  dark: "text-paper/55",
-};
 
 /** Drift speed in px per second. */
 const SPEED = 20;
@@ -36,44 +32,58 @@ const SPEED = 20;
 const EDGE_FADE =
   "linear-gradient(90deg, transparent 0%, #000 18%, #000 82%, transparent 100%)";
 
-function Glyph() {
+function Item({ university }: { university: University }) {
+  if (university.wordmark) {
+    const height = 18;
+    return (
+      <img
+        src={university.wordmark}
+        alt=""
+        width={Math.round(height * (university.ratio ?? 1))}
+        height={height}
+        className="block"
+      />
+    );
+  }
   return (
-    <svg
-      viewBox="0 0 24 24"
-      className="size-[19px] shrink-0"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth="1.6"
-      strokeLinecap="round"
-      aria-hidden="true"
-    >
-      <path d="M12 2v20M3.3 7l17.4 10M3.3 17 20.7 7" />
-    </svg>
+    <span className="flex items-center gap-2.5">
+      {university.icon && (
+        <img
+          src={university.icon}
+          alt=""
+          width={26}
+          height={26}
+          className="block size-[26px] shrink-0 object-contain"
+        />
+      )}
+      <span
+        className={`text-[19px] leading-none tracking-[-0.01em] whitespace-nowrap text-ink/80 ${universityFonts[university.font ?? ""] ?? ""}`}
+      >
+        {university.name}
+      </span>
+    </span>
   );
 }
 
 function Group({
-  marks,
-  tone,
+  universities,
   hidden,
 }: {
-  marks: Wordmark[];
-  tone: keyof typeof tones;
+  universities: University[];
   hidden?: boolean;
 }) {
   return (
     <ul
       aria-hidden={hidden || undefined}
-      className="flex shrink-0 items-center gap-16 pr-16 md:gap-20 md:pr-20"
+      className="flex shrink-0 items-center gap-14 pr-14 md:gap-16 md:pr-16"
     >
-      {marks.map((item) => (
+      {universities.map((university) => (
         <li
-          key={item.name}
-          aria-label={hidden ? undefined : item.name}
-          className={`flex h-7 items-center gap-1.5 leading-none whitespace-nowrap select-none ${tones[tone]} ${styles[item.style] ?? styles.bold}`}
+          key={university.name}
+          aria-label={hidden ? undefined : university.name}
+          className="flex h-8 items-center select-none"
         >
-          {item.style === "thin" && <Glyph />}
-          <span aria-hidden="true">{item.mark}</span>
+          <Item university={university} />
         </li>
       ))}
     </ul>
@@ -81,17 +91,15 @@ function Group({
 }
 
 export function LogoTicker({
-  marks,
+  universities,
   label,
-  tone = "light",
 }: {
-  marks: Wordmark[];
+  universities: University[];
   label: string;
-  tone?: keyof typeof tones;
 }) {
   const reduce = useReducedMotion();
-  // One group is roughly 230px per mark including the gap.
-  const duration = (marks.length * 230) / SPEED;
+  // One group is roughly 300px per entry including the gap.
+  const duration = (universities.length * 300) / SPEED;
   return (
     <div
       role="group"
@@ -104,8 +112,8 @@ export function LogoTicker({
         animate={reduce ? undefined : { x: ["0%", "-50%"] }}
         transition={{ duration, ease: "linear", repeat: Infinity }}
       >
-        <Group marks={marks} tone={tone} />
-        <Group marks={marks} tone={tone} hidden />
+        <Group universities={universities} />
+        <Group universities={universities} hidden />
       </motion.div>
     </div>
   );

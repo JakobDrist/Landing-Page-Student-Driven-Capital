@@ -21,7 +21,7 @@ export function MissionSection() {
         </p>
         <div className="mt-7 md:mt-8">
           <LogoTicker
-            marks={home.universities.marks}
+            universities={home.universities.marks}
             label={home.universities.label}
           />
         </div>

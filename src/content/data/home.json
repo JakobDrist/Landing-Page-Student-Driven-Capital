@@ -229,43 +229,43 @@
     "marks": [
       {
         "name": "Københavns Universitet",
-        "mark": "Københavns Universitet",
-        "style": "thin"
+        "icon": "/images/universities/ku.png",
+        "font": "garamond"
       },
       {
         "name": "Aarhus Universitet",
-        "mark": "Aarhus Universitet",
-        "style": "caps"
+        "icon": "/images/universities/au.png",
+        "font": "figtree"
       },
       {
         "name": "Copenhagen Business School",
-        "mark": "cbs.",
-        "style": "serif"
+        "icon": "/images/universities/cbs.png",
+        "font": "inter"
       },
       {
         "name": "Danmarks Tekniske Universitet",
-        "mark": "DTU",
-        "style": "bold"
+        "icon": "/images/universities/dtu.svg",
+        "font": "exo"
       },
       {
         "name": "Syddansk Universitet",
-        "mark": "Syddansk Universitet",
-        "style": "thin"
+        "icon": "/images/universities/sdu.png",
+        "font": "jost"
       },
       {
         "name": "Aalborg Universitet",
-        "mark": "Aalborg Universitet",
-        "style": "caps"
+        "icon": "/images/universities/aau.png",
+        "font": "barlow"
       },
       {
         "name": "Roskilde Universitet",
-        "mark": "ruc.",
-        "style": "serif"
+        "icon": "/images/universities/ruc.png",
+        "font": "dmSans"
       },
       {
         "name": "IT-Universitetet i København",
-        "mark": "ITU",
-        "style": "bold"
+        "wordmark": "/images/universities/itu.svg",
+        "ratio": 9.0076
       }
     ]
   }

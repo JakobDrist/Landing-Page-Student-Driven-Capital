@@ -3,7 +3,7 @@ import { pages } from "@/content/data";
 // The investment operating framework as an editorial table: each level is a
 // row with its numeral and title on the left and its phases on the right as a
 // hairline list (number, title, summary), so the nine phases read top to
-// bottom as one method. Below, the maxim and the note line up with the phases.
+// bottom as one method. Below, the maxim lines up with the phases.
 // `expanded` adds each phase's detail and sub-phase count (used on the method
 // page).
 
@@ -28,11 +28,11 @@ export function InvestmentFramework({
             key={level.number}
             className="grid gap-6 border-t border-line py-8 md:py-10 lg:grid-cols-[minmax(0,340px)_minmax(0,1fr)] lg:gap-12"
           >
-            <div className="flex items-start gap-4 lg:gap-5">
-              <span className="grid size-10 shrink-0 place-items-center rounded-full border border-line text-[13px] font-medium text-muted">
+            <div className="flex items-baseline gap-3">
+              <span className="w-8 shrink-0 text-[13px] font-medium text-muted">
                 {level.number}
               </span>
-              <h3 className="pt-1.5 text-[22px] leading-[1.2] tracking-[-0.025em] md:text-[26px]">
+              <h3 className="text-[22px] leading-[1.2] tracking-[-0.025em] md:text-[26px]">
                 {level.title}
               </h3>
             </div>
@@ -77,9 +77,6 @@ export function InvestmentFramework({
         <div className="lg:col-start-2">
           <p className="max-w-3xl text-[22px] leading-[1.35] tracking-[-0.02em] text-balance md:text-[28px]">
             {framework.maxim}
-          </p>
-          <p className="mt-6 max-w-2xl text-[13px] leading-[1.6] text-muted">
-            {framework.note}
           </p>
         </div>
       </div>
