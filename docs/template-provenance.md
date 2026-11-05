@@ -46,3 +46,11 @@ Favicon og app-ikoner (`src/app/favicon.ico`, `icon.png`, `apple-icon.png`) er l
 ## Medlemssidens hero
 
 Heroen på `/membership` er inspireret af produkt-heroen i Framer-templaten Verity (https://verrity.framer.website/): en fuldbredde skumringsbaggrund med mørk skygge øverst, der toner ud mod siden under skærmbilledet (maske fra 50 % til 100 %), og et produktskærmbillede, der vippes bagover (rotateX 18° → 0°) og lægges fladt, mens man scroller, og som står helt uigennemsigtigt med skarp kant og blød skygge (ingen udtoning eller sløring). Verity's eget baggrundsfoto og indhold er ikke genbrugt. Baggrunden er forsidens billede af Storebæltsbroen, og skærmbilledet (`public/images/membership/platform-dashboard.webp`) er et skærmbillede af DSD Invests webapp, leveret af organisationen (`src/components/ui/platform-shot.tsx`).
+
+## Partnerskabssiden
+
+`/partnerskaber` er bygget i samme Stills-udtryk som forsiden og medlemssiden: en mørk hero over projektets eget skumringsbillede (`public/images/home/landscape.webp`), nummererede punkter med tegnede hårlinjer, kort på grafit og samme formularblok som ventelisten (`src/features/forms/signup-block.tsx`) med et kornet udsnit af Storebælt-billedet ved siden af. Al tekst kommer fra `src/content/data/partnerships.json`.
+
+## Faglige områder på medlemssiden
+
+Afdelingssektionen under medlemssidens hero er inspireret af Services-sektionen i Framer-templaten Sanjaya (https://sanjaya.framer.ai/): en fastlåst overskrift til venstre og mørke kort til højre, der står forskudt mod højre og nedtonet, mens de er lavt i skærmen, og glider på plads og bliver fuldt synlige, når de scrolles op (`src/features/organisation/department-cascade.tsx`). Kortenes lister er sat i Geist Mono (Google Fonts, SIL Open Font License). Sanjayas billeder og tekster er ikke genbrugt; kortene bruger afdelingsteksterne fra `membership.json` og kornede gråtoneudsnit af projektets egne billeder.

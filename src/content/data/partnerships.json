@@ -143,5 +143,31 @@
       }
     ],
     "submit": "Send henvendelse"
+  },
+  "page": {
+    "label": "Partnerskab",
+    "contactLabel": "Kontakt",
+    "contactAction": "Kontakt os",
+    "image": {
+      "src": "/images/home/landscape.webp",
+      "alt": ""
+    },
+    "contactImage": {
+      "label": "Storebælt · Danmark"
+    },
+    "formLabel": "Partnerskabsformular",
+    "note": "Vi bruger kun oplysningerne til at besvare jeres henvendelse.",
+    "confirmation": {
+      "status": "Henvendelse modtaget",
+      "text": "Vi har modtaget jeres henvendelse og vender tilbage på den e-mail, I har oplyst."
+    },
+    "error": "Vi kunne ikke sende jeres henvendelse. Oplysningerne står stadig her — prøv igen.",
+    "placeholders": {
+      "organisation": "Virksomhed eller organisation",
+      "name": "Dit fulde navn",
+      "email": "navn@virksomhed.dk",
+      "message": "Fortæl kort om jeres organisation, og hvad I kunne tænke jer at samarbejde om."
+    },
+    "areasLabel": "Samarbejdsformer"
   }
 }

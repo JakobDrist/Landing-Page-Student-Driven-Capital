@@ -1,15 +1,16 @@
 import Image from "next/image";
 import membership from "@/content/data/membership.json";
 import { home } from "@/content/data";
-import { PillLink, frame } from "@/components/ui/pill";
-import { leadText } from "@/components/ui/section-heading";
+import { Pill, PillLink, frame } from "@/components/ui/pill";
+import { leadText, sectionTitle } from "@/components/ui/section-heading";
 import { MembershipSignup } from "@/features/forms/membership-signup";
 import { PlatformShot } from "@/components/ui/platform-shot";
+import { DepartmentCascade } from "@/features/organisation/department-cascade";
 
 // Membership page: it opens on a dusk hero with a screenshot of the internal
 // platform, then the waiting list — a heading row, a form card beside a card with
-// the Børsen spire and three short points on what to expect. The department
-// copy stays in membership.json for a future section.
+// the Børsen spire and three short points on what to expect. Between them the
+// departments cascade in as dark cards beside a sticky heading.
 
 const ICONS: Record<string, string> = {
   cap: "M2 9l10-5 10 5-10 5L2 9Zm4 2.2V16c0 1.7 2.7 3 6 3s6-1.3 6-3v-4.8M22 9v6",
@@ -38,7 +39,7 @@ const stagger = (index: number, base = 0) =>
   ({ "--reveal-delay": `${base + index * 0.1}s` }) as React.CSSProperties;
 
 export function MembershipPage() {
-  const { join, info, platform } = membership.page;
+  const { join, info, platform, departments } = membership.page;
   const spire = home.closing.image;
 
   return (
@@ -96,10 +97,33 @@ export function MembershipPage() {
         </div>
       </section>
 
+      {/* Departments: a sticky heading beside a cascade of cards. */}
+      <section
+        id="afdelinger"
+        className="scroll-mt-20 overflow-x-clip bg-paper pt-8 pb-20 md:pt-10 md:pb-28 lg:pt-12 lg:pb-[140px]"
+      >
+        <div
+          className={`${frame} grid gap-12 lg:grid-cols-[minmax(0,360px)_minmax(0,1fr)] lg:gap-16`}
+        >
+          <div data-reveal className="self-start lg:sticky lg:top-32">
+            <Pill>{departments.label}</Pill>
+            <h2 className={`${sectionTitle} mt-8`}>{departments.title}</h2>
+            <p className={`${leadText} mt-5 max-w-[340px] text-ink/60`}>
+              {departments.intro}
+            </p>
+          </div>
+          <DepartmentCascade
+            departments={membership.departments}
+            images={departments.images}
+            outputLabel={departments.labels.output}
+          />
+        </div>
+      </section>
+
       {/* Waiting list: heading row, form card and spire card. */}
       <section
         id="interesse"
-        className="scroll-mt-20 bg-paper pt-8 pb-20 md:pt-10 md:pb-28 lg:pt-12 lg:pb-[140px]"
+        className="scroll-mt-20 bg-paper pt-4 pb-20 md:pb-28 lg:pb-[140px]"
       >
         <div className={frame}>
           <MembershipSignup

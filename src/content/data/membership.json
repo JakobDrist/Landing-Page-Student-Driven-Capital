@@ -226,7 +226,30 @@
         "output": "Det leverer du",
         "examples": "Eksempler på opgaver",
         "growth": "Det udvikler du"
-      }
+      },
+      "intro": "Fem afdelinger med hver sit ansvar – find det område, der passer til dig.",
+      "images": [
+        {
+          "src": "/images/home/Misty Sunrise Over the Great Belt Bridge.png",
+          "position": "object-[38%_50%] scale-[1.6]"
+        },
+        {
+          "src": "/images/home/landscape.webp",
+          "position": "object-[35%_78%] scale-[1.5]"
+        },
+        {
+          "src": "/images/home/Misty Sunrise Over the Great Belt Bridge.png",
+          "position": "object-[88%_70%] scale-[1.8]"
+        },
+        {
+          "src": "/images/home/landscape.webp",
+          "position": "object-[8%_95%] scale-[1.4]"
+        },
+        {
+          "src": "/images/home/Misty Sunrise Over the Great Belt Bridge.png",
+          "position": "object-[22%_60%] scale-[2]"
+        }
+      ]
     },
     "join": {
       "label": "Venteliste",

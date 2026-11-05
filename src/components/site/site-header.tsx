@@ -11,7 +11,7 @@ import type { ContentLink } from "@/content/types";
 // hero area with `data-dark-hero`.
 
 /** Pages that open on a dark hero. */
-const DARK_HERO_PATHS = ["/", "/membership"];
+const DARK_HERO_PATHS = ["/", "/membership", "/partnerskaber"];
 
 export function SiteHeader({
   navigation,

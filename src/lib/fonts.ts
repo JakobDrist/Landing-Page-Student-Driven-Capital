@@ -1,4 +1,4 @@
-import { Geist, Source_Serif_4 } from "next/font/google";
+import { Geist, Geist_Mono, Source_Serif_4 } from "next/font/google";
 
 /** Body and interface text (Stills reference: Geist). */
 export const geist = Geist({
@@ -16,5 +16,12 @@ export const geist = Geist({
 export const sourceSerif = Source_Serif_4({
   subsets: ["latin", "latin-ext"],
   variable: "--font-source-serif",
+  display: "swap",
+});
+
+/** Small uppercase lists, as in the Sanjaya services cards (Geist Mono). */
+export const geistMono = Geist_Mono({
+  subsets: ["latin", "latin-ext"],
+  variable: "--font-geist-mono",
   display: "swap",
 });

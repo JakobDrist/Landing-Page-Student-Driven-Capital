@@ -9,6 +9,10 @@
     {
       "label": "Medlemskab",
       "href": "/membership"
+    },
+    {
+      "label": "Partnerskab",
+      "href": "/partnerskaber"
     }
   ],
   "newsletter": {
@@ -27,6 +31,19 @@
         {
           "label": "Skriv dig på ventelisten",
           "href": "/membership#interesse"
+        }
+      ]
+    },
+    {
+      "title": "Samarbejde",
+      "links": [
+        {
+          "label": "Bliv partner",
+          "href": "/partnerskaber"
+        },
+        {
+          "label": "Kontakt os",
+          "href": "/partnerskaber#kontakt"
         }
       ]
     }

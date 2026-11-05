@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { geist, sourceSerif } from "@/lib/fonts";
+import { geist, geistMono, sourceSerif } from "@/lib/fonts";
 import { rootMetadata } from "@/lib/metadata";
 import {
   RevealObserver,
@@ -19,7 +19,7 @@ export default function RootLayout({
         <script dangerouslySetInnerHTML={{ __html: revealBootScript }} />
       </head>
       <body
-        className={`${geist.variable} ${sourceSerif.variable} bg-paper font-sans text-ink antialiased`}
+        className={`${geist.variable} ${geistMono.variable} ${sourceSerif.variable} bg-paper font-sans text-ink antialiased`}
       >
         {children}
         <RevealObserver />
