@@ -217,53 +217,5 @@
   "applyTitle": "Tag det første skridt.",
   "applyIntro": "DSD Invest er i opbygningsfasen. Fortæl os om din baggrund og dine interesser, så vi kan kontakte dig om kommende medlemsoptag.",
   "applyNote": "Når du sender formularen, registrerer vi din interesse. Registreringen er ikke en bekræftelse på optagelse som medlem.",
-  "commitment": "Medlemskab af DSD Invest indebærer et løbende fagligt engagement. Vi forventer, at medlemmer tager ansvar for deres aftaler, bidrager aktivt til samarbejdet og leverer arbejde, som andre kan bygge videre på. Det konkrete tidsforbrug og ansvarsområde aftales ud fra kompetencer, interesser og organisationens behov.",
-  "page": {
-    "departments": {
-      "label": "Faglige områder",
-      "title": "Find dit faglige område.",
-      "labels": {
-        "output": "Det leverer du",
-        "examples": "Eksempler på opgaver",
-        "growth": "Det udvikler du"
-      }
-    },
-    "join": {
-      "label": "Venteliste",
-      "title": "Tag det første skridt.",
-      "imageLabel": "Børsen · København"
-    },
-    "info": [
-      {
-        "icon": "cap",
-        "title": "Åbent for alle fag",
-        "lines": ["Studerende fra alle universiteter", "– ikke kun finance."]
-      },
-      {
-        "icon": "check",
-        "title": "Uforpligtende",
-        "lines": ["Tilmeldingen er ikke en", "ansøgning eller en optagelse."]
-      },
-      {
-        "icon": "mail",
-        "title": "Vi vender tilbage",
-        "lines": ["Når optaget åbner,", "kontakter vi dig direkte."]
-      }
-    ],
-    "platform": {
-      "title": "Ét sted for research, modeller og beslutninger.",
-      "text": "Vi bygger en intern platform, hvor medlemmernes analyser, prognoser og porteføljeforslag samles.",
-      "cta": "Skriv dig på ventelisten",
-      "background": {
-        "src": "/images/home/Misty Sunrise Over the Great Belt Bridge.png",
-        "alt": ""
-      },
-      "image": {
-        "src": "/images/membership/platform-dashboard.webp",
-        "alt": "Skærmbillede af DSD Invests interne platform med porteføljeværdi, fordeling og beholdninger",
-        "width": 2000,
-        "height": 1139
-      }
-    }
-  }
+  "commitment": "Medlemskab af DSD Invest indebærer et løbende fagligt engagement. Vi forventer, at medlemmer tager ansvar for deres aftaler, bidrager aktivt til samarbejdet og leverer arbejde, som andre kan bygge videre på. Det konkrete tidsforbrug og ansvarsområde aftales ud fra kompetencer, interesser og organisationens behov."
 }

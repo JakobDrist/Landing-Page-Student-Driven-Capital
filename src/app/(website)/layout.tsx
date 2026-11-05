@@ -12,7 +12,7 @@ export default function WebsiteLayout({
       <SiteHeader
         navigation={site.navigation}
         brand={site.brand}
-        copyright={site.copyright}
+        menuEmail={site.menuEmail}
       />
       <main>{children}</main>
       <SiteFooter />

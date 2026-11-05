@@ -92,6 +92,9 @@ export function InvestmentFramework({
         <p className="mt-8 max-w-4xl border-l-2 border-ink pl-5 text-[20px] leading-[1.4] tracking-[-0.02em] md:text-[26px]">
           {framework.maxim}
         </p>
+        <p className="mt-7 max-w-4xl text-[13px] leading-[1.6] text-muted">
+          {framework.note}
+        </p>
       </div>
     </div>
   );

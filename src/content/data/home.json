@@ -1,8 +1,7 @@
 {
   "hero": {
-    "eyebrow": "Forskningsbaseret investering",
-    "title": "Disciplineret kapital. Drevet af studerende.",
-    "description": "Vi investerer med evidens og disciplin – og udvikler næste generations investorer.",
+    "title": "En investeringsorganisation. Drevet af studerende.",
+    "description": "En dansk, forskningsbaseret investeringsorganisation, hvor fundamental analyse, probabilistiske prognoser og kvantitativ porteføljekonstruktion møder næste generation af investeringstalent.",
     "image": {
       "src": "/images/home/Misty Sunrise Over the Great Belt Bridge.png",
       "alt": "Storebæltsbroen i nordisk morgentåge"
@@ -16,14 +15,7 @@
         "label": "Vores mission",
         "href": "/#our-mission"
       }
-    ],
-    "stat": {
-      "value": 1.5,
-      "from": 0.9,
-      "decimals": 1,
-      "suffix": "M kr",
-      "label": "Kapital under forvaltning"
-    }
+    ]
   },
   "stats": {
     "title": "Et lille partnerskab, bygget til den lange stigning.",
@@ -70,34 +62,16 @@
     ]
   },
   "sectors": {
-    "eyebrow": "Vores metode",
     "title": "Et integreret investeringssystem. Bygget på evidens.",
-    "description": "Ni faser forbinder research og sandsynlighedsbaserede estimater med kapitalallokering og systematisk læring.",
-    "levels": {
-      "I": "Mandat, risikorammer og globalt investeringsunivers – underbygget af efterprøvbare data og betingede makro- og markedsscenarier.",
-      "II": "Global screening og fundamental selskabsanalyse i 11 moduler – fra økonomisk motor til sandsynlighedsvægtede udfald.",
-      "III": "Modellen foreslår allokeringer ud fra afkast, risiko og stresstests. Investeringskomitéen udfordrer antagelserne og beslutter.",
-      "IV": "Prognoser holdes op mod faktiske udfald, afkast og risiko analyseres, og dokumenterede fejl bruges til at forbedre metoden."
-    },
+    "description": "Fra global økonomisk analyse og fundamental selskabsresearch til probabilistiske prognoser, kvantitativ porteføljekonstruktion og kontinuerlig forbedring. Ni faser samlet i én metodisk arkitektur.",
     "action": {
       "label": "Udforsk hele investeringsmetoden",
       "href": "/sectors"
     }
   },
   "foundingPartners": {
-    "label": "Ledelse",
     "title": "Founding Partners",
-    "description": "DSD Invest er grundlagt og ledes af tre founding partners, der hver har ansvaret for et af organisationens kerneområder.",
     "members": [
-      {
-        "name": "Rasmus F. Pallesen",
-        "role": "Founding Partner",
-        "focus": "Research & Organisation",
-        "image": {
-          "src": "/images/founding-partners/placeholder.png",
-          "alt": "Midlertidigt portræt – billede af Rasmus F. Pallesen følger"
-        }
-      },
       {
         "name": "Noah F. Lillebæk",
         "role": "Founding Partner",
@@ -106,6 +80,12 @@
           "src": "/images/founding-partners/noah.png",
           "alt": "Noah F. Lillebæk"
         }
+      },
+      {
+        "name": "Rasmus F. Pallesen",
+        "role": "Founding Partner",
+        "focus": "Research & Organisation",
+        "image": null
       },
       {
         "name": "Jakob D. Fisker",
@@ -219,72 +199,25 @@
     ]
   },
   "closing": {
-    "eyebrow": "Bliv en del af DSD Invest",
+    "eyebrow": "BLIV EN DEL AF DSD INVEST",
     "title": "Vær med til at bygge fremtidens investeringsinstitution.",
     "text": "Uanset om du ønsker at bidrage med dine kompetencer eller støtte udviklingen af næste generation af dansk investeringstalent, begynder det her.",
     "action": {
       "label": "Udforsk medlemskab",
       "href": "/membership"
     },
-    "image": {
-      "src": "/images/home/boersen-spir.webp",
-      "alt": "Børsens dragespir i København"
+    "secondaryAction": {
+      "label": "Udforsk partnerskaber",
+      "href": "/partnerskaber"
     }
   },
   "mission": {
-    "label": "Medlemskab",
-    "universities": [
-      {
-        "name": "Københavns Universitet",
-        "mark": "Københavns Universitet",
-        "style": "thin"
-      },
-      {
-        "name": "Aarhus Universitet",
-        "mark": "Aarhus Universitet",
-        "style": "caps"
-      },
-      {
-        "name": "Copenhagen Business School",
-        "mark": "cbs.",
-        "style": "serif"
-      },
-      {
-        "name": "Danmarks Tekniske Universitet",
-        "mark": "DTU",
-        "style": "bold"
-      },
-      {
-        "name": "Syddansk Universitet",
-        "mark": "Syddansk Universitet",
-        "style": "thin"
-      },
-      {
-        "name": "Aalborg Universitet",
-        "mark": "Aalborg Universitet",
-        "style": "caps"
-      },
-      {
-        "name": "Roskilde Universitet",
-        "mark": "ruc.",
-        "style": "serif"
-      },
-      {
-        "name": "IT-Universitetet i København",
-        "mark": "ITU",
-        "style": "bold"
-      }
-    ],
-    "title": "Begynd på din karriere, før du er færdig med studiet.",
-    "lead": "Ikke blot teoretisk læring eller case competitions, men meningsfuldt arbejde med professionelle standarder og konsekvenser.",
-    "closing": "Medlemskabet er åbent for studerende fra alle universiteter – ikke kun for finance-studerende.",
+    "title": "Vores mission",
+    "text": "Begynd på din karriere, før du er færdig med studiet. Som medlem af DSD Invest får du mulighed for at arbejde direkte med den faglige retning, du vil gøre karriere inden for — gennem ansvar for funktioner, som organisationen faktisk er afhængig af.",
+    "supporting": "Ikke blot teoretisk læring eller case competitions, men meningsfuldt arbejde med professionelle standarder og konsekvenser.",
     "action": {
       "label": "Udforsk medlemskab",
       "href": "/membership"
-    },
-    "statement": {
-      "label": "Vores mission",
-      "text": "Ambitiøse studerende skal ikke vente til efter studiet med at begynde deres karriere. Vi bygger en investeringsorganisation, hvor analyse, teknologi og ansvar bliver til reel erfaring — og hvor talent udvikles gennem det arbejde, vi skaber sammen."
     }
   }
 }

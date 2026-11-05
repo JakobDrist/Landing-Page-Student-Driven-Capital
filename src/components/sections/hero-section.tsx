@@ -1,63 +1,55 @@
+import { Grain } from "@/components/ui/grain";
 import { home } from "@/content/data";
-import { CountUp } from "@/components/ui/count-up";
 import { Media } from "@/components/ui/media";
-import { Pill, PillLink, TextLink } from "@/components/ui/pill";
-import { ScrollShift } from "@/components/ui/scroll-shift";
-import { displayTitle, leadText } from "@/components/ui/section-heading";
-
-// Stills hero: black text column on the left, full-height image on the right.
-// On large screens the hero stays pinned while the page scrolls over it, and
-// both halves drift apart with the scroll (text left and fading, image right).
+import { ButtonLink } from "@/components/ui/button-link";
+import { leadText } from "@/components/ui/section-heading";
 
 export function HeroSection() {
-  const { hero } = home;
-  const [primary, secondary] = hero.actions;
-
   return (
-    <section className="relative overflow-hidden bg-night text-paper lg:sticky lg:top-0 lg:grid lg:h-svh lg:min-h-[720px] lg:grid-cols-[minmax(0,1fr)_48.9%]">
-      <div className="animate-appear flex flex-col justify-center px-6 pt-32 pb-14 [animation-delay:.4s] md:px-8 md:pt-40 lg:py-24 lg:pr-12">
-        <ScrollShift distance={-250} fade>
-          <Pill tone="hero">{hero.eyebrow}</Pill>
-          <h1 className={`${displayTitle} mt-8`}>{hero.title}</h1>
-          <p className={`${leadText} mt-8 max-w-[400px] text-paper/60`}>
-            {hero.description}
-          </p>
-          <div className="mt-8 flex flex-wrap items-center gap-x-10 gap-y-4">
-            <PillLink href={primary.href} tone="light">
-              {primary.label}
-            </PillLink>
-            {secondary && (
-              <TextLink href={secondary.href}>{secondary.label}</TextLink>
-            )}
-          </div>
-          <div className="mt-8 flex items-center gap-4">
-            <CountUp
-              value={hero.stat.value}
-              from={hero.stat.from}
-              decimals={hero.stat.decimals}
-              suffix={hero.stat.suffix}
-              className="font-serif text-[48px] leading-[1.1] font-medium tracking-[-0.01em] whitespace-nowrap"
-            />
-            <span className="max-w-[110px] text-[14px] leading-[1.4] font-medium tracking-[-0.006em]">
-              {hero.stat.label}
-            </span>
-          </div>
-        </ScrollShift>
+    <section className="relative isolate flex min-h-[608px] h-dvh flex-col items-center justify-center overflow-hidden bg-[#2a2b31] px-5 pt-18 pb-30 text-center text-[#f3f3f1] md:px-8 md:pb-40 lg:px-10 lg:pb-35 xl:px-12 xl:pb-[162px]">
+      <div className="absolute inset-0 -z-20">
+        <Media
+          image={home.hero.image}
+          preload
+          sizes="100vw"
+          className="animate-landscape-settle object-[center_62%]"
+        />
       </div>
-      <div className="animate-appear-slow relative h-[400px] md:h-[560px] lg:h-auto">
-        <ScrollShift
-          distance={250}
-          frequency={22}
-          damping={1.34}
-          className="absolute inset-0"
+      <div
+        aria-hidden="true"
+        className="pointer-events-none absolute inset-0 -z-10 bg-[linear-gradient(180deg,#12121259,#1212120d_45%,#12121273)]"
+      />
+      <Grain className="opacity-55" />
+      <h1 className="max-w-[1080px] text-balance text-[40px] leading-[1.08] font-normal tracking-[-0.03em] md:text-[53px] lg:text-[62px] xl:text-[73px]">
+        {home.hero.title}
+      </h1>
+      <div className="relative isolate mt-7 w-full max-w-[640px]">
+        <div
+          aria-hidden="true"
+          className="pointer-events-none absolute -inset-x-12 -inset-y-9 -z-10"
+          style={{
+            background:
+              "radial-gradient(ellipse at center, rgba(12, 21, 30, 0.48) 0%, rgba(12, 21, 30, 0) 74%)",
+          }}
+        />
+        <p
+          className={`${leadText} text-[#f3f3f1]/95`}
+          style={{ textShadow: "0 1px 14px rgba(5, 10, 16, 0.28)" }}
         >
-          <Media
-            image={hero.image}
-            preload
-            sizes="(max-width: 1023px) 100vw, 49vw"
-            className="object-[58%_center]"
-          />
-        </ScrollShift>
+          {home.hero.description}
+        </p>
+      </div>
+      <div className="mt-10 flex flex-wrap justify-center gap-3">
+        {home.hero.actions.map((action, index) => (
+          <ButtonLink
+            key={action.href}
+            href={action.href}
+            variant={index === 0 ? "light" : "ghost"}
+            arrow={index === 0}
+          >
+            {action.label}
+          </ButtonLink>
+        ))}
       </div>
     </section>
   );

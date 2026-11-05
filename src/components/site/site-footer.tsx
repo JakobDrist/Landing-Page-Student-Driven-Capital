@@ -1,50 +1,125 @@
 import Link from "next/link";
 import { site } from "@/content/data";
-import { frame } from "@/components/ui/pill";
-
-// Compact footer in the Stills idiom: brand, tagline and link columns on
-// black. Sign-up happens through the membership form, so there is no e-mail
-// field here.
-
+import { Container } from "@/components/ui/container";
+import { Wordmark } from "@/components/ui/wordmark";
+import { DemoForm } from "@/features/forms/demo-form";
+import { Icon } from "@/components/ui/icon";
 export function SiteFooter() {
   return (
-    <footer className="relative z-10 bg-night text-paper">
-      <div
-        className={`${frame} pt-20 pb-16 md:pt-28 md:pb-20 lg:pt-[140px] lg:pb-[100px]`}
-      >
-        <Link
-          href="/"
-          aria-label={`${site.brand} forside`}
-          className="font-serif text-[32px] leading-none font-medium tracking-[-0.01em]"
-        >
-          {site.brand}
-        </Link>
-        <p className="mt-5 text-[14px] leading-[1.4] text-paper/90">
-          {site.tagline}
-        </p>
-
-        <div className="mt-16 grid grid-cols-2 gap-x-5 gap-y-12 md:grid-cols-4 lg:grid-cols-[repeat(3,284px)_1fr]">
-          {site.footerGroups.map((group) => (
-            <nav key={group.title} aria-label={group.title}>
-              <h2 className="text-[14px] leading-[1.4] text-paper/60">
-                {group.title}
-              </h2>
-              <ul className="mt-4 space-y-3">
-                {group.links.map((link) => (
-                  <li key={link.href}>
-                    <Link
-                      href={link.href}
-                      className="text-[14px] leading-[1.3] transition-opacity duration-1000 ease-spring hover:opacity-70"
-                    >
-                      {link.label}
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </nav>
+    <footer className="bg-[#0d0d0e] text-[#f3f3f1]">
+      <Container>
+        <div className="flex flex-col gap-10 pt-20 pb-16 md:pt-25 lg:flex-row xl:pt-28">
+          <div className="lg:flex-[1] lg:pr-12">
+            <h2 className="text-[20px] leading-[1.35] tracking-[-0.02em]">
+              {site.newsletter.title}
+            </h2>
+            <p className="mt-2 max-w-[360px] text-[15px] leading-6 tracking-[-0.01em] text-[#9a9a97]">
+              {site.newsletter.description}
+            </p>
+            <DemoForm
+              className="mt-6 flex max-w-[360px] items-center border-b border-[#3a3a3d]"
+              label="Nyhedsbrev"
+            >
+              <input
+                type="email"
+                name="email"
+                required
+                aria-label="E-mailadresse"
+                placeholder={site.newsletter.placeholder}
+                className="h-11 min-w-0 flex-1 border-0 bg-transparent text-[15px] outline-none placeholder:text-[#9a9a97]"
+              />
+              <button
+                type="submit"
+                className="group flex h-11 cursor-pointer items-center gap-3 text-[13px]"
+              >
+                Tilmeld
+                <Icon
+                  path="M5 12h14m-5-5 5 5-5 5"
+                  className="transition-transform duration-400 group-hover:translate-x-1"
+                />
+              </button>
+            </DemoForm>
+          </div>
+          <nav
+            aria-label="Footernavigation"
+            className="grid grid-cols-2 gap-x-6 gap-y-10 md:grid-cols-4 lg:flex-[1.4]"
+          >
+            {site.footerGroups.map((group) => (
+              <div key={group.title}>
+                <h3 className="mb-4 text-[13px] leading-[1.35] text-[#9a9a97]">
+                  {group.title}
+                </h3>
+                <ul className="space-y-2">
+                  {group.links.map((link) => (
+                    <li key={link.href}>
+                      <Link
+                        href={link.href}
+                        className="text-[15px] leading-6 transition-colors hover:text-white"
+                      >
+                        {link.label}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </nav>
+        </div>
+        <div className="grid grid-cols-1 gap-8 border-t border-[#2b2b2b] pt-10 pb-14 md:grid-cols-3">
+          {site.highlights.map((highlight) => (
+            <div key={highlight.title} className="text-[13px] leading-5.5">
+              <p className="mb-2 text-[#f3f3f1]">{highlight.title}</p>
+              {highlight.lines.map((line) => (
+                <p key={line} className="text-[#9a9a97]">
+                  {line}
+                </p>
+              ))}
+            </div>
           ))}
         </div>
-      </div>
+        <div className="flex items-end justify-between">
+          <Link href="/" aria-label={`${site.brand} forside`}>
+            <Wordmark brand={site.brand} />
+          </Link>
+          <div className="flex gap-5">
+            {site.socials.map((social) => (
+              <a
+                key={social.label}
+                href={social.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label={social.label}
+                className="text-[15px] text-[#9a9a97] hover:text-white"
+              >
+                <Icon
+                  path={
+                    social.label === "LinkedIn"
+                      ? "M4 9v11M4 4v.01M9 20V9m0 5a5 5 0 0 1 10 0v6"
+                      : "M4 4h4l12 16h-4L4 4Zm16 0L4 20"
+                  }
+                />
+              </a>
+            ))}
+          </div>
+        </div>
+        <div className="flex flex-col justify-between gap-8 pt-8 pb-10 text-[12px] leading-[1.5] text-[#9a9a97] lg:flex-row">
+          <div>
+            <p>{site.copyright}</p>
+            <div className="mt-3 flex flex-wrap gap-4">
+              {site.legalLinks.map((link) => (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className="hover:text-white"
+                >
+                  {link.label}
+                </Link>
+              ))}
+            </div>
+          </div>
+          <p className="max-w-[512px] lg:text-right">{site.disclaimer}</p>
+        </div>
+      </Container>
     </footer>
   );
 }
