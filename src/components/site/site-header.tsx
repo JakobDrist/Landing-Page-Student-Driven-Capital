@@ -83,7 +83,9 @@ export function SiteHeader({
           href="/"
           aria-label={`${brand} forside`}
           onClick={() => setOpen(false)}
-          className="shrink-0"
+          // Dark blue wherever the header sits on paper; light over the
+          // homepage hero and in the open menu.
+          className={`shrink-0 transition-colors duration-500 ${open ? "" : home ? "group-data-[scrolled=true]:text-navy" : "text-navy"}`}
         >
           <Wordmark brand={brand} />
         </Link>

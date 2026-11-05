@@ -29,7 +29,7 @@ export function ButtonLink({
   return (
     <Link
       href={href}
-      className={`group inline-flex shrink-0 items-center justify-center gap-3.5 rounded-[10px] font-normal tracking-[-0.01em] transition-[background-color,box-shadow] duration-250 ease-[cubic-bezier(.25,.1,.25,1)] focus-visible:outline-2 focus-visible:outline-offset-4 ${small ? "h-[38px] pr-1 pl-[15px] text-[13px]" : "h-[46px] pr-[5px] pl-[18px] text-[15px]"}  ${variants[variant]}`}
+      className={`group inline-flex shrink-0 items-center justify-center gap-3.5 rounded-[10px] font-normal tracking-[-0.01em] transition-[background-color,box-shadow] duration-250 ease-[cubic-bezier(.25,.1,.25,1)] focus-visible:outline-2 focus-visible:outline-offset-4 ${small ? "h-[38px] text-[13px]" : "h-[46px] text-[15px]"} ${showArrow ? (small ? "pr-1 pl-[15px]" : "pr-[5px] pl-[18px]") : small ? "px-[15px]" : "px-[22px]"}  ${variants[variant]}`}
     >
       {children}
       {showArrow ? (
@@ -38,9 +38,7 @@ export function ButtonLink({
         >
           <Icon path="M5 12h14m-5-5 5 5-5 5" />
         </span>
-      ) : (
-        <span aria-hidden="true" className={small ? "w-[11px]" : "w-[13px]"} />
-      )}
+      ) : null}
     </Link>
   );
 }

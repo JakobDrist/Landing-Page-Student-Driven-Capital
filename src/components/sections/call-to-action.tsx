@@ -25,7 +25,7 @@ export function CallToAction({
   image?: MediaSource | null;
 }) {
   return (
-    <section className="overflow-hidden pt-20 md:pt-25 lg:pt-29 xl:pt-34">
+    <section className="overflow-hidden bg-canvas pt-20 md:pt-25 lg:pt-29 xl:pt-34">
       <Container
         className={`grid gap-y-14 ${image ? "lg:grid-cols-2 lg:items-center lg:gap-x-20" : "pb-20 md:pb-25 lg:pb-29 xl:pb-34"}`}
       >

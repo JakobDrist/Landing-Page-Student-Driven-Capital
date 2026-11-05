@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { site } from "@/content/data";
 import { Container } from "@/components/ui/container";
-import { Wordmark } from "@/components/ui/wordmark";
 import { DemoForm } from "@/features/forms/demo-form";
 import { Icon } from "@/components/ui/icon";
 export function SiteFooter() {
@@ -65,22 +64,7 @@ export function SiteFooter() {
             ))}
           </nav>
         </div>
-        <div className="grid grid-cols-1 gap-8 border-t border-navy-line pt-10 pb-14 md:grid-cols-3">
-          {site.highlights.map((highlight) => (
-            <div key={highlight.title} className="text-[13px] leading-5.5">
-              <p className="mb-2 text-[#f3f3f1]">{highlight.title}</p>
-              {highlight.lines.map((line) => (
-                <p key={line} className="text-navy-muted">
-                  {line}
-                </p>
-              ))}
-            </div>
-          ))}
-        </div>
-        <div className="flex items-end justify-between">
-          <Link href="/" aria-label={`${site.brand} forside`}>
-            <Wordmark brand={site.brand} />
-          </Link>
+        <div className="flex justify-end border-t border-navy-line pt-8 pb-10">
           <div className="flex gap-5">
             {site.socials.map((social) => (
               <a
@@ -101,23 +85,6 @@ export function SiteFooter() {
               </a>
             ))}
           </div>
-        </div>
-        <div className="flex flex-col justify-between gap-8 pt-8 pb-10 text-[12px] leading-[1.5] text-navy-muted lg:flex-row">
-          <div>
-            <p>{site.copyright}</p>
-            <div className="mt-3 flex flex-wrap gap-4">
-              {site.legalLinks.map((link) => (
-                <Link
-                  key={link.href}
-                  href={link.href}
-                  className="hover:text-white"
-                >
-                  {link.label}
-                </Link>
-              ))}
-            </div>
-          </div>
-          <p className="max-w-[512px] lg:text-right">{site.disclaimer}</p>
         </div>
       </Container>
     </footer>

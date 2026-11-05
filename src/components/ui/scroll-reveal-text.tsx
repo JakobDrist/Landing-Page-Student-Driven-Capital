@@ -43,13 +43,13 @@ export function ScrollRevealText({
       <div className="sticky top-0 flex min-h-svh items-center py-24 motion-reduce:static motion-reduce:min-h-0 md:py-28">
         <Container>
           <div className="mx-auto max-w-6xl">
-            <h2 className="mb-10 text-[13px] leading-5 tracking-[0.14em] text-paper/60 uppercase md:mb-14">
+            <h2 className="mb-10 text-[13px] leading-5 tracking-[0.14em] text-muted uppercase md:mb-14">
               {title}
             </h2>
             <p className="sr-only">{text}</p>
             <p
               aria-hidden="true"
-              className="text-[clamp(1.75rem,3.85vw,3.6rem)] leading-[1.16] tracking-[-0.035em] text-paper"
+              className="text-[clamp(1.75rem,3.85vw,3.6rem)] leading-[1.16] tracking-[-0.035em] text-ink"
             >
               {words.map((word, index) => (
                 <span key={index}>

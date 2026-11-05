@@ -3,9 +3,9 @@ import { pages } from "@/content/data";
 // The investment operating framework as an editorial table: each level is a
 // row with its numeral and title on the left and its phases on the right as a
 // hairline list (number, title, summary), so the nine phases read top to
-// bottom as one method. Below, the cross-cutting principles sit beside the
-// maxim and the note. `expanded` adds each phase's detail and sub-phase count
-// (used on the method page).
+// bottom as one method. Below, the maxim and the note line up with the phases.
+// `expanded` adds each phase's detail and sub-phase count (used on the method
+// page).
 
 export function InvestmentFramework({
   expanded = false,
@@ -20,7 +20,6 @@ export function InvestmentFramework({
         <p className="text-[12px] font-medium tracking-[0.12em] text-muted uppercase">
           {framework.eyebrow}
         </p>
-        <p className="text-[13px] text-muted">{framework.architecture}</p>
       </div>
 
       <ol className="border-b border-line">
@@ -75,22 +74,7 @@ export function InvestmentFramework({
       </ol>
 
       <div className="mt-12 grid gap-10 md:mt-16 lg:grid-cols-[minmax(0,340px)_minmax(0,1fr)] lg:gap-12">
-        <div>
-          <p className="text-[12px] tracking-[0.12em] text-muted uppercase">
-            {framework.principlesLabel}
-          </p>
-          <ul className="mt-5 flex flex-wrap gap-2">
-            {framework.principles.map((principle) => (
-              <li
-                key={principle}
-                className="rounded-full bg-canvas px-4 py-2 text-[13px] leading-[1.35] shadow-[inset_0_0_0_1px_var(--color-line)]"
-              >
-                {principle}
-              </li>
-            ))}
-          </ul>
-        </div>
-        <div>
+        <div className="lg:col-start-2">
           <p className="max-w-3xl text-[22px] leading-[1.35] tracking-[-0.02em] text-balance md:text-[28px]">
             {framework.maxim}
           </p>
