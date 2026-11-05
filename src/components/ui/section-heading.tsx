@@ -1,11 +1,16 @@
 import type { ContentLink } from "@/content/types";
 import { ButtonLink } from "./button-link";
+// Type scale measured from the Stills reference at 390 / 810 / 1440 px.
+export const displayTitle =
+  "font-serif text-[42px] leading-[1.05] font-medium tracking-[-0.02em] md:text-[56px] lg:text-[72px] lg:leading-none lg:tracking-[-0.025em]";
 export const sectionTitle =
-  "text-[35.35px] leading-[1.1] font-normal tracking-[-0.025em] text-balance md:text-[44.8px] lg:text-[51.2px] xl:text-[60px]";
+  "font-serif text-[32px] leading-[1.1] font-medium tracking-[-0.015em] text-balance md:text-[40px] lg:text-[48px] lg:leading-[1.08] lg:tracking-[-0.02em]";
+export const itemTitle =
+  "font-serif text-[26px] leading-[1.22] font-medium tracking-[-0.012em] lg:text-[32px] lg:leading-[1.2]";
 export const leadText =
-  "text-[17.68px] leading-[1.5] tracking-[-0.01em] md:text-[19.01px] lg:text-[19.9px] xl:text-[20.8px]";
-export const pageTitle =
-  "text-[44.42px] leading-[1.08] font-normal tracking-[-0.03em] text-balance md:text-[58.78px] lg:text-[68.51px] xl:text-[81px]";
+  "text-[16px] leading-[1.6] tracking-[-0.011em] lg:text-[18px]";
+export const smallText = "text-[14px] leading-[1.4] tracking-[-0.006em]";
+export const pageTitle = `${displayTitle} text-balance`;
 export function SectionHeading({
   title,
   description,

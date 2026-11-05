@@ -1,17 +1,14 @@
 {
   "brand": "DSD Invest",
+  "tagline": "Dansk, studenterdrevet investeringsorganisation.",
   "navigation": [
     {
-      "label": "Investeringsmetode",
+      "label": "Metode",
       "href": "/sectors"
     },
     {
-      "label": "Partnerskaber",
-      "href": "/partnerskaber"
-    },
-    {
-      "label": "Om os",
-      "href": "/about"
+      "label": "Medlemskab",
+      "href": "/membership"
     }
   ],
   "newsletter": {
@@ -21,19 +18,6 @@
   },
   "footerGroups": [
     {
-      "title": "Foreningen",
-      "links": [
-        {
-          "label": "Om os",
-          "href": "/about"
-        },
-        {
-          "label": "Kontakt",
-          "href": "/contact"
-        }
-      ]
-    },
-    {
       "title": "Medlemskab",
       "links": [
         {
@@ -42,16 +26,7 @@
         },
         {
           "label": "Skriv dig på ventelisten",
-          "href": "/membership#membership-form"
-        }
-      ]
-    },
-    {
-      "title": "Samarbejde",
-      "links": [
-        {
-          "label": "Bliv partner",
-          "href": "/partnerskaber"
+          "href": "/membership#interesse"
         }
       ]
     }

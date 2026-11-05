@@ -1,24 +1,12 @@
-import { home } from "@/content/data";
-import { ButtonLink } from "@/components/ui/button-link";
-import { Section } from "./section";
-import { InvestmentFramework } from "./investment-framework";
-import { SectionHeading } from "@/components/ui/section-heading";
+import { HandoffCard } from "@/components/ui/handoff-card";
+import { InvestmentSystem } from "./investment-system";
 
+// The method follows the pinned mission statement and takes over the screen
+// as an expanding card (see `HandoffCard`).
 export function SectorsSection() {
   return (
-    <Section className="bg-white" id="investment-approach">
-      <SectionHeading
-        title={home.sectors.title}
-        description={home.sectors.description}
-      />
-      <div className="mt-14 md:mt-20">
-        <InvestmentFramework />
-      </div>
-      <div className="mt-12 text-center md:mt-16">
-        <ButtonLink href={home.sectors.action.href} variant="dark">
-          {home.sectors.action.label}
-        </ButtonLink>
-      </div>
-    </Section>
+    <HandoffCard>
+      <InvestmentSystem />
+    </HandoffCard>
   );
 }

@@ -213,8 +213,7 @@
         "Integreret risikostyring",
         "Menneskelig beslutningsmyndighed"
       ],
-      "maxim": "Mennesker og analytiske systemer estimerer. Modeller foreslår allokeringer. Investeringskomitéen beslutter.",
-      "note": "Dette er DSD Invests specificerede metodiske arkitektur. Den dokumenterer ikke, at alle processer og systemer allerede er implementeret eller empirisk valideret."
+      "maxim": "Mennesker og analytiske systemer estimerer. Modeller foreslår allokeringer. Investeringskomitéen beslutter."
     }
   },
   "insights": {
