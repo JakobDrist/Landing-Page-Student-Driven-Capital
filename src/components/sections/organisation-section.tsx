@@ -38,7 +38,7 @@ export function OrganisationSection() {
             ))}
           </ul>
         </div>
-        <ButtonLink href={organisation.action.href} variant="dark">
+        <ButtonLink href={organisation.action.href} variant="primary">
           {organisation.action.label}
         </ButtonLink>
       </div>

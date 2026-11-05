@@ -12,6 +12,12 @@
   --color-line: #d8d8d4;
   --color-control: #bdbdb8;
   --color-selected: #e6e6e3;
+  /* Fintech blue for primary buttons, deep navy for the footer and menu. */
+  --color-brand: #2350d8;
+  --color-brand-hover: #1b41b8;
+  --color-navy: #0b1a33;
+  --color-navy-line: #22365a;
+  --color-navy-muted: #9db0cc;
   --animate-landscape-settle: landscape-settle 2.4s
     cubic-bezier(0.16, 1, 0.3, 1) both;
   --animate-menu-fade: menu-fade 0.3s ease-out;

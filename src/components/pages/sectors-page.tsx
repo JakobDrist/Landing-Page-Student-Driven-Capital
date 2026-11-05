@@ -126,7 +126,7 @@ export function SectorsPage() {
             {content.closing.text}
           </p>
           <div className="mt-10 flex flex-wrap justify-center gap-3">
-            <ButtonLink href="/membership" variant="dark">
+            <ButtonLink href="/membership" variant="primary">
               Udforsk medlemskab
             </ButtonLink>
             <ButtonLink href="/partnerskaber" variant="outline">

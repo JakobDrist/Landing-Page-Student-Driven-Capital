@@ -3,6 +3,8 @@ import { ScrollRevealText } from "@/components/ui/scroll-reveal-text";
 import { ButtonLink } from "@/components/ui/button-link";
 import { Grain } from "@/components/ui/grain";
 import { Glow } from "@/components/ui/glow";
+import { Container } from "@/components/ui/container";
+import { LogoTicker } from "@/components/ui/logo-ticker";
 import { Section } from "./section";
 
 export function MissionSection() {
@@ -15,6 +17,19 @@ export function MissionSection() {
         <Glow subdued />
         <Grain className="opacity-35" />
       </div>
+      {/* Danish universities drifting by above the mission. */}
+      <Container className="pt-14 md:pt-20">
+        <p className="text-center text-[12px] tracking-[0.12em] text-paper/45 uppercase">
+          {home.universities.label}
+        </p>
+        <div className="mt-7 md:mt-8">
+          <LogoTicker
+            marks={home.universities.marks}
+            label={home.universities.label}
+            tone="dark"
+          />
+        </div>
+      </Container>
       <ScrollRevealText title={home.mission.title} text={home.mission.text} />
       <Section className="pt-0!">
         <div className="mx-auto max-w-4xl text-center">

@@ -98,7 +98,7 @@ export function PortfolioFilters({ style }: { style?: CSSProperties }) {
                 type="button"
                 aria-pressed={filters.status === value}
                 onClick={() => setFilters({ ...filters, status: value })}
-                className="h-[42px] cursor-pointer rounded-full border-0 bg-transparent px-4 text-[15px] leading-none font-normal tracking-[-0.01em] text-muted transition-colors duration-200 hover:text-ink aria-pressed:bg-ink aria-pressed:text-paper"
+                className="h-[42px] cursor-pointer rounded-full border-0 bg-transparent px-4 text-[15px] leading-none font-normal tracking-[-0.01em] text-muted transition-colors duration-200 hover:text-ink aria-pressed:bg-brand aria-pressed:text-white"
               >
                 {value[0].toUpperCase() + value.slice(1)}
               </button>

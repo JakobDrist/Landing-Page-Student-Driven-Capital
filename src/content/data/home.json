@@ -209,6 +209,10 @@
     "secondaryAction": {
       "label": "Udforsk partnerskaber",
       "href": "/partnerskaber"
+    },
+    "image": {
+      "src": "/images/home/boersen-spir.webp",
+      "alt": "Børsens dragespir i København"
     }
   },
   "mission": {
@@ -219,5 +223,50 @@
       "label": "Udforsk medlemskab",
       "href": "/membership"
     }
+  },
+  "universities": {
+    "label": "Studerende fra danske universiteter",
+    "marks": [
+      {
+        "name": "Københavns Universitet",
+        "mark": "Københavns Universitet",
+        "style": "thin"
+      },
+      {
+        "name": "Aarhus Universitet",
+        "mark": "Aarhus Universitet",
+        "style": "caps"
+      },
+      {
+        "name": "Copenhagen Business School",
+        "mark": "cbs.",
+        "style": "serif"
+      },
+      {
+        "name": "Danmarks Tekniske Universitet",
+        "mark": "DTU",
+        "style": "bold"
+      },
+      {
+        "name": "Syddansk Universitet",
+        "mark": "Syddansk Universitet",
+        "style": "thin"
+      },
+      {
+        "name": "Aalborg Universitet",
+        "mark": "Aalborg Universitet",
+        "style": "caps"
+      },
+      {
+        "name": "Roskilde Universitet",
+        "mark": "ruc.",
+        "style": "serif"
+      },
+      {
+        "name": "IT-Universitetet i København",
+        "mark": "ITU",
+        "style": "bold"
+      }
+    ]
   }
 }

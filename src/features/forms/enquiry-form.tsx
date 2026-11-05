@@ -79,10 +79,10 @@ export function EnquiryForm({
       </div>
       <button
         type="submit"
-        className="group flex h-[46px] w-fit cursor-pointer items-center gap-5 rounded-[10px] bg-ink pr-[5px] pl-[18px] text-[15px] text-paper transition-colors hover:bg-[#2e2e30]"
+        className="group flex h-[46px] w-fit cursor-pointer items-center gap-5 rounded-[10px] bg-brand pr-[5px] pl-[18px] text-[15px] text-white transition-colors hover:bg-brand-hover"
       >
         {definition.submit}
-        <span className="grid size-9 place-items-center rounded-[7px] bg-paper text-ink transition-[padding] duration-250 group-hover:pl-1">
+        <span className="grid size-9 place-items-center rounded-[7px] bg-white text-brand transition-[padding] duration-250 group-hover:pl-1">
           <Icon path="M5 12h14m-5-5 5 5-5 5" />
         </span>
       </button>

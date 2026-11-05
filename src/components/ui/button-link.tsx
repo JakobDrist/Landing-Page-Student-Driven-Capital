@@ -3,7 +3,8 @@ import type { ReactNode } from "react";
 import { Icon } from "./icon";
 
 const variants = {
-  dark: "bg-ink text-paper hover:bg-[#2e2e30]",
+  /** Blue primary button. */
+  primary: "bg-brand text-white hover:bg-brand-hover",
   light: "bg-[#ececea] text-ink hover:bg-white",
   outline:
     "bg-transparent text-ink shadow-[inset_0_0_0_1px_#bdbdb8] hover:shadow-[inset_0_0_0_1px_#121212]",
@@ -24,7 +25,7 @@ export function ButtonLink({
   arrow?: boolean;
 }) {
   const showArrow = arrow ?? !small;
-  const solid = variant === "dark" || variant === "light";
+  const solid = variant === "primary" || variant === "light";
   return (
     <Link
       href={href}
@@ -33,7 +34,7 @@ export function ButtonLink({
       {children}
       {showArrow ? (
         <span
-          className={`${small ? "size-[30px]" : "size-9"} grid place-items-center rounded-[7px] transition-[padding] duration-250 group-hover:pl-1 ${solid ? (variant === "dark" ? "bg-paper text-ink" : "bg-ink text-paper") : ""}`}
+          className={`${small ? "size-[30px]" : "size-9"} grid place-items-center rounded-[7px] transition-[padding] duration-250 group-hover:pl-1 ${solid ? (variant === "primary" ? "bg-white text-brand" : "bg-brand text-white") : ""}`}
         >
           <Icon path="M5 12h14m-5-5 5 5-5 5" />
         </span>

@@ -12,7 +12,7 @@ export function PartnershipsPage() {
         title={partnerships.title}
         description={partnerships.description}
       >
-        <ButtonLink href={partnerships.action.href} variant="dark">
+        <ButtonLink href={partnerships.action.href} variant="primary">
           {partnerships.action.label}
         </ButtonLink>
       </PageHeader>

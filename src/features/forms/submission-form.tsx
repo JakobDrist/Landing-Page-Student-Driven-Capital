@@ -50,7 +50,7 @@ export function SubmissionForm({
           role="status"
           className="animate-menu-rise rounded-2xl border border-line bg-canvas px-7 py-12 sm:p-12"
         >
-          <div className="mb-8 grid size-20 place-items-center rounded-full bg-ink text-paper">
+          <div className="mb-8 grid size-20 place-items-center rounded-full bg-brand text-white">
             <svg
               aria-hidden="true"
               viewBox="0 0 48 48"

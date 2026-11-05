@@ -16,7 +16,7 @@ export function ArticleCard({
       className={`relative aspect-[3/2] overflow-hidden rounded-[14px] bg-[#dcdcd8] ${featured ? "md:aspect-[4/3]" : ""}`}
     >
       {article.coverLabel ? (
-        <div className="absolute inset-0 isolate flex flex-col justify-between bg-[#1c1c1e] p-8 text-paper">
+        <div className="absolute inset-0 isolate flex flex-col justify-between bg-navy p-8 text-paper">
           <Glow />
           <Grain />
           <p className="text-[13px] text-paper/60">{article.category}</p>

@@ -76,7 +76,7 @@ export function SiteHeader({
       onFocusCapture={() => {
         if (ref.current) ref.current.dataset.hidden = "false";
       }}
-      className={`group fixed inset-x-0 top-0 z-50 transition-[transform,background-color,box-shadow,color] duration-500 ease-[cubic-bezier(.16,1,.3,1)] data-[hidden=true]:-translate-y-full data-[scrolled=true]:bg-paper data-[scrolled=true]:text-ink data-[scrolled=true]:shadow-[0_1px_0_#12121214] ${open ? "bg-[#1c1c1e] text-[#f3f3f1] data-[scrolled=true]:bg-[#1c1c1e] data-[scrolled=true]:text-[#f3f3f1]" : home ? "bg-transparent text-[#f3f3f1]" : "bg-paper text-ink"}`}
+      className={`group fixed inset-x-0 top-0 z-50 transition-[transform,background-color,box-shadow,color] duration-500 ease-[cubic-bezier(.16,1,.3,1)] data-[hidden=true]:-translate-y-full data-[scrolled=true]:bg-paper data-[scrolled=true]:text-ink data-[scrolled=true]:shadow-[0_1px_0_#12121214] ${open ? "bg-navy text-[#f3f3f1] data-[scrolled=true]:bg-navy data-[scrolled=true]:text-[#f3f3f1]" : home ? "bg-transparent text-[#f3f3f1]" : "bg-paper text-ink"}`}
     >
       <Container className="flex h-18 items-center justify-between gap-8">
         <Link
@@ -110,7 +110,7 @@ export function SiteHeader({
           <div className="hidden md:block">
             <ButtonLink
               href="/membership"
-              variant={home || open ? "light" : "dark"}
+              variant={home || open ? "light" : "primary"}
             >
               Bliv en del af DSD Invest
             </ButtonLink>

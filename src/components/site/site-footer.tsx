@@ -6,18 +6,18 @@ import { DemoForm } from "@/features/forms/demo-form";
 import { Icon } from "@/components/ui/icon";
 export function SiteFooter() {
   return (
-    <footer className="bg-[#0d0d0e] text-[#f3f3f1]">
+    <footer className="bg-navy text-[#f3f3f1]">
       <Container>
         <div className="flex flex-col gap-10 pt-20 pb-16 md:pt-25 lg:flex-row xl:pt-28">
           <div className="lg:flex-[1] lg:pr-12">
             <h2 className="text-[20px] leading-[1.35] tracking-[-0.02em]">
               {site.newsletter.title}
             </h2>
-            <p className="mt-2 max-w-[360px] text-[15px] leading-6 tracking-[-0.01em] text-[#9a9a97]">
+            <p className="mt-2 max-w-[360px] text-[15px] leading-6 tracking-[-0.01em] text-navy-muted">
               {site.newsletter.description}
             </p>
             <DemoForm
-              className="mt-6 flex max-w-[360px] items-center border-b border-[#3a3a3d]"
+              className="mt-6 flex max-w-[360px] items-center border-b border-navy-line"
               label="Nyhedsbrev"
             >
               <input
@@ -26,7 +26,7 @@ export function SiteFooter() {
                 required
                 aria-label="E-mailadresse"
                 placeholder={site.newsletter.placeholder}
-                className="h-11 min-w-0 flex-1 border-0 bg-transparent text-[15px] outline-none placeholder:text-[#9a9a97]"
+                className="h-11 min-w-0 flex-1 border-0 bg-transparent text-[15px] outline-none placeholder:text-navy-muted"
               />
               <button
                 type="submit"
@@ -46,7 +46,7 @@ export function SiteFooter() {
           >
             {site.footerGroups.map((group) => (
               <div key={group.title}>
-                <h3 className="mb-4 text-[13px] leading-[1.35] text-[#9a9a97]">
+                <h3 className="mb-4 text-[13px] leading-[1.35] text-navy-muted">
                   {group.title}
                 </h3>
                 <ul className="space-y-2">
@@ -65,12 +65,12 @@ export function SiteFooter() {
             ))}
           </nav>
         </div>
-        <div className="grid grid-cols-1 gap-8 border-t border-[#2b2b2b] pt-10 pb-14 md:grid-cols-3">
+        <div className="grid grid-cols-1 gap-8 border-t border-navy-line pt-10 pb-14 md:grid-cols-3">
           {site.highlights.map((highlight) => (
             <div key={highlight.title} className="text-[13px] leading-5.5">
               <p className="mb-2 text-[#f3f3f1]">{highlight.title}</p>
               {highlight.lines.map((line) => (
-                <p key={line} className="text-[#9a9a97]">
+                <p key={line} className="text-navy-muted">
                   {line}
                 </p>
               ))}
@@ -89,7 +89,7 @@ export function SiteFooter() {
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label={social.label}
-                className="text-[15px] text-[#9a9a97] hover:text-white"
+                className="text-[15px] text-navy-muted hover:text-white"
               >
                 <Icon
                   path={
@@ -102,7 +102,7 @@ export function SiteFooter() {
             ))}
           </div>
         </div>
-        <div className="flex flex-col justify-between gap-8 pt-8 pb-10 text-[12px] leading-[1.5] text-[#9a9a97] lg:flex-row">
+        <div className="flex flex-col justify-between gap-8 pt-8 pb-10 text-[12px] leading-[1.5] text-navy-muted lg:flex-row">
           <div>
             <p>{site.copyright}</p>
             <div className="mt-3 flex flex-wrap gap-4">

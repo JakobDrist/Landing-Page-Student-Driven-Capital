@@ -15,7 +15,7 @@ export function SectorsSection() {
         <InvestmentFramework />
       </div>
       <div className="mt-12 text-center md:mt-16">
-        <ButtonLink href={home.sectors.action.href} variant="dark">
+        <ButtonLink href={home.sectors.action.href} variant="primary">
           {home.sectors.action.label}
         </ButtonLink>
       </div>
