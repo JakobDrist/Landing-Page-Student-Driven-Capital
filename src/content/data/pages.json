@@ -897,14 +897,14 @@
     }
   ],
   "legal/privacy": {
-    "title": "Privacy",
-    "updated": "Last updated 1 September 2026",
+    "title": "Privatlivspolitik",
+    "updated": "Senest opdateret 5. november 2026",
     "body": [
       {
         "kind": "paragraph",
         "runs": [
           {
-            "text": "This page is a starting point for a real privacy notice. Replace it with your own, reviewed by counsel in the places you operate."
+            "text": "Denne privatlivspolitik forklarer, hvilke personoplysninger DSD Invest indsamler via hjemmesiden, hvorfor vi gør det, hvor længe vi gemmer dem, og hvilke rettigheder du har."
           }
         ]
       },
@@ -912,7 +912,7 @@
         "kind": "heading",
         "runs": [
           {
-            "text": "Who we are"
+            "text": "Dataansvarlig"
           }
         ]
       },
@@ -920,7 +920,7 @@
         "kind": "paragraph",
         "runs": [
           {
-            "text": "DSD Invest (“we”) runs this website and is the controller of the personal information described here. You can reach us about privacy at privacy@example.com."
+            "text": "DSD Invest er en studenterdrevet forening under opbygning og har endnu ikke et CVR-nummer. Foreningen er dataansvarlig for de oplysninger, der beskrives her. Har du spørgsmål om dine personoplysninger, kan du skrive til noahlillebaek@hotmail.com."
           }
         ]
       },
@@ -928,7 +928,15 @@
         "kind": "heading",
         "runs": [
           {
-            "text": "What we collect"
+            "text": "Hvilke oplysninger vi indsamler"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Vi indsamler kun de oplysninger, du selv giver os, når du udfylder en af formularerne på siden:"
           }
         ]
       },
@@ -938,13 +946,46 @@
         "items": [
           [
             {
-              "text": "Pitches.",
+              "text": "Ventelisten til medlemskab.",
               "bold": true
             },
             {
-              "text": " When you send a pitch, we keep your name, email, company details and anything you choose to tell us about your business, including any link to a deck."
+              "text": " Navn, e-mailadresse, universitet og studieretning samt – hvis du vælger at udfylde dem – dit interesseområde og en kort tekst om dine interesser."
+            }
+          ],
+          [
+            {
+              "text": "Partnerskabshenvendelser.",
+              "bold": true
+            },
+            {
+              "text": " Organisation, navn, e-mailadresse, det område I er interesserede i, og jeres besked."
             }
           ]
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Skriv venligst ikke følsomme oplysninger, fx om helbred, politisk eller religiøs overbevisning, i fritekstfelterne. Vi har ikke brug for dem."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Hjemmesiden bruger ikke cookies til statistik eller markedsføring, og vi sporer ikke dine besøg."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Hvad vi bruger oplysningerne til"
+          }
         ]
       },
       {
@@ -953,13 +994,38 @@
         "items": [
           [
             {
-              "text": "Messages.",
+              "text": "Venteliste:",
               "bold": true
             },
             {
-              "text": " When you use the contact form or write to one of our inboxes, we keep your message and the details you include with it."
+              "text": " Til at kontakte dig om optaget i DSD Invest, når det åbner, og til at vurdere hvilke faglige områder, der er interesse for."
+            }
+          ],
+          [
+            {
+              "text": "Partnerskaber:",
+              "bold": true
+            },
+            {
+              "text": " Til at besvare jeres henvendelse og drøfte et muligt samarbejde."
             }
           ]
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Vi sælger ikke dine oplysninger, bruger dem ikke til reklame og deler dem ikke med andre end de databehandlere, der er nævnt nedenfor. Vi træffer ingen automatiske afgørelser om dig."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Retsgrundlag"
+          }
         ]
       },
       {
@@ -968,13 +1034,54 @@
         "items": [
           [
             {
-              "text": "Newsletter.",
+              "text": "Venteliste:",
               "bold": true
             },
             {
-              "text": " If you subscribe to our letters, we keep your email address until you unsubscribe."
+              "text": " Behandlingen er nødvendig for at gennemføre de skridt, du selv har bedt om forud for et eventuelt medlemskab (databeskyttelsesforordningens artikel 6, stk. 1, litra b)."
+            }
+          ],
+          [
+            {
+              "text": "Partnerskaber:",
+              "bold": true
+            },
+            {
+              "text": " Vores legitime interesse i at besvare og følge op på henvendelser fra organisationer, der kontakter os (artikel 6, stk. 1, litra f)."
             }
           ]
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Hvor oplysningerne opbevares"
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Oplysningerne fra formularerne gemmes i en database hos Supabase, som er vores databehandler. Databasen ligger på servere i EU. Kun DSD Invests ansvarlige for optag og partnerskaber har adgang til oplysningerne."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Hjemmesiden hostes af Vercel. Som en del af driften registrerer Vercel tekniske oplysninger som IP-adresse og hvilke sider, der bliver hentet, for at holde siden sikker og stabil. Hvis oplysninger overføres til lande uden for EU/EØS, sker det på grundlag af de garantier, databeskyttelsesreglerne kræver, fx EU-Kommissionens standardkontraktbestemmelser."
+          }
+        ]
+      },
+      {
+        "kind": "heading",
+        "runs": [
+          {
+            "text": "Hvor længe vi gemmer oplysningerne"
+          }
         ]
       },
       {
@@ -983,28 +1090,29 @@
         "items": [
           [
             {
-              "text": "Usage.",
+              "text": "Venteliste:",
               "bold": true
             },
             {
-              "text": " Our hosting provider records standard server logs, such as IP addresses and the pages requested, to keep the site secure and working."
+              "text": " Indtil det optag, du har skrevet dig op til, er afsluttet, og derefter i højst 12 måneder."
+            }
+          ],
+          [
+            {
+              "text": "Partnerskabshenvendelser:",
+              "bold": true
+            },
+            {
+              "text": " Højst 12 måneder efter vores seneste kontakt med jer, medmindre der indgås et samarbejde."
             }
           ]
         ]
       },
       {
-        "kind": "heading",
-        "runs": [
-          {
-            "text": "How we use it"
-          }
-        ]
-      },
-      {
         "kind": "paragraph",
         "runs": [
           {
-            "text": "We use pitches to decide whether to invest and to reply to you. We use messages to answer them, and newsletter addresses only to send the letters you asked for. We do not sell personal information, and we do not use it for advertising."
+            "text": "Du kan til enhver tid bede os om at slette dine oplysninger tidligere."
           }
         ]
       },
@@ -1012,7 +1120,7 @@
         "kind": "heading",
         "runs": [
           {
-            "text": "How long we keep it"
+            "text": "Dine rettigheder"
           }
         ]
       },
@@ -1020,7 +1128,51 @@
         "kind": "paragraph",
         "runs": [
           {
-            "text": "We keep pitches for up to three years, so we can follow a company’s progress, unless you ask us to delete yours sooner. Messages are kept for as long as the conversation needs, and newsletter addresses until you unsubscribe."
+            "text": "Du har efter databeskyttelsesreglerne ret til at:"
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "ordered": false,
+        "items": [
+          [
+            {
+              "text": "få indsigt i de oplysninger, vi har om dig"
+            }
+          ],
+          [
+            {
+              "text": "få urigtige oplysninger rettet"
+            }
+          ],
+          [
+            {
+              "text": "få dine oplysninger slettet"
+            }
+          ],
+          [
+            {
+              "text": "få behandlingen begrænset"
+            }
+          ],
+          [
+            {
+              "text": "gøre indsigelse mod behandlingen, når den sker på grundlag af legitim interesse"
+            }
+          ],
+          [
+            {
+              "text": "få udleveret dine oplysninger i et almindeligt, maskinlæsbart format (dataportabilitet)"
+            }
+          ]
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Skriv til noahlillebaek@hotmail.com, hvis du vil gøre brug af dine rettigheder. Vi svarer hurtigst muligt og senest inden for en måned."
           }
         ]
       },
@@ -1028,7 +1180,7 @@
         "kind": "heading",
         "runs": [
           {
-            "text": "Your rights"
+            "text": "Klage"
           }
         ]
       },
@@ -1036,7 +1188,7 @@
         "kind": "paragraph",
         "runs": [
           {
-            "text": "Depending on where you live, you may ask to see, correct or delete the information we hold about you, or object to how we use it. Write to privacy@example.com and we will reply within a month."
+            "text": "Er du utilfreds med, hvordan vi behandler dine oplysninger, kan du klage til Datatilsynet, Carl Jacobsens Vej 35, 2500 Valby, dt@datatilsynet.dk, www.datatilsynet.dk. Vi vil dog gerne have mulighed for at løse sagen med dig først."
           }
         ]
       },
@@ -1044,7 +1196,7 @@
         "kind": "heading",
         "runs": [
           {
-            "text": "Changes"
+            "text": "Ændringer"
           }
         ]
       },
@@ -1052,7 +1204,7 @@
         "kind": "paragraph",
         "runs": [
           {
-            "text": "We will post any changes to this notice on this page, with the date above."
+            "text": "Vi opdaterer denne privatlivspolitik, hvis vi ændrer, hvordan vi behandler personoplysninger. Den seneste version ligger altid på denne side."
           }
         ]
       }

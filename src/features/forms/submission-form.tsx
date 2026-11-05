@@ -1,4 +1,5 @@
 "use client";
+import Link from "next/link";
 import { useRef, useState, type FormEvent, type ReactNode } from "react";
 
 export function SubmissionForm({
@@ -90,7 +91,14 @@ export function SubmissionForm({
           </fieldset>
           <p className="text-sm leading-6 text-muted">
             Vi gemmer oplysningerne for at behandle din henvendelse og kontakte
-            dig om den.
+            dig om den. Læs mere i vores{" "}
+            <Link
+              href="/legal/privacy"
+              className="underline underline-offset-4 hover:text-ink"
+            >
+              privatlivspolitik
+            </Link>
+            .
           </p>
           {state === "pending" && (
             <p role="status" className="text-muted">

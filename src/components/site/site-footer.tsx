@@ -64,7 +64,16 @@ export function SiteFooter() {
             ))}
           </nav>
         </div>
-        <div className="flex justify-end border-t border-navy-line pt-8 pb-10">
+        <div className="flex items-center justify-between gap-6 border-t border-navy-line pt-8 pb-10">
+          <ul className="flex flex-wrap gap-5 text-[13px] text-navy-muted">
+            {site.legalLinks.map((link) => (
+              <li key={link.href}>
+                <Link href={link.href} className="hover:text-white">
+                  {link.label}
+                </Link>
+              </li>
+            ))}
+          </ul>
           <div className="flex gap-5">
             {site.socials.map((social) => (
               <a
